@@ -79,10 +79,10 @@ What each round grades, its AI policy and how to prep: [Anthropic interview proc
 | [Tokenize text by greedy longest dictionary match](https://landthelab.com/questions/tokenize-text-by-greedy-longest-dictionary-match) | Coding | Medium | Jun 2026 |
 | [Fix a function-cache key function, then make it durable](https://landthelab.com/questions/fix-a-function-cache-key-function-then-make-it-durable) | Coding | High | Jun 2026 |
 | [Weighted data batcher with deterministic resume](https://landthelab.com/questions/weighted-data-batcher-with-deterministic-resume) | Coding | Medium | May 2026 |
-| [Thread-safe task queue on a linked list](https://landthelab.com/questions/thread-safe-task-queue-on-a-linked-list) | Coding | Medium | Feb 2026 |
 | [Kernel-optimization take-home scored by speedup](https://landthelab.com/questions/kernel-optimization-take-home-scored-by-speedup) | Coding | Low | Dec 2025 |
 | [Group prompts into templates under concurrent ingestion](https://landthelab.com/questions/group-prompts-into-templates-under-concurrent-ingestion) | Coding |  |  |
 | [Minimum workers with first-free job assignment](https://landthelab.com/questions/minimum-workers-with-first-free-job-assignment) | Coding |  |  |
+| [Thread-safe task queue on a linked list](https://landthelab.com/questions/thread-safe-task-queue-on-a-linked-list) | Coding |  |  |
 
 ### System design
 

@@ -49,16 +49,14 @@ What each round grades, its AI policy and how to prep: [Stripe interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [Financial account ledger with acceptance, limits and settlement](https://landthelab.com/questions/financial-account-ledger-with-acceptance-limits-and-settlement) | Coding | Single report | Oct 2026 |
-| [Rebuild a task tree from parent-child records and print it](https://landthelab.com/questions/rebuild-a-task-tree-from-parent-child-records-and-print-it) | Coding | Low | Oct 2026 |
 | [Split-tender payments with gift cards, surcharges and refunds](https://landthelab.com/questions/split-tender-payments-with-gift-cards-surcharges-and-refunds) | Coding | Single report | Oct 2026 |
 | [Merchant onboarding CSV validator](https://landthelab.com/questions/merchant-onboarding-csv-validator) | Coding | Medium | Oct 2026 |
-| [Alert trigger and resolve events from merchant error logs](https://landthelab.com/questions/alert-trigger-and-resolve-events-from-merchant-error-logs) | Coding | Single report | Oct 2026 |
-| [Design an idempotent double-entry ledger service](https://landthelab.com/questions/design-an-idempotent-double-entry-ledger-service) | System design | Medium | Sep 2026 |
-| [Reconcile bank account balances across two datasets](https://landthelab.com/questions/reconcile-bank-account-balances-across-two-datasets) | Coding | Low | Sep 2026 |
+| [Rebuild a task tree from parent-child records and print it](https://landthelab.com/questions/rebuild-a-task-tree-from-parent-child-records-and-print-it) | Coding | Low | Sep 2026 |
+| [Financial account ledger with acceptance, limits and settlement](https://landthelab.com/questions/financial-account-ledger-with-acceptance-limits-and-settlement) | Coding | Single report | Sep 2026 |
 | [Select fields and filter rows from structured records](https://landthelab.com/questions/select-fields-and-filter-rows-from-structured-records) | Coding | Low | Sep 2026 |
+| [Reconcile bank account balances across two datasets](https://landthelab.com/questions/reconcile-bank-account-balances-across-two-datasets) | Coding | Low | Aug 2026 |
+| [Design an idempotent double-entry ledger service](https://landthelab.com/questions/design-an-idempotent-double-entry-ledger-service) | System design | Medium | Aug 2026 |
 | [Group merchant records that share contact details](https://landthelab.com/questions/group-merchant-records-that-share-contact-details) | Coding | Single report | Jul 2026 |
-| [Free 30-minute time slots](https://landthelab.com/questions/free-30-minute-time-slots) | Coding | Single report | Apr 2026 |
 | [Multitask regression with targets on different scales](https://landthelab.com/questions/multitask-regression-with-targets-on-different-scales) | AI/ML design | Single report | Apr 2026 |
 | [Factory network cost with stage-to-stage transport](https://landthelab.com/questions/factory-network-cost-with-stage-to-stage-transport) | Coding | Single report | Apr 2026 |
 | [Transaction fees from a CSV of payments](https://landthelab.com/questions/transaction-fees-from-a-csv-of-payments) | Coding | Medium | Apr 2026 |
@@ -68,6 +66,8 @@ What each round grades, its AI policy and how to prep: [Stripe interview process
 | [Card authorization report with fraud rules](https://landthelab.com/questions/card-authorization-report-with-fraud-rules) | Coding | Low | Jan 2026 |
 | [Shipping cost with tiered pricing](https://landthelab.com/questions/shipping-cost-with-tiered-pricing) | Coding | Low | Jan 2026 |
 | [Validate fixed-field records from a message file](https://landthelab.com/questions/validate-fixed-field-records-from-a-message-file) | Coding | Single report | Jan 2026 |
+| [Alert trigger and resolve events from merchant error logs](https://landthelab.com/questions/alert-trigger-and-resolve-events-from-merchant-error-logs) | Coding | Single report | Jan 2026 |
+| [Free 30-minute time slots](https://landthelab.com/questions/free-30-minute-time-slots) | Coding | Single report | Jan 2026 |
 | [Resolve user roles across an account hierarchy](https://landthelab.com/questions/resolve-user-roles-across-an-account-hierarchy) | Coding | Single report | Jan 2026 |
 | [Account scheduler with locking and LRU selection](https://landthelab.com/questions/account-scheduler-with-locking-and-lru-selection) | Coding | Single report | Dec 2025 |
 | [Link similar user records by weighted field matches](https://landthelab.com/questions/link-similar-user-records-by-weighted-field-matches) | Coding | Single report | Dec 2025 |
@@ -77,11 +77,11 @@ What each round grades, its AI policy and how to prep: [Stripe interview process
 | Question | Type | How often | Last asked |
 |---|---|---|---|
 | [Fix planted bugs in an open-source library from its failing tests](https://landthelab.com/questions/fix-planted-bugs-in-an-open-source-library-from-its-failing-tests) | Coding | High | Oct 2026 |
-| [Deployment windows in a recurring week](https://landthelab.com/questions/deployment-windows-in-a-recurring-week) | Coding | Medium | Oct 2026 |
 | [Build a transaction rule engine with an AI assistant](https://landthelab.com/questions/build-a-transaction-rule-engine-with-an-ai-assistant) | Coding | Very high | Oct 2026 |
 | [Draw routes on map images fetched from an HTTP API](https://landthelab.com/questions/draw-routes-on-map-images-fetched-from-an-http-api) | Coding | Very high | Sep 2026 |
 | [Match payments to invoices by memo and amount](https://landthelab.com/questions/match-payments-to-invoices-by-memo-and-amount) | Coding | High | Sep 2026 |
 | [Parse boolean rule expressions into a syntax tree](https://landthelab.com/questions/parse-boolean-rule-expressions-into-a-syntax-tree) | Coding | Medium | Sep 2026 |
+| [Deployment windows in a recurring week](https://landthelab.com/questions/deployment-windows-in-a-recurring-week) | Coding | Medium | Sep 2026 |
 | [Hotel stay email schedule with booking changes](https://landthelab.com/questions/hotel-stay-email-schedule-with-booking-changes) | Coding | High | Sep 2026 |
 | [Fraud rules that can be added, replaced and removed](https://landthelab.com/questions/fraud-rules-that-can-be-added-replaced-and-removed) | Coding | Low | Sep 2026 |
 | [Build a React interface against an undocumented API](https://landthelab.com/questions/build-a-react-interface-against-an-undocumented-api) | Coding | Single report | Jun 2026 |

@@ -43,25 +43,25 @@ What each round grades, its AI policy and how to prep: [Databricks interview pro
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [Durable event log writer shared by thousands of threads](https://landthelab.com/questions/durable-event-log-writer-shared-by-thousands-of-threads) | Coding | High | Oct 2026 |
 | [Generalized tic-tac-toe with k in a row](https://landthelab.com/questions/generalized-tic-tac-toe-with-k-in-a-row) | Coding | High | Sep 2026 |
 | [Customer revenue with referral credit and bottom-k query](https://landthelab.com/questions/customer-revenue-with-referral-credit-and-bottom-k-query) | Coding | Medium | Sep 2026 |
-| [Key-value store that reports its recent request rate](https://landthelab.com/questions/key-value-store-that-reports-its-recent-request-rate) | Coding | High | Sep 2026 |
 | [Minimum-cost encryption of a directory tree](https://landthelab.com/questions/minimum-cost-encryption-of-a-directory-tree) | Coding | Medium | Sep 2026 |
-| [First position of any anagram of a pattern in a string](https://landthelab.com/questions/first-position-of-any-anagram-of-a-pattern-in-a-string) | Coding | Low | Sep 2026 |
-| [Linear regression with hand-written gradient descent](https://landthelab.com/questions/linear-regression-with-hand-written-gradient-descent) | Coding | Low | Sep 2026 |
-| [Rewrite a SQL query plan tree](https://landthelab.com/questions/rewrite-a-sql-query-plan-tree) | Coding | Single report | Sep 2026 |
 | [Fastest single-mode commute on a city grid](https://landthelab.com/questions/fastest-single-mode-commute-on-a-city-grid) | Coding | High | Aug 2026 |
 | [Primary and secondary circuit breakers with failover](https://landthelab.com/questions/primary-and-secondary-circuit-breakers-with-failover) | Coding | Single report | Aug 2026 |
+| [First position of any anagram of a pattern in a string](https://landthelab.com/questions/first-position-of-any-anagram-of-a-pattern-in-a-string) | Coding | Low | Aug 2026 |
+| [Durable event log writer shared by thousands of threads](https://landthelab.com/questions/durable-event-log-writer-shared-by-thousands-of-threads) | Coding | High | Aug 2026 |
 | [Hybrid run-length and bit-packing codec](https://landthelab.com/questions/hybrid-run-length-and-bit-packing-codec) | Coding | Medium | Aug 2026 |
 | [Remove one point from a cover of integer intervals](https://landthelab.com/questions/remove-one-point-from-a-cover-of-integer-intervals) | Coding | Low | Aug 2026 |
 | [Ordered IP firewall with CIDR rules](https://landthelab.com/questions/ordered-ip-firewall-with-cidr-rules) | Coding | High | Aug 2026 |
+| [Key-value store that reports its recent request rate](https://landthelab.com/questions/key-value-store-that-reports-its-recent-request-rate) | Coding | High | Aug 2026 |
 | [Thread-safe key-value store with atomic batch writes](https://landthelab.com/questions/thread-safe-key-value-store-with-atomic-batch-writes) | OO design | Low | Jul 2026 |
 | [Blocking cache where reads wait for a missing key](https://landthelab.com/questions/blocking-cache-where-reads-wait-for-a-missing-key) | Coding | Single report | Jul 2026 |
 | [Path between two nodes of an implicit Fibonacci tree](https://landthelab.com/questions/path-between-two-nodes-of-an-implicit-fibonacci-tree) | Coding | Medium | Jul 2026 |
 | [Build a target string from the fewest substrings of a source](https://landthelab.com/questions/build-a-target-string-from-the-fewest-substrings-of-a-source) | Coding | Single report | May 2026 |
+| [Linear regression with hand-written gradient descent](https://landthelab.com/questions/linear-regression-with-hand-written-gradient-descent) | Coding | Low | Apr 2026 |
 | [Lazy array with deferred map and indexOf](https://landthelab.com/questions/lazy-array-with-deferred-map-and-indexof) | Coding | Medium | Apr 2026 |
 | [Autocomplete data fetching with debounce, retry and caching](https://landthelab.com/questions/autocomplete-data-fetching-with-debounce-retry-and-caching) | Coding | Single report | Apr 2026 |
+| [Rewrite a SQL query plan tree](https://landthelab.com/questions/rewrite-a-sql-query-plan-tree) | Coding | Single report | Jan 2026 |
 | [IP range to CIDR blocks](https://landthelab.com/questions/ip-range-to-cidr-blocks) | Coding | Single report | Jan 2026 |
 | [Largest all-ones square and rectangle in a binary matrix](https://landthelab.com/questions/largest-all-ones-square-and-rectangle-in-a-binary-matrix) | Coding | Single report | Nov 2025 |
 | [Maximum sum of non-adjacent houses, on a line, a circle and a tree](https://landthelab.com/questions/maximum-sum-of-non-adjacent-houses-on-a-line-a-circle-and-a-tree) | Coding | Single report | Nov 2025 |
@@ -73,14 +73,14 @@ What each round grades, its AI policy and how to prep: [Databricks interview pro
 | [Design an online bookstore](https://landthelab.com/questions/design-an-online-bookstore) | System design | Medium | Oct 2026 |
 | [Design a Slack-like chat system](https://landthelab.com/questions/design-a-slack-like-chat-system) | System design | Medium | Sep 2026 |
 | [Design typeahead search suggestions ranked by popularity](https://landthelab.com/questions/design-typeahead-search-suggestions-ranked-by-popularity) | System design | Single report | Sep 2026 |
-| [Design a single-node in-memory cache with a write-ahead log](https://landthelab.com/questions/design-a-single-node-in-memory-cache-with-a-write-ahead-log) | System design | Medium | Sep 2026 |
 | [Retrieve tables and notebooks for a data-aware coding agent](https://landthelab.com/questions/retrieve-tables-and-notebooks-for-a-data-aware-coding-agent) | System design | Low | Sep 2026 |
-| [Design the metadata service of a strongly consistent distributed file system](https://landthelab.com/questions/design-the-metadata-service-of-a-strongly-consistent-distributed-file-system) | System design | Single report | Sep 2026 |
 | [Design retrieval for a coding agent over a code base](https://landthelab.com/questions/design-retrieval-for-a-coding-agent-over-a-code-base) | System design | Single report | Sep 2026 |
 | [Design a book price aggregator](https://landthelab.com/questions/design-a-book-price-aggregator) | System design | High | Aug 2026 |
 | [Design a harmful content detection system](https://landthelab.com/questions/design-a-harmful-content-detection-system) | AI/ML design | Low | Aug 2026 |
 | [Design an LLM content safety service](https://landthelab.com/questions/design-an-llm-content-safety-service) | System design | Single report | Aug 2026 |
 | [Design a collaboratively edited playlist](https://landthelab.com/questions/design-a-collaboratively-edited-playlist) | System design | Low | Jul 2026 |
+| [Design a single-node in-memory cache with a write-ahead log](https://landthelab.com/questions/design-a-single-node-in-memory-cache-with-a-write-ahead-log) | System design | Medium | Jul 2026 |
+| [Design the metadata service of a strongly consistent distributed file system](https://landthelab.com/questions/design-the-metadata-service-of-a-strongly-consistent-distributed-file-system) | System design | Single report | May 2026 |
 | [Design an order relay service in front of a broker API](https://landthelab.com/questions/design-an-order-relay-service-in-front-of-a-broker-api) | System design | Single report | Apr 2026 |
 | [Design a distributed job scheduler](https://landthelab.com/questions/design-a-distributed-job-scheduler) | System design | Single report | Apr 2026 |
 | [Design CRUD APIs backed by asynchronous jobs](https://landthelab.com/questions/design-crud-apis-backed-by-asynchronous-jobs) | System design | Single report | Jan 2026 |

@@ -67,7 +67,7 @@ Each question links to its page on **[Land the Lab](https://landthelab.com)**, w
 | Company | Questions | Rounds in the loop | Last reported |
 |---|---|---|---|
 | [Waymo](companies/waymo.md) | 68 | 7 | Oct 2026 |
-| [Applied Intuition](companies/applied-intuition.md) | 28 | 7 | Nov 2026 |
+| [Applied Intuition](companies/applied-intuition.md) | 28 | 7 | Oct 2026 |
 | [Nuro](companies/nuro.md) | 27 | 5 | Oct 2026 |
 | [Physical Intelligence](companies/physical-intelligence.md) | 2 | 3 | Sep 2026 |
 

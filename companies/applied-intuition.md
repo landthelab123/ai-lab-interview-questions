@@ -1,6 +1,6 @@
 # Applied Intuition interview questions and loop (2026)
 
-28 engineering interview questions candidates report from Applied Intuition, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[Applied Intuition on Land the Lab](https://landthelab.com/companies/applied-intuition)**.
+28 engineering interview questions candidates report from Applied Intuition, most recently in Oct 2026. Worked answers, a rubric per level and a prep plan: **[Applied Intuition on Land the Lab](https://landthelab.com/companies/applied-intuition)**.
 
 ## The loop
 
@@ -58,20 +58,20 @@ What each round grades, its AI policy and how to prep: [Applied Intuition interv
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [Locate vehicles with a square-region query API](https://landthelab.com/questions/locate-vehicles-with-a-square-region-query-api) | Coding | Low | Nov 2026 |
-| [Game of Life on a grid too big for memory](https://landthelab.com/questions/game-of-life-on-a-grid-too-big-for-memory) | Coding | Low | Oct 2026 |
-| [Evaluate variable definitions with forward references and cycles](https://landthelab.com/questions/evaluate-variable-definitions-with-forward-references-and-cycles) | Coding | High | Oct 2026 |
-| [Merge overlapping collinear segments in the plane](https://landthelab.com/questions/merge-overlapping-collinear-segments-in-the-plane) | Coding | Medium | Oct 2026 |
 | [Ingest MCAP driving logs and query them by timestamp](https://landthelab.com/questions/ingest-mcap-driving-logs-and-query-them-by-timestamp) | Coding | Single report | Oct 2026 |
 | [Build a driving-log replay viewer with an AI assistant](https://landthelab.com/questions/build-a-driving-log-replay-viewer-with-an-ai-assistant) | Coding | Low | Oct 2026 |
 | [Parse message definitions and compute their sizes](https://landthelab.com/questions/parse-message-definitions-and-compute-their-sizes) | Coding | Medium | Sep 2026 |
 | [Course schedule: finish every course and find an order](https://landthelab.com/questions/course-schedule-finish-every-course-and-find-an-order) | Coding | Low | Sep 2026 |
+| [Locate vehicles with a square-region query API](https://landthelab.com/questions/locate-vehicles-with-a-square-region-query-api) | Coding | Low | Sep 2026 |
 | [Fixed-capacity circular buffer with O(1) push and pop](https://landthelab.com/questions/fixed-capacity-circular-buffer-with-o-1-push-and-pop) | Coding | Low | Aug 2026 |
+| [Evaluate variable definitions with forward references and cycles](https://landthelab.com/questions/evaluate-variable-definitions-with-forward-references-and-cycles) | Coding | High | Aug 2026 |
 | [Step a set of moving vehicles until the first collision](https://landthelab.com/questions/step-a-set-of-moving-vehicles-until-the-first-collision) | Coding | Medium | Jun 2026 |
 | [Validate a parsed config against field descriptors](https://landthelab.com/questions/validate-a-parsed-config-against-field-descriptors) | Coding | Low | Apr 2026 |
+| [Merge overlapping collinear segments in the plane](https://landthelab.com/questions/merge-overlapping-collinear-segments-in-the-plane) | Coding | Medium | Feb 2026 |
 | [Single-threaded scheduler for one-shot, delayed and periodic tasks](https://landthelab.com/questions/single-threaded-scheduler-for-one-shot-delayed-and-periodic-tasks) | Coding | Medium | Feb 2026 |
 | [Deduplicate files by size then content hash](https://landthelab.com/questions/deduplicate-files-by-size-then-content-hash) | Coding | Medium | Feb 2026 |
 | [Intersection of two line segments](https://landthelab.com/questions/intersection-of-two-line-segments) | Coding | Single report | Feb 2026 |
+| [Game of Life on a grid too big for memory](https://landthelab.com/questions/game-of-life-on-a-grid-too-big-for-memory) | Coding | Low | Jan 2026 |
 
 ---
 

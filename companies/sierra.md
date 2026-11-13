@@ -46,7 +46,7 @@ What each round grades, its AI policy and how to prep: [Sierra interview process
 | Question | Type | How often | Last asked |
 |---|---|---|---|
 | [Design a resumable streaming voice reply for an AI chat](https://landthelab.com/questions/design-a-resumable-streaming-voice-reply-for-an-ai-chat) | System design | Low | Oct 2026 |
-| [Design a customer-service AI agent with tools and guardrails](https://landthelab.com/questions/design-a-customer-service-ai-agent-with-tools-and-guardrails) | System design |  | Aug 2026 |
+| [Design a customer-service AI agent with tools and guardrails](https://landthelab.com/questions/design-a-customer-service-ai-agent-with-tools-and-guardrails) | System design |  |  |
 
 ---
 

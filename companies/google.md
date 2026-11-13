@@ -42,9 +42,7 @@ What each round grades, its AI policy and how to prep: [Google interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [Sum of distances from every node in a tree](https://landthelab.com/questions/sum-of-distances-from-every-node-in-a-tree) | Coding | Single report | Oct 2026 |
 | [Longest duplicated substring in a string](https://landthelab.com/questions/longest-duplicated-substring-in-a-string) | Coding | Single report | Oct 2026 |
-| [Meeting rooms with delayed starts: the busiest room](https://landthelab.com/questions/meeting-rooms-with-delayed-starts-the-busiest-room) | Coding | Low | Oct 2026 |
 | [Disagreements with a coworker, another team and a mentee](https://landthelab.com/questions/disagreements-with-a-coworker-another-team-and-a-mentee) | Behavioral | Single report | Oct 2026 |
 | [Count perfect wake numbers: distinct nonzero digits, inner peaks](https://landthelab.com/questions/count-perfect-wake-numbers-distinct-nonzero-digits-inner-peaks) | Coding | Single report | Oct 2026 |
 | [Island at a given cell by BFS, then count the lakes inside it](https://landthelab.com/questions/island-at-a-given-cell-by-bfs-then-count-the-lakes-inside-it) | Coding | Single report | Oct 2026 |
@@ -121,11 +119,13 @@ What each round grades, its AI policy and how to prep: [Google interview process
 | [Decide whether two people in a family tree are related](https://landthelab.com/questions/decide-whether-two-people-in-a-family-tree-are-related) | Coding | Single report | Jan 2026 |
 | [Design a payment fraud detection system](https://landthelab.com/questions/design-a-payment-fraud-detection-system) | AI/ML design | Single report | Jan 2026 |
 | [Design a street-level imagery ingestion and storage system](https://landthelab.com/questions/design-a-street-level-imagery-ingestion-and-storage-system) | System design | Single report | Jan 2026 |
+| [Sum of distances from every node in a tree](https://landthelab.com/questions/sum-of-distances-from-every-node-in-a-tree) | Coding | Single report | Jan 2026 |
 | [Top-k and bottom-k words in a list and in a stream](https://landthelab.com/questions/top-k-and-bottom-k-words-in-a-list-and-in-a-stream) | Coding | Single report | Jan 2026 |
 | [Distance from every cell to the nearest taxi](https://landthelab.com/questions/distance-from-every-cell-to-the-nearest-taxi) | Coding | Low | Jan 2026 |
 | [Fast expensive tokens versus slow cheap tokens](https://landthelab.com/questions/fast-expensive-tokens-versus-slow-cheap-tokens) | System design | Single report | Jan 2026 |
 | [K largest subset sums](https://landthelab.com/questions/k-largest-subset-sums) | Coding | Single report | Jan 2026 |
 | [Lowest horizontal line that splits squares into equal areas](https://landthelab.com/questions/lowest-horizontal-line-that-splits-squares-into-equal-areas) | Coding | Low | Jan 2026 |
+| [Meeting rooms with delayed starts: the busiest room](https://landthelab.com/questions/meeting-rooms-with-delayed-starts-the-busiest-room) | Coding | Low | Jan 2026 |
 | [Range queries: is the subarray parity-alternating](https://landthelab.com/questions/range-queries-is-the-subarray-parity-alternating) | Coding | Low | Jan 2026 |
 | [Shortest subarray with at least k distinct values](https://landthelab.com/questions/shortest-subarray-with-at-least-k-distinct-values) | Coding | Low | Jan 2026 |
 | [Design a hit counter](https://landthelab.com/questions/design-a-hit-counter) | Coding | Single report | Jan 2026 |
@@ -160,7 +160,6 @@ What each round grades, its AI policy and how to prep: [Google interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [Leading a project through ambiguous requirements](https://landthelab.com/questions/leading-a-project-through-ambiguous-requirements) | Behavioral | Single report | Oct 2026 |
 | [Behavioral round on company values](https://landthelab.com/questions/behavioral-round-on-company-values) | Behavioral | Very high | Oct 2026 |
 | [A leader who shaped you and how you used the lesson](https://landthelab.com/questions/a-leader-who-shaped-you-and-how-you-used-the-lesson) | Behavioral | Low | Oct 2026 |
 | [How do you prioritize when you have too much work?](https://landthelab.com/questions/how-do-you-prioritize-when-you-have-too-much-work) | Behavioral | Low | Oct 2026 |
@@ -171,6 +170,7 @@ What each round grades, its AI policy and how to prep: [Google interview process
 | [Resolve a product disagreement and balance technical debt](https://landthelab.com/questions/resolve-a-product-disagreement-and-balance-technical-debt) | Behavioral | Single report | Aug 2026 |
 | [A failure, what it changed, and what you would do differently](https://landthelab.com/questions/a-failure-what-it-changed-and-what-you-would-do-differently) | Behavioral | Low | Aug 2026 |
 | [Working with a difficult colleague](https://landthelab.com/questions/working-with-a-difficult-colleague) | Behavioral | Low | Aug 2026 |
+| [Leading a project through ambiguous requirements](https://landthelab.com/questions/leading-a-project-through-ambiguous-requirements) | Behavioral | Single report | Aug 2026 |
 | [Responding to difficult feedback](https://landthelab.com/questions/responding-to-difficult-feedback) | Behavioral | Single report | Aug 2026 |
 | [Connect your research to the team's work](https://landthelab.com/questions/connect-your-research-to-the-team-s-work) | Behavioral | Single report | May 2026 |
 | [Why an experimental technology team?](https://landthelab.com/questions/why-an-experimental-technology-team) | Behavioral | Single report | Apr 2026 |
