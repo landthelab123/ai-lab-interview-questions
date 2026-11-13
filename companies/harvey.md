@@ -1,6 +1,6 @@
 # Harvey interview questions and loop (2026)
 
-23 engineering interview questions candidates report from Harvey, most recently in Sep 2026. Worked answers, a rubric per level and a prep plan: **[Harvey on Land the Lab](https://landthelab.com/companies/harvey)**.
+24 engineering interview questions candidates report from Harvey, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[Harvey on Land the Lab](https://landthelab.com/companies/harvey)**.
 
 ## The loop
 
@@ -38,12 +38,12 @@ What each round grades, its AI policy and how to prep: [Harvey interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [Mini spreadsheet with formulas and cycle detection](https://landthelab.com/questions/mini-spreadsheet-with-formulas-and-cycle-detection) | Coding | High | Sep 2026 |
-| [RAG notebook with retrieval and evaluation](https://landthelab.com/questions/rag-notebook-with-retrieval-and-evaluation) | Coding | Medium | Sep 2026 |
+| [In-memory file system with files and folders](https://landthelab.com/questions/in-memory-file-system-with-files-and-folders) | Coding | Medium | Nov 2026 |
+| [Mini spreadsheet with formulas and cycle detection](https://landthelab.com/questions/mini-spreadsheet-with-formulas-and-cycle-detection) | Coding | High | Oct 2026 |
+| [RAG notebook with retrieval and evaluation](https://landthelab.com/questions/rag-notebook-with-retrieval-and-evaluation) | Coding | Medium | Oct 2026 |
 | [Embedding retrieval with cosine similarity](https://landthelab.com/questions/embedding-retrieval-with-cosine-similarity) | Coding | Single report | Sep 2026 |
+| [Citation tagging over generated text](https://landthelab.com/questions/citation-tagging-over-generated-text) | Coding | Very high | Sep 2026 |
 | [Evaluate variable definitions with forward references and cycles](https://landthelab.com/questions/evaluate-variable-definitions-with-forward-references-and-cycles) | Coding | Low | Sep 2026 |
-| [In-memory file system with files and folders](https://landthelab.com/questions/in-memory-file-system-with-files-and-folders) | Coding | Medium | Aug 2026 |
-| [Citation tagging over generated text](https://landthelab.com/questions/citation-tagging-over-generated-text) | Coding | Very high | Aug 2026 |
 | [Thread-safe database connection pool with blocking acquire](https://landthelab.com/questions/thread-safe-database-connection-pool-with-blocking-acquire) | Coding | Single report | Apr 2026 |
 | [Live string editing with a mouse cursor](https://landthelab.com/questions/live-string-editing-with-a-mouse-cursor) | Coding | Single report | Apr 2026 |
 
@@ -51,19 +51,20 @@ What each round grades, its AI policy and how to prep: [Harvey interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Document store with drive sync and org ACLs](https://landthelab.com/questions/document-store-with-drive-sync-and-org-acls) | System design | High | Nov 2026 |
+| [Design a backend that asks one LLM question of 100,000 documents](https://landthelab.com/questions/design-a-backend-that-asks-one-llm-question-of-100-000-documents) | System design | Single report | Oct 2026 |
+| [Rule-driven file review agent](https://landthelab.com/questions/rule-driven-file-review-agent) | System design | Low | Oct 2026 |
 | [Design a RAG question-answering agent over a firm's documents](https://landthelab.com/questions/design-a-rag-question-answering-agent-over-a-firm-s-documents) | System design | Medium | Sep 2026 |
 | [Design a platform for long-horizon agent training environments](https://landthelab.com/questions/design-a-platform-for-long-horizon-agent-training-environments) | System design | Single report | Sep 2026 |
-| [Rule-driven file review agent](https://landthelab.com/questions/rule-driven-file-review-agent) | System design | Low | Sep 2026 |
 | [Critique a photo service sharded by the first letter of a name](https://landthelab.com/questions/critique-a-photo-service-sharded-by-the-first-letter-of-a-name) | System design | High | Sep 2026 |
 | [Design Facebook Messenger: real-time chat for a billion users](https://landthelab.com/questions/design-facebook-messenger-real-time-chat-for-a-billion-users) | System design | Single report | Sep 2026 |
-| [Document store with drive sync and org ACLs](https://landthelab.com/questions/document-store-with-drive-sync-and-org-acls) | System design | High | Jul 2026 |
 | [Design a multi-agent system that redlines a contract against a playbook](https://landthelab.com/questions/design-a-multi-agent-system-that-redlines-a-contract-against-a-playbook) | System design |  |  |
 
 ### Behavioral and leadership
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [Behavioral round on company values](https://landthelab.com/questions/behavioral-round-on-company-values) | Behavioral | High | Jul 2026 |
+| [Behavioral round on company values](https://landthelab.com/questions/behavioral-round-on-company-values) | Behavioral | High | Aug 2026 |
 
 ### Tech talk
 

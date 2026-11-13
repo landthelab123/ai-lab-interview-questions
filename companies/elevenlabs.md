@@ -1,6 +1,6 @@
 # ElevenLabs interview questions and loop (2026)
 
-7 engineering interview questions candidates report from ElevenLabs, most recently in Oct 2026. Worked answers, a rubric per level and a prep plan: **[ElevenLabs on Land the Lab](https://landthelab.com/companies/elevenlabs)**.
+9 engineering interview questions candidates report from ElevenLabs, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[ElevenLabs on Land the Lab](https://landthelab.com/companies/elevenlabs)**.
 
 ## The loop
 
@@ -30,6 +30,7 @@ What each round grades, its AI policy and how to prep: [ElevenLabs interview pro
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Longest spoken prefix of a script: review an LCS version, rewrite it](https://landthelab.com/questions/longest-spoken-prefix-of-a-script-review-an-lcs-version-rewrite-it) | Coding | Single report | Nov 2026 |
 | [Highlight the transcript line being spoken during audio playback](https://landthelab.com/questions/highlight-the-transcript-line-being-spoken-during-audio-playback) | Coding | Low | Apr 2026 |
 | [Deduplicate files by size then content hash](https://landthelab.com/questions/deduplicate-files-by-size-then-content-hash) | Coding | Single report | Apr 2026 |
 
@@ -37,6 +38,7 @@ What each round grades, its AI policy and how to prep: [ElevenLabs interview pro
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Design a real-time AI voice agent](https://landthelab.com/questions/design-a-real-time-ai-voice-agent) | System design | Single report | Nov 2026 |
 | [Design an online store with an AI shopping agent](https://landthelab.com/questions/design-an-online-store-with-an-ai-shopping-agent) | System design | Single report | Aug 2026 |
 | [Design a collaborative review tool for AI-dubbed video](https://landthelab.com/questions/design-a-collaborative-review-tool-for-ai-dubbed-video) | System design | Single report | Dec 2025 |
 

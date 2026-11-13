@@ -1,6 +1,6 @@
 # Figma interview questions and loop (2026)
 
-20 engineering interview questions candidates report from Figma, most recently in Oct 2026. Worked answers, a rubric per level and a prep plan: **[Figma on Land the Lab](https://landthelab.com/companies/figma)**.
+21 engineering interview questions candidates report from Figma, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[Figma on Land the Lab](https://landthelab.com/companies/figma)**.
 
 ## The loop
 
@@ -25,6 +25,7 @@ What each round grades, its AI policy and how to prep: [Figma interview process]
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Node reachability: directed, undirected, and without the direct edge](https://landthelab.com/questions/node-reachability-directed-undirected-and-without-the-direct-edge) | Coding | Single report | Nov 2026 |
 | [Train a model to extract highlight snippets from text](https://landthelab.com/questions/train-a-model-to-extract-highlight-snippets-from-text) | AI/ML design | Low | Oct 2026 |
 | [SQL: each user's first share and closest collaborator](https://landthelab.com/questions/sql-each-user-s-first-share-and-closest-collaborator) | Coding | Single report | Jan 2026 |
 | [Validate an IPv4 address](https://landthelab.com/questions/validate-an-ipv4-address) | Coding | Single report | Jan 2026 |
@@ -33,15 +34,15 @@ What each round grades, its AI policy and how to prep: [Figma interview process]
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [Hiring-manager round on impact and collaboration](https://landthelab.com/questions/hiring-manager-round-on-impact-and-collaboration) | Behavioral | Very high | Aug 2026 |
+| [Hiring-manager round on impact and collaboration](https://landthelab.com/questions/hiring-manager-round-on-impact-and-collaboration) | Behavioral | Very high | Nov 2026 |
 
 ### Coding
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Validate and parse a bracketed list string](https://landthelab.com/questions/validate-and-parse-a-bracketed-list-string) | Coding | Low | Oct 2026 |
+| [Design layer document with undo, redo and batches](https://landthelab.com/questions/design-layer-document-with-undo-redo-and-batches) | Coding | High | Sep 2026 |
 | [Select table cells and set a color](https://landthelab.com/questions/select-table-cells-and-set-a-color) | Coding | Medium | Aug 2026 |
-| [Validate and parse a bracketed list string](https://landthelab.com/questions/validate-and-parse-a-bracketed-list-string) | Coding | Low | Aug 2026 |
-| [Design layer document with undo, redo and batches](https://landthelab.com/questions/design-layer-document-with-undo-redo-and-batches) | Coding | High | Jul 2026 |
 | [Inherited permissions across teams, folders and files](https://landthelab.com/questions/inherited-permissions-across-teams-folders-and-files) | Coding | Medium | Jul 2026 |
 | [Symmetric tree: is a binary tree its own mirror](https://landthelab.com/questions/symmetric-tree-is-a-binary-tree-its-own-mirror) | Coding | Single report | Feb 2026 |
 

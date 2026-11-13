@@ -1,6 +1,6 @@
 # Glean interview questions and loop (2026)
 
-27 engineering interview questions candidates report from Glean, most recently in Oct 2026. Worked answers, a rubric per level and a prep plan: **[Glean on Land the Lab](https://landthelab.com/companies/glean)**.
+27 engineering interview questions candidates report from Glean, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[Glean on Land the Lab](https://landthelab.com/companies/glean)**.
 
 ## The loop
 
@@ -25,6 +25,7 @@ What each round grades, its AI policy and how to prep: [Glean interview process]
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Design a chess game](https://landthelab.com/questions/design-a-chess-game) | OO design | Single report | Nov 2026 |
 | [Document indexing queue assignment](https://landthelab.com/questions/document-indexing-queue-assignment) | Coding | Low | Oct 2026 |
 | [2048 game with move, merge and game-over detection](https://landthelab.com/questions/2048-game-with-move-merge-and-game-over-detection) | Coding | Medium | Oct 2026 |
 | [Byte-pair encoding tokenizer: learn merges, encode and decode](https://landthelab.com/questions/byte-pair-encoding-tokenizer-learn-merges-encode-and-decode) | Coding | Low | Sep 2026 |
@@ -39,7 +40,6 @@ What each round grades, its AI policy and how to prep: [Glean interview process]
 | [Basic calculator II: evaluate + - * / without parentheses](https://landthelab.com/questions/basic-calculator-ii-evaluate-without-parentheses) | Coding | Single report | Sep 2026 |
 | [Cell with the least total walking distance to all targets around walls](https://landthelab.com/questions/cell-with-the-least-total-walking-distance-to-all-targets-around-walls) | Coding | Single report | Sep 2026 |
 | [Connect Four game engine with win detection](https://landthelab.com/questions/connect-four-game-engine-with-win-detection) | Coding | Single report | Sep 2026 |
-| [Design a chess game](https://landthelab.com/questions/design-a-chess-game) | OO design | Single report | Sep 2026 |
 | [Divide a bar into k+1 pieces to maximize the smallest piece](https://landthelab.com/questions/divide-a-bar-into-k-1-pieces-to-maximize-the-smallest-piece) | Coding | Single report | Sep 2026 |
 | [Minimum deletions to balance a parentheses string](https://landthelab.com/questions/minimum-deletions-to-balance-a-parentheses-string) | Coding | Single report | Sep 2026 |
 | [Minimum Manhattan distance between X and Y in a matrix](https://landthelab.com/questions/minimum-manhattan-distance-between-x-and-y-in-a-matrix) | Coding | Single report | Sep 2026 |

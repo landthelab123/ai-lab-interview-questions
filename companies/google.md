@@ -1,6 +1,6 @@
 # Google interview questions and loop (2026)
 
-307 engineering interview questions candidates report from Google, most recently in Oct 2026. Worked answers, a rubric per level and a prep plan: **[Google on Land the Lab](https://landthelab.com/companies/google)**.
+316 engineering interview questions candidates report from Google, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[Google on Land the Lab](https://landthelab.com/companies/google)**.
 
 ## The loop
 
@@ -26,9 +26,10 @@ What each round grades, its AI policy and how to prep: [Google interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [Count failing, passing and honor-roll test scores](https://landthelab.com/questions/count-failing-passing-and-honor-roll-test-scores) | Coding | Single report | Oct 2026 |
+| [Work style and situational judgment assessment](https://landthelab.com/questions/work-style-and-situational-judgment-assessment) | Behavioral | High | Oct 2026 |
+| [Count exam results as failed, passed and passed with honors](https://landthelab.com/questions/count-exam-results-as-failed-passed-and-passed-with-honors) | Coding | Single report | Oct 2026 |
 | [Evenings needed to read a book's chapters in order](https://landthelab.com/questions/evenings-needed-to-read-a-book-s-chapters-in-order) | Coding | Single report | Oct 2026 |
-| [Work style and situational judgment assessment](https://landthelab.com/questions/work-style-and-situational-judgment-assessment) | Behavioral | High | Sep 2026 |
+| [Count failing, passing and honor-roll test scores](https://landthelab.com/questions/count-failing-passing-and-honor-roll-test-scores) | Coding | Single report | Oct 2026 |
 | [Consolidate on-call rotation segments](https://landthelab.com/questions/consolidate-on-call-rotation-segments) | Coding | Single report | May 2026 |
 | [Checksums, feature rollouts and dependency debugging](https://landthelab.com/questions/checksums-feature-rollouts-and-dependency-debugging) | Coding | Low | Apr 2026 |
 | [Largest subset of two-digit numbers sharing a digit](https://landthelab.com/questions/largest-subset-of-two-digit-numbers-sharing-a-digit) | Coding | Single report | Feb 2026 |
@@ -42,7 +43,18 @@ What each round grades, its AI policy and how to prep: [Google interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Expand placeholders from a variable store](https://landthelab.com/questions/expand-placeholders-from-a-variable-store) | Coding | Low | Nov 2026 |
+| [Group piano notes into hand positions and assign fingers](https://landthelab.com/questions/group-piano-notes-into-hand-positions-and-assign-fingers) | Coding | Single report | Nov 2026 |
+| [Count tree nodes larger than every cross-subtree pair sum and product](https://landthelab.com/questions/count-tree-nodes-larger-than-every-cross-subtree-pair-sum-and-product) | Coding | Single report | Nov 2026 |
+| [Data engineering hiring manager round: systems, scale, stakeholders, messy data](https://landthelab.com/questions/data-engineering-hiring-manager-round-systems-scale-stakeholders-messy-data) | Behavioral | Single report | Nov 2026 |
+| [Explore and clean undocumented 2D image arrays in NumPy](https://landthelab.com/questions/explore-and-clean-undocumented-2d-image-arrays-in-numpy) | Coding | Single report | Nov 2026 |
+| [Project deep dive: present a project you led](https://landthelab.com/questions/project-deep-dive-present-a-project-you-led) | Behavioral | Medium | Oct 2026 |
+| [Sum of distances from every node in a tree](https://landthelab.com/questions/sum-of-distances-from-every-node-in-a-tree) | Coding | Single report | Oct 2026 |
+| [Corporate flight bookings: total seats reserved per flight](https://landthelab.com/questions/corporate-flight-bookings-total-seats-reserved-per-flight) | Coding | Single report | Oct 2026 |
+| [Design a human-in-the-loop AI agent for returns and refunds](https://landthelab.com/questions/design-a-human-in-the-loop-ai-agent-for-returns-and-refunds) | System design | Single report | Oct 2026 |
 | [Longest duplicated substring in a string](https://landthelab.com/questions/longest-duplicated-substring-in-a-string) | Coding | Single report | Oct 2026 |
+| [Meeting rooms with delayed starts: the busiest room](https://landthelab.com/questions/meeting-rooms-with-delayed-starts-the-busiest-room) | Coding | Low | Oct 2026 |
+| [Shortest path that avoids blocked nodes](https://landthelab.com/questions/shortest-path-that-avoids-blocked-nodes) | Coding | Low | Oct 2026 |
 | [Disagreements with a coworker, another team and a mentee](https://landthelab.com/questions/disagreements-with-a-coworker-another-team-and-a-mentee) | Behavioral | Single report | Oct 2026 |
 | [Count perfect wake numbers: distinct nonzero digits, inner peaks](https://landthelab.com/questions/count-perfect-wake-numbers-distinct-nonzero-digits-inner-peaks) | Coding | Single report | Oct 2026 |
 | [Island at a given cell by BFS, then count the lakes inside it](https://landthelab.com/questions/island-at-a-given-cell-by-bfs-then-count-the-lakes-inside-it) | Coding | Single report | Oct 2026 |
@@ -53,12 +65,10 @@ What each round grades, its AI policy and how to prep: [Google interview process
 | [Design an LLM agent for production status, work orders and quotes](https://landthelab.com/questions/design-an-llm-agent-for-production-status-work-orders-and-quotes) | System design | Single report | Oct 2026 |
 | [Number of islands as land is added](https://landthelab.com/questions/number-of-islands-as-land-is-added) | Coding | Single report | Oct 2026 |
 | [Delete leaves with a target value, repeatedly](https://landthelab.com/questions/delete-leaves-with-a-target-value-repeatedly) | Coding | Single report | Sep 2026 |
-| [Project deep dive: present a project you led](https://landthelab.com/questions/project-deep-dive-present-a-project-you-led) | Behavioral | Medium | Sep 2026 |
 | [First missing positive integer in an unsorted list](https://landthelab.com/questions/first-missing-positive-integer-in-an-unsorted-list) | Coding | Single report | Sep 2026 |
 | [Most active user by distinct contacts, then top K](https://landthelab.com/questions/most-active-user-by-distinct-contacts-then-top-k) | Coding | Low | Sep 2026 |
 | [How would you verify a smile detector in a photo app?](https://landthelab.com/questions/how-would-you-verify-a-smile-detector-in-a-photo-app) | AI/ML design | Single report | Sep 2026 |
 | [Tell me about a time you compromised](https://landthelab.com/questions/tell-me-about-a-time-you-compromised) | Behavioral | Single report | Sep 2026 |
-| [Expand placeholders from a variable store](https://landthelab.com/questions/expand-placeholders-from-a-variable-store) | Coding | Low | Sep 2026 |
 | [Duplicate detection: sliding windows, then read-heavy queries](https://landthelab.com/questions/duplicate-detection-sliding-windows-then-read-heavy-queries) | Coding | Single report | Sep 2026 |
 | [Sliding window average excluding the k largest](https://landthelab.com/questions/sliding-window-average-excluding-the-k-largest) | Coding | Low | Sep 2026 |
 | [Longest straight run of one color in a grid](https://landthelab.com/questions/longest-straight-run-of-one-color-in-a-grid) | Coding | Single report | Aug 2026 |
@@ -119,13 +129,11 @@ What each round grades, its AI policy and how to prep: [Google interview process
 | [Decide whether two people in a family tree are related](https://landthelab.com/questions/decide-whether-two-people-in-a-family-tree-are-related) | Coding | Single report | Jan 2026 |
 | [Design a payment fraud detection system](https://landthelab.com/questions/design-a-payment-fraud-detection-system) | AI/ML design | Single report | Jan 2026 |
 | [Design a street-level imagery ingestion and storage system](https://landthelab.com/questions/design-a-street-level-imagery-ingestion-and-storage-system) | System design | Single report | Jan 2026 |
-| [Sum of distances from every node in a tree](https://landthelab.com/questions/sum-of-distances-from-every-node-in-a-tree) | Coding | Single report | Jan 2026 |
 | [Top-k and bottom-k words in a list and in a stream](https://landthelab.com/questions/top-k-and-bottom-k-words-in-a-list-and-in-a-stream) | Coding | Single report | Jan 2026 |
 | [Distance from every cell to the nearest taxi](https://landthelab.com/questions/distance-from-every-cell-to-the-nearest-taxi) | Coding | Low | Jan 2026 |
 | [Fast expensive tokens versus slow cheap tokens](https://landthelab.com/questions/fast-expensive-tokens-versus-slow-cheap-tokens) | System design | Single report | Jan 2026 |
 | [K largest subset sums](https://landthelab.com/questions/k-largest-subset-sums) | Coding | Single report | Jan 2026 |
 | [Lowest horizontal line that splits squares into equal areas](https://landthelab.com/questions/lowest-horizontal-line-that-splits-squares-into-equal-areas) | Coding | Low | Jan 2026 |
-| [Meeting rooms with delayed starts: the busiest room](https://landthelab.com/questions/meeting-rooms-with-delayed-starts-the-busiest-room) | Coding | Low | Jan 2026 |
 | [Range queries: is the subarray parity-alternating](https://landthelab.com/questions/range-queries-is-the-subarray-parity-alternating) | Coding | Low | Jan 2026 |
 | [Shortest subarray with at least k distinct values](https://landthelab.com/questions/shortest-subarray-with-at-least-k-distinct-values) | Coding | Low | Jan 2026 |
 | [Design a hit counter](https://landthelab.com/questions/design-a-hit-counter) | Coding | Single report | Jan 2026 |
@@ -160,6 +168,7 @@ What each round grades, its AI policy and how to prep: [Google interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Leading a project through ambiguous requirements](https://landthelab.com/questions/leading-a-project-through-ambiguous-requirements) | Behavioral | Single report | Oct 2026 |
 | [Behavioral round on company values](https://landthelab.com/questions/behavioral-round-on-company-values) | Behavioral | Very high | Oct 2026 |
 | [A leader who shaped you and how you used the lesson](https://landthelab.com/questions/a-leader-who-shaped-you-and-how-you-used-the-lesson) | Behavioral | Low | Oct 2026 |
 | [How do you prioritize when you have too much work?](https://landthelab.com/questions/how-do-you-prioritize-when-you-have-too-much-work) | Behavioral | Low | Oct 2026 |
@@ -170,7 +179,6 @@ What each round grades, its AI policy and how to prep: [Google interview process
 | [Resolve a product disagreement and balance technical debt](https://landthelab.com/questions/resolve-a-product-disagreement-and-balance-technical-debt) | Behavioral | Single report | Aug 2026 |
 | [A failure, what it changed, and what you would do differently](https://landthelab.com/questions/a-failure-what-it-changed-and-what-you-would-do-differently) | Behavioral | Low | Aug 2026 |
 | [Working with a difficult colleague](https://landthelab.com/questions/working-with-a-difficult-colleague) | Behavioral | Low | Aug 2026 |
-| [Leading a project through ambiguous requirements](https://landthelab.com/questions/leading-a-project-through-ambiguous-requirements) | Behavioral | Single report | Aug 2026 |
 | [Responding to difficult feedback](https://landthelab.com/questions/responding-to-difficult-feedback) | Behavioral | Single report | Aug 2026 |
 | [Connect your research to the team's work](https://landthelab.com/questions/connect-your-research-to-the-team-s-work) | Behavioral | Single report | May 2026 |
 | [Why an experimental technology team?](https://landthelab.com/questions/why-an-experimental-technology-team) | Behavioral | Single report | Apr 2026 |
@@ -181,10 +189,10 @@ What each round grades, its AI policy and how to prep: [Google interview process
 | Question | Type | How often | Last asked |
 |---|---|---|---|
 | [Random pick with weight](https://landthelab.com/questions/random-pick-with-weight) | Coding | Single report | Oct 2026 |
+| [URL router with single-segment wildcards](https://landthelab.com/questions/url-router-with-single-segment-wildcards) | Coding | Single report | Oct 2026 |
 | [Reachability in a time-indexed train schedule](https://landthelab.com/questions/reachability-in-a-time-indexed-train-schedule) | Coding | Single report | Oct 2026 |
 | [Maximum overlap of closed intervals](https://landthelab.com/questions/maximum-overlap-of-closed-intervals) | Coding | Very high | Sep 2026 |
 | [Group dependent tasks into parallel levels](https://landthelab.com/questions/group-dependent-tasks-into-parallel-levels) | Coding | Single report | Sep 2026 |
-| [URL router with single-segment wildcards](https://landthelab.com/questions/url-router-with-single-segment-wildcards) | Coding | Single report | Sep 2026 |
 | [Binary search tree keys within a range](https://landthelab.com/questions/binary-search-tree-keys-within-a-range) | Coding | Single report | Sep 2026 |
 | [Customer support dispatcher for agents who take breaks](https://landthelab.com/questions/customer-support-dispatcher-for-agents-who-take-breaks) | Coding | Single report | Sep 2026 |
 | [Find timed-out RPC calls from start and end logs](https://landthelab.com/questions/find-timed-out-rpc-calls-from-start-and-end-logs) | Coding | Single report | Sep 2026 |
@@ -259,12 +267,12 @@ What each round grades, its AI policy and how to prep: [Google interview process
 | [Next-word predictor from bigram counts](https://landthelab.com/questions/next-word-predictor-from-bigram-counts) | Coding | Low | Feb 2026 |
 | [Cheapest common ancestor in a tree](https://landthelab.com/questions/cheapest-common-ancestor-in-a-tree) | Coding | Single report | Feb 2026 |
 | [Decaying power levels across a graph](https://landthelab.com/questions/decaying-power-levels-across-a-graph) | Coding | Single report | Feb 2026 |
+| [Fewest lines to wrap a sentence](https://landthelab.com/questions/fewest-lines-to-wrap-a-sentence) | Coding | Single report | Feb 2026 |
 | [K-th greatest value in every growing prefix](https://landthelab.com/questions/k-th-greatest-value-in-every-growing-prefix) | Coding | Low | Feb 2026 |
 | [Decode a string with nested repeat counts](https://landthelab.com/questions/decode-a-string-with-nested-repeat-counts) | Coding | Single report | Feb 2026 |
 | [Sum of all consecutive-step subarrays](https://landthelab.com/questions/sum-of-all-consecutive-step-subarrays) | Coding | Single report | Feb 2026 |
 | [Matrix transforms and what eigenvalues mean](https://landthelab.com/questions/matrix-transforms-and-what-eigenvalues-mean) | Coding | Single report | Feb 2026 |
 | [Remove dictionary words from a character stream as they appear](https://landthelab.com/questions/remove-dictionary-words-from-a-character-stream-as-they-appear) | Coding | Single report | Feb 2026 |
-| [Fewest lines to wrap a sentence](https://landthelab.com/questions/fewest-lines-to-wrap-a-sentence) | Coding | Single report | Feb 2026 |
 | [Find the conflicting pair of tests with a black-box runner](https://landthelab.com/questions/find-the-conflicting-pair-of-tests-with-a-black-box-runner) | Coding | Low | Jan 2026 |
 | [Best-matching binary pattern with wildcards](https://landthelab.com/questions/best-matching-binary-pattern-with-wildcards) | Coding | Single report | Jan 2026 |
 | [Dot product of run-length encoded vectors](https://landthelab.com/questions/dot-product-of-run-length-encoded-vectors) | Coding | Single report | Jan 2026 |
@@ -280,6 +288,7 @@ What each round grades, its AI policy and how to prep: [Google interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Design a daily slowest-query report for a data warehouse](https://landthelab.com/questions/design-a-daily-slowest-query-report-for-a-data-warehouse) | System design | Single report | Nov 2026 |
 | [Design Google News: group articles into stories and rank them](https://landthelab.com/questions/design-google-news-group-articles-into-stories-and-rank-them) | System design | Single report | Oct 2026 |
 | [Design LLM review summaries that resist prompt injection and PII leaks](https://landthelab.com/questions/design-llm-review-summaries-that-resist-prompt-injection-and-pii-leaks) | System design | Single report | Oct 2026 |
 | [Design a CI/CD system](https://landthelab.com/questions/design-a-ci-cd-system) | System design | Single report | Sep 2026 |

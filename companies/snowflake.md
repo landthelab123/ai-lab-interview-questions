@@ -1,6 +1,6 @@
 # Snowflake interview questions and loop (2026)
 
-78 engineering interview questions candidates report from Snowflake, most recently in Oct 2026. Worked answers, a rubric per level and a prep plan: **[Snowflake on Land the Lab](https://landthelab.com/companies/snowflake)**.
+80 engineering interview questions candidates report from Snowflake, most recently in Oct 2026. Worked answers, a rubric per level and a prep plan: **[Snowflake on Land the Lab](https://landthelab.com/companies/snowflake)**.
 
 ## The loop
 
@@ -29,6 +29,8 @@ What each round grades, its AI policy and how to prep: [Snowflake interview proc
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Design TinyURL: a URL shortener with fast redirects](https://landthelab.com/questions/design-tinyurl-a-url-shortener-with-fast-redirects) | System design | Single report | Oct 2026 |
+| [Nearest person-to-cake distance and greedy closest-pair matching](https://landthelab.com/questions/nearest-person-to-cake-distance-and-greedy-closest-pair-matching) | Coding | Single report | Oct 2026 |
 | [Fewest node additions and removals to make a binary tree perfect](https://landthelab.com/questions/fewest-node-additions-and-removals-to-make-a-binary-tree-perfect) | Coding | Single report | Oct 2026 |
 | [Reverse a string in place](https://landthelab.com/questions/reverse-a-string-in-place) | Coding | Single report | Oct 2026 |
 | [Stack with constant-time minimum](https://landthelab.com/questions/stack-with-constant-time-minimum) | Coding | Single report | Oct 2026 |
@@ -67,10 +69,10 @@ What each round grades, its AI policy and how to prep: [Snowflake interview proc
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Limit tree height by deleting nodes](https://landthelab.com/questions/limit-tree-height-by-deleting-nodes) | Coding | Medium | Oct 2026 |
+| [Four in a row: check a winning move](https://landthelab.com/questions/four-in-a-row-check-a-winning-move) | Coding | Low | Oct 2026 |
 | [Build reporting trees from employee-manager pairs](https://landthelab.com/questions/build-reporting-trees-from-employee-manager-pairs) | Coding | Single report | Sep 2026 |
 | [Insert, delete and get random in O(1) with duplicates](https://landthelab.com/questions/insert-delete-and-get-random-in-o-1-with-duplicates) | Coding | Single report | Sep 2026 |
-| [Limit tree height by deleting nodes](https://landthelab.com/questions/limit-tree-height-by-deleting-nodes) | Coding | Medium | Sep 2026 |
-| [Four in a row: check a winning move](https://landthelab.com/questions/four-in-a-row-check-a-winning-move) | Coding | Low | Sep 2026 |
 | [Maximum overlap of closed intervals](https://landthelab.com/questions/maximum-overlap-of-closed-intervals) | Coding | Single report | Sep 2026 |
 | [Build and test a rate limiter with an AI assistant](https://landthelab.com/questions/build-and-test-a-rate-limiter-with-an-ai-assistant) | Coding | Single report | Sep 2026 |
 | [In-memory file system with files and folders](https://landthelab.com/questions/in-memory-file-system-with-files-and-folders) | Coding | Low | Aug 2026 |
@@ -82,23 +84,23 @@ What each round grades, its AI policy and how to prep: [Snowflake interview proc
 | [Key-value store with nested transaction rollback](https://landthelab.com/questions/key-value-store-with-nested-transaction-rollback) | Coding | Low | Feb 2026 |
 | [Grep with context lines](https://landthelab.com/questions/grep-with-context-lines) | Coding | Single report | Feb 2026 |
 | [Live top-k best-selling books leaderboard](https://landthelab.com/questions/live-top-k-best-selling-books-leaderboard) | Coding | Single report | Feb 2026 |
+| [Word search with a word search II follow-up](https://landthelab.com/questions/word-search-with-a-word-search-ii-follow-up) | Coding | Single report | Jan 2026 |
 | [Fixed-capacity circular buffer with O(1) push and pop](https://landthelab.com/questions/fixed-capacity-circular-buffer-with-o-1-push-and-pop) | Coding | Single report | Jan 2026 |
-| [Word search with a word search II follow-up](https://landthelab.com/questions/word-search-with-a-word-search-ii-follow-up) | Coding | Single report | Dec 2025 |
 
 ### System design
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [Design a distributed web crawler](https://landthelab.com/questions/design-a-distributed-web-crawler) | System design | Single report | Sep 2026 |
+| [Design a distributed web crawler](https://landthelab.com/questions/design-a-distributed-web-crawler) | System design | Single report | Oct 2026 |
 | [Components of an LLM agent's memory](https://landthelab.com/questions/components-of-an-llm-agent-s-memory) | AI/ML design | Single report | Sep 2026 |
 | [Design a pipeline that distills reusable agent skills](https://landthelab.com/questions/design-a-pipeline-that-distills-reusable-agent-skills) | System design | Single report | Sep 2026 |
 | [Design a distributed job scheduler](https://landthelab.com/questions/design-a-distributed-job-scheduler) | System design | Low | Aug 2026 |
 | [Count and map a cluster tree with message passing](https://landthelab.com/questions/count-and-map-a-cluster-tree-with-message-passing) | Coding | Single report | Jun 2026 |
 | [Design a disk-backed key-value store under heavy contention](https://landthelab.com/questions/design-a-disk-backed-key-value-store-under-heavy-contention) | System design | Single report | Mar 2026 |
 | [Design a quota service](https://landthelab.com/questions/design-a-quota-service) | System design | Single report | Feb 2026 |
-| [Design an access management system](https://landthelab.com/questions/design-an-access-management-system) | System design | Single report | Dec 2025 |
+| [Design an access management system](https://landthelab.com/questions/design-an-access-management-system) | System design | Single report | Jan 2026 |
+| [Design an S3-like object storage system](https://landthelab.com/questions/design-an-s3-like-object-storage-system) | System design | Single report | Dec 2025 |
 | [Design a metrics monitoring system](https://landthelab.com/questions/design-a-metrics-monitoring-system) | System design | Single report | Dec 2025 |
-| [Design an S3-like object storage system](https://landthelab.com/questions/design-an-s3-like-object-storage-system) | System design | Single report | Nov 2025 |
 
 ### Hiring manager
 

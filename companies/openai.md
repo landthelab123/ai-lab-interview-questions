@@ -1,6 +1,6 @@
 # OpenAI interview questions and loop (2026)
 
-125 engineering interview questions candidates report from OpenAI, most recently in Oct 2026. Worked answers, a rubric per level and a prep plan: **[OpenAI on Land the Lab](https://landthelab.com/companies/openai)**.
+129 engineering interview questions candidates report from OpenAI, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[OpenAI on Land the Lab](https://landthelab.com/companies/openai)**.
 
 ## The loop
 
@@ -34,21 +34,24 @@ What each round grades, its AI policy and how to prep: [OpenAI interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [MNIST classifier: per-example loss bounds and adaptive calibration error](https://landthelab.com/questions/mnist-classifier-per-example-loss-bounds-and-adaptive-calibration-error) | AI/ML design | Single report | Nov 2026 |
+| [Locate a point light source from photon hits on a line by MLE](https://landthelab.com/questions/locate-a-point-light-source-from-photon-hits-on-a-line-by-mle) | AI/ML design | Single report | Oct 2026 |
+| [Rectangle board with remove-at-cell, batch remove and undo](https://landthelab.com/questions/rectangle-board-with-remove-at-cell-batch-remove-and-undo) | Coding | Single report | Oct 2026 |
 | [Find noisy annotators and retrain a classifier without them](https://landthelab.com/questions/find-noisy-annotators-and-retrain-a-classifier-without-them) | Coding | High | Oct 2026 |
 | [Three-card poker: classify hands and pick the winner](https://landthelab.com/questions/three-card-poker-classify-hands-and-pick-the-winner) | Coding | Low | Oct 2026 |
 | [Deal five-card poker hands and pick the winners](https://landthelab.com/questions/deal-five-card-poker-hands-and-pick-the-winners) | Coding | Low | Oct 2026 |
 | [Design a real-time multiplayer typing race](https://landthelab.com/questions/design-a-real-time-multiplayer-typing-race) | System design | Single report | Oct 2026 |
-| [Rectangle board with remove-at-cell, batch remove and undo](https://landthelab.com/questions/rectangle-board-with-remove-at-cell-batch-remove-and-undo) | Coding | Single report | Oct 2026 |
+| [Threshold infection spread on a grid](https://landthelab.com/questions/threshold-infection-spread-on-a-grid) | Coding | Very high | Oct 2026 |
 | [Follow one-way links to the endpoint or the last node before a loop](https://landthelab.com/questions/follow-one-way-links-to-the-endpoint-or-the-last-node-before-a-loop) | Coding | Single report | Oct 2026 |
 | [Memory allocator with malloc, free and coalescing](https://landthelab.com/questions/memory-allocator-with-malloc-free-and-coalescing) | Coding | High | Oct 2026 |
 | [Validate chess moves from the starting position](https://landthelab.com/questions/validate-chess-moves-from-the-starting-position) | Coding | Low | Oct 2026 |
 | [Count connected friend groups](https://landthelab.com/questions/count-connected-friend-groups) | Coding | Single report | Oct 2026 |
 | [Paint house: cheapest daily colors with no repeat on consecutive days](https://landthelab.com/questions/paint-house-cheapest-daily-colors-with-no-repeat-on-consecutive-days) | Coding | Single report | Oct 2026 |
 | [Linked list with checkpoints for fast indexed insert and get](https://landthelab.com/questions/linked-list-with-checkpoints-for-fast-indexed-insert-and-get) | Coding | Single report | Oct 2026 |
+| [Three-card showdown between two players](https://landthelab.com/questions/three-card-showdown-between-two-players) | Coding | Medium | Oct 2026 |
 | [Causal hard attention with a KV cache](https://landthelab.com/questions/causal-hard-attention-with-a-kv-cache) | Coding | Single report | Oct 2026 |
 | [Design a metrics monitoring system](https://landthelab.com/questions/design-a-metrics-monitoring-system) | System design | Single report | Oct 2026 |
-| [Threshold infection spread on a grid](https://landthelab.com/questions/threshold-infection-spread-on-a-grid) | Coding | Very high | Sep 2026 |
-| [Three-card showdown between two players](https://landthelab.com/questions/three-card-showdown-between-two-players) | Coding | Medium | Sep 2026 |
+| [Toy language type inference with generics and tuples](https://landthelab.com/questions/toy-language-type-inference-with-generics-and-tuples) | Coding | High | Sep 2026 |
 | [Hiring manager call: your past work, interests and latest project](https://landthelab.com/questions/hiring-manager-call-your-past-work-interests-and-latest-project) | Behavioral | Single report | Sep 2026 |
 | [Minimal reverse-mode autograd engine](https://landthelab.com/questions/minimal-reverse-mode-autograd-engine) | Coding | Single report | Sep 2026 |
 | [Lexicographically smallest topological order](https://landthelab.com/questions/lexicographically-smallest-topological-order) | Coding | Low | Sep 2026 |
@@ -59,7 +62,6 @@ What each round grades, its AI policy and how to prep: [OpenAI interview process
 | [Encode and decode strings with length prefixes and count codes](https://landthelab.com/questions/encode-and-decode-strings-with-length-prefixes-and-count-codes) | Coding | Single report | Aug 2026 |
 | [Engineering management fundamentals: one-on-ones, hiring and performance](https://landthelab.com/questions/engineering-management-fundamentals-one-on-ones-hiring-and-performance) | Behavioral | Single report | Aug 2026 |
 | [Entropy from logits, stable and then streaming](https://landthelab.com/questions/entropy-from-logits-stable-and-then-streaming) | Coding | Medium | Jul 2026 |
-| [Toy language type inference with generics and tuples](https://landthelab.com/questions/toy-language-type-inference-with-generics-and-tuples) | Coding | High | Jul 2026 |
 | [Cross-entropy loss with masking and label smoothing in NumPy](https://landthelab.com/questions/cross-entropy-loss-with-masking-and-label-smoothing-in-numpy) | Coding | Single report | Jul 2026 |
 | [Max-score grid descent with limited two-row jumps](https://landthelab.com/questions/max-score-grid-descent-with-limited-two-row-jumps) | Coding | Single report | Jul 2026 |
 | [Build a chat screen in an existing iOS codebase](https://landthelab.com/questions/build-a-chat-screen-in-an-existing-ios-codebase) | Coding | Single report | Jul 2026 |
@@ -72,6 +74,7 @@ What each round grades, its AI policy and how to prep: [OpenAI interview process
 | [Build a rating card in Jetpack Compose](https://landthelab.com/questions/build-a-rating-card-in-jetpack-compose) | Coding | Single report | May 2026 |
 | [Design per-user model usage quotas for a mobile app](https://landthelab.com/questions/design-per-user-model-usage-quotas-for-a-mobile-app) | System design | Single report | May 2026 |
 | [Build a chat input that renders a streamed AI reply](https://landthelab.com/questions/build-a-chat-input-that-renders-a-streamed-ai-reply) | Coding | Single report | Apr 2026 |
+| [Design an AI prompt playground](https://landthelab.com/questions/design-an-ai-prompt-playground) | System design | Single report | Apr 2026 |
 | [Design Google Docs: real-time collaborative editing](https://landthelab.com/questions/design-google-docs-real-time-collaborative-editing) | System design | Single report | Mar 2026 |
 | [Text editor with undo and redo](https://landthelab.com/questions/text-editor-with-undo-and-redo) | Coding | Single report | Mar 2026 |
 
@@ -81,24 +84,24 @@ What each round grades, its AI policy and how to prep: [OpenAI interview process
 |---|---|---|---|
 | [Design a digital game store like Steam](https://landthelab.com/questions/design-a-digital-game-store-like-steam) | System design | Low | Oct 2026 |
 | [Design a system to cut power use across smart devices with live usage](https://landthelab.com/questions/design-a-system-to-cut-power-use-across-smart-devices-with-live-usage) | System design | Single report | Oct 2026 |
+| [Design an image sharing service that stores each file once](https://landthelab.com/questions/design-an-image-sharing-service-that-stores-each-file-once) | System design | Low | Oct 2026 |
+| [Design an AI chatbot app](https://landthelab.com/questions/design-an-ai-chatbot-app) | System design | Low | Oct 2026 |
+| [Design a sandboxed cloud IDE](https://landthelab.com/questions/design-a-sandboxed-cloud-ide) | System design | High | Oct 2026 |
+| [Design an online chess game](https://landthelab.com/questions/design-an-online-chess-game) | System design | Very high | Oct 2026 |
+| [Design a payment system](https://landthelab.com/questions/design-a-payment-system) | System design | Very high | Oct 2026 |
 | [Design a distributed power grid control system](https://landthelab.com/questions/design-a-distributed-power-grid-control-system) | System design | High | Oct 2026 |
 | [Design a real-time trivia battle royale with live spectators](https://landthelab.com/questions/design-a-real-time-trivia-battle-royale-with-live-spectators) | System design | Single report | Oct 2026 |
-| [Design an image sharing service that stores each file once](https://landthelab.com/questions/design-an-image-sharing-service-that-stores-each-file-once) | System design | Low | Oct 2026 |
 | [Design an LLM inference serving platform](https://landthelab.com/questions/design-an-llm-inference-serving-platform) | System design | Single report | Oct 2026 |
-| [Design a sandboxed cloud IDE](https://landthelab.com/questions/design-a-sandboxed-cloud-ide) | System design | High | Oct 2026 |
-| [Design a payment system](https://landthelab.com/questions/design-a-payment-system) | System design | Very high | Oct 2026 |
+| [Design a CI/CD system](https://landthelab.com/questions/design-a-ci-cd-system) | System design | Low | Oct 2026 |
 | [Design a video generation service on a scarce GPU pool](https://landthelab.com/questions/design-a-video-generation-service-on-a-scarce-gpu-pool) | System design | Very high | Sep 2026 |
 | [Design an evaluation platform for a design-editing AI agent](https://landthelab.com/questions/design-an-evaluation-platform-for-a-design-editing-ai-agent) | System design | Single report | Sep 2026 |
-| [Design an online chess game](https://landthelab.com/questions/design-an-online-chess-game) | System design | Very high | Sep 2026 |
 | [ML design for retrieval: embeddings, hybrid search and ranking](https://landthelab.com/questions/ml-design-for-retrieval-embeddings-hybrid-search-and-ranking) | AI/ML design | Low | Sep 2026 |
+| [Design a Slack-like chat system](https://landthelab.com/questions/design-a-slack-like-chat-system) | System design | Low | Aug 2026 |
 | [Design a distributed crossword solver](https://landthelab.com/questions/design-a-distributed-crossword-solver) | System design | Low | Aug 2026 |
 | [Design a streaming AI feature for a large audience](https://landthelab.com/questions/design-a-streaming-ai-feature-for-a-large-audience) | System design | Single report | Aug 2026 |
 | [Design a declarative infrastructure orchestrator](https://landthelab.com/questions/design-a-declarative-infrastructure-orchestrator) | System design | Single report | Aug 2026 |
 | [Design ChatGPT streaming with resumable responses and long conversations](https://landthelab.com/questions/design-chatgpt-streaming-with-resumable-responses-and-long-conversations) | System design |  | Jul 2026 |
-| [Design an AI chatbot app](https://landthelab.com/questions/design-an-ai-chatbot-app) | System design | Low | Jul 2026 |
-| [Design a CI/CD system](https://landthelab.com/questions/design-a-ci-cd-system) | System design | Low | Jun 2026 |
 | [Mine new information from a huge unlabeled image corpus](https://landthelab.com/questions/mine-new-information-from-a-huge-unlabeled-image-corpus) | AI/ML design | Single report | May 2026 |
-| [Design a Slack-like chat system](https://landthelab.com/questions/design-a-slack-like-chat-system) | System design | Low | May 2026 |
 | [Design an agent harness and its evaluation system](https://landthelab.com/questions/design-an-agent-harness-and-its-evaluation-system) | System design | Single report | Apr 2026 |
 | [Defend your research direction and an experiment design](https://landthelab.com/questions/defend-your-research-direction-and-an-experiment-design) | AI/ML design | Single report | Apr 2026 |
 | [Design a real-time sensor intelligence system](https://landthelab.com/questions/design-a-real-time-sensor-intelligence-system) | AI/ML design | Single report | Apr 2026 |
@@ -126,17 +129,19 @@ What each round grades, its AI policy and how to prep: [OpenAI interview process
 | Question | Type | How often | Last asked |
 |---|---|---|---|
 | [Per-user chat event counts in a sliding window](https://landthelab.com/questions/per-user-chat-event-counts-in-a-sliding-window) | Coding | Low | Oct 2026 |
+| [Fault-tolerant work queue with leases and retries](https://landthelab.com/questions/fault-tolerant-work-queue-with-leases-and-retries) | Coding | Medium | Oct 2026 |
+| [Persistent key-value store with binary snapshots](https://landthelab.com/questions/persistent-key-value-store-with-binary-snapshots) | Coding | Medium | Oct 2026 |
 | [GPU credit ledger with out-of-order events](https://landthelab.com/questions/gpu-credit-ledger-with-out-of-order-events) | Coding | Very high | Oct 2026 |
 | [Vectorized nearest-neighbour classifier as a linear layer](https://landthelab.com/questions/vectorized-nearest-neighbour-classifier-as-a-linear-layer) | Coding | High | Oct 2026 |
 | [Longest increasing subsequence of a price series](https://landthelab.com/questions/longest-increasing-subsequence-of-a-price-series) | Coding | Low | Oct 2026 |
 | [Simplify a quadratic expression](https://landthelab.com/questions/simplify-a-quadratic-expression) | Coding | Low | Oct 2026 |
 | [Price a macaron order with set discounts](https://landthelab.com/questions/price-a-macaron-order-with-set-discounts) | Coding | Single report | Oct 2026 |
 | [Shortest path on a grid with a custom move set](https://landthelab.com/questions/shortest-path-on-a-grid-with-a-custom-move-set) | Coding | Single report | Oct 2026 |
+| [Social follow graph with point-in-time snapshots](https://landthelab.com/questions/social-follow-graph-with-point-in-time-snapshots) | Coding | Very high | Oct 2026 |
+| [Extensible chat app with command bots](https://landthelab.com/questions/extensible-chat-app-with-command-bots) | Coding | Medium | Oct 2026 |
 | [Count ordered routes that visit one shop of each of four types](https://landthelab.com/questions/count-ordered-routes-that-visit-one-shop-of-each-of-four-types) | Coding | Single report | Oct 2026 |
 | [Microorganisms eating neighbours: the largest survivor](https://landthelab.com/questions/microorganisms-eating-neighbours-the-largest-survivor) | Coding | Single report | Oct 2026 |
 | [Notification service with several bots per channel](https://landthelab.com/questions/notification-service-with-several-bots-per-channel) | OO design | Low | Oct 2026 |
-| [Extensible chat app with command bots](https://landthelab.com/questions/extensible-chat-app-with-command-bots) | Coding | Medium | Oct 2026 |
-| [Fault-tolerant work queue with leases and retries](https://landthelab.com/questions/fault-tolerant-work-queue-with-leases-and-retries) | Coding | Medium | Oct 2026 |
 | [Leaves left in a garden after wind gusts](https://landthelab.com/questions/leaves-left-in-a-garden-after-wind-gusts) | Coding | Low | Sep 2026 |
 | [Mirror or blur a grayscale image](https://landthelab.com/questions/mirror-or-blur-a-grayscale-image) | Coding | Single report | Sep 2026 |
 | [Predict the winner of a pick-from-either-end game](https://landthelab.com/questions/predict-the-winner-of-a-pick-from-either-end-game) | Coding | Single report | Sep 2026 |
@@ -144,6 +149,7 @@ What each round grades, its AI policy and how to prep: [OpenAI interview process
 | [Largest all-ones square and rectangle in a binary matrix](https://landthelab.com/questions/largest-all-ones-square-and-rectangle-in-a-binary-matrix) | Coding | Single report | Sep 2026 |
 | [Mini spreadsheet with formulas and cycle detection](https://landthelab.com/questions/mini-spreadsheet-with-formulas-and-cycle-detection) | Coding | Single report | Sep 2026 |
 | [Matrix product scan with autograd and a hand-written backward](https://landthelab.com/questions/matrix-product-scan-with-autograd-and-a-hand-written-backward) | Coding | High | Sep 2026 |
+| [Typed task lock for mutually exclusive job types](https://landthelab.com/questions/typed-task-lock-for-mutually-exclusive-job-types) | Coding | Low | Sep 2026 |
 | [IPv4 range iterator with reverse and CIDR support](https://landthelab.com/questions/ipv4-range-iterator-with-reverse-and-cidr-support) | Coding | Medium | Sep 2026 |
 | [Crash-safe on-disk key-value store](https://landthelab.com/questions/crash-safe-on-disk-key-value-store) | Coding | Low | Sep 2026 |
 | [Guess the number with one-call delayed feedback](https://landthelab.com/questions/guess-the-number-with-one-call-delayed-feedback) | Coding | Low | Sep 2026 |
@@ -151,10 +157,7 @@ What each round grades, its AI policy and how to prep: [OpenAI interview process
 | [Memory allocator: leftmost free block and free by owner](https://landthelab.com/questions/memory-allocator-leftmost-free-block-and-free-by-owner) | Coding | Single report | Sep 2026 |
 | [Text editor in stages: buffer, undo and redo, autocomplete, collaboration](https://landthelab.com/questions/text-editor-in-stages-buffer-undo-and-redo-autocomplete-collaboration) | Coding | Single report | Sep 2026 |
 | [Count and map a cluster tree with message passing](https://landthelab.com/questions/count-and-map-a-cluster-tree-with-message-passing) | Coding | High | Sep 2026 |
-| [Typed task lock for mutually exclusive job types](https://landthelab.com/questions/typed-task-lock-for-mutually-exclusive-job-types) | Coding | Low | Aug 2026 |
-| [Persistent key-value store with binary snapshots](https://landthelab.com/questions/persistent-key-value-store-with-binary-snapshots) | Coding | Medium | Aug 2026 |
 | [Turn-based monster team battle simulator](https://landthelab.com/questions/turn-based-monster-team-battle-simulator) | Coding | High | Aug 2026 |
-| [Social follow graph with point-in-time snapshots](https://landthelab.com/questions/social-follow-graph-with-point-in-time-snapshots) | Coding | Very high | Aug 2026 |
 | [Snapshot set with frozen insertion-order iterators](https://landthelab.com/questions/snapshot-set-with-frozen-insertion-order-iterators) | Coding | Single report | Aug 2026 |
 | [Indexed sequence with checkpoints](https://landthelab.com/questions/indexed-sequence-with-checkpoints) | Coding |  | Jul 2026 |
 | [Data labeling scheduler with prefix-balanced models](https://landthelab.com/questions/data-labeling-scheduler-with-prefix-balanced-models) | Coding | High | Jul 2026 |
@@ -165,6 +168,7 @@ What each round grades, its AI policy and how to prep: [OpenAI interview process
 | [First meeting point of two digit-sum sequences](https://landthelab.com/questions/first-meeting-point-of-two-digit-sum-sequences) | Coding | Single report | Mar 2026 |
 | [Simulate particles from a point source hitting a screen](https://landthelab.com/questions/simulate-particles-from-a-point-source-hitting-a-screen) | Coding | Single report | Feb 2026 |
 | [Resolve a cd command to an absolute path](https://landthelab.com/questions/resolve-a-cd-command-to-an-absolute-path) | Coding | Single report | Dec 2025 |
+| [In-memory SQL table with filtering and multi-key sorting](https://landthelab.com/questions/in-memory-sql-table-with-filtering-and-multi-key-sorting) | Coding | Low | Dec 2025 |
 
 ### Tech talk
 

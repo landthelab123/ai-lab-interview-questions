@@ -22,13 +22,13 @@ What each round grades, its AI policy and how to prep: [Baseten interview proces
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Crash-safe on-disk key-value store](https://landthelab.com/questions/crash-safe-on-disk-key-value-store) | Coding | Single report | Aug 2026 |
 | [Run blocking API calls in parallel with a thread pool](https://landthelab.com/questions/run-blocking-api-calls-in-parallel-with-a-thread-pool) | Coding | Single report | Aug 2026 |
 | [Batched LLM inference API over GPUs](https://landthelab.com/questions/batched-llm-inference-api-over-gpus) | System design | Single report | Jul 2026 |
 | [Design a pipeline that cleans pod alerts and finds bad pods](https://landthelab.com/questions/design-a-pipeline-that-cleans-pod-alerts-and-finds-bad-pods) | System design | Single report | Jul 2026 |
-| [Crash-safe on-disk key-value store](https://landthelab.com/questions/crash-safe-on-disk-key-value-store) | Coding | Single report |  |
+| [Parallel chunked download with integrity check](https://landthelab.com/questions/parallel-chunked-download-with-integrity-check) | Coding | Single report | Feb 2026 |
 | [Design a CI/CD system](https://landthelab.com/questions/design-a-ci-cd-system) | System design | Single report |  |
 | [Guided system design fundamentals round](https://landthelab.com/questions/guided-system-design-fundamentals-round) | System design | Single report |  |
-| [Parallel chunked download with integrity check](https://landthelab.com/questions/parallel-chunked-download-with-integrity-check) | Coding | Single report |  |
 
 ### Coding
 

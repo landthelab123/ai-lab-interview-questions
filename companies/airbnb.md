@@ -60,11 +60,11 @@ What each round grades, its AI policy and how to prep: [Airbnb interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Highlight categorized phrases in a review](https://landthelab.com/questions/highlight-categorized-phrases-in-a-review) | Coding | Medium | Sep 2026 |
 | [Find super hosts from listing and review rules](https://landthelab.com/questions/find-super-hosts-from-listing-and-review-rules) | Coding | Single report | Sep 2026 |
 | [Median house price in each city](https://landthelab.com/questions/median-house-price-in-each-city) | Coding | Single report | Sep 2026 |
 | [Time on page from the next user event](https://landthelab.com/questions/time-on-page-from-the-next-user-event) | Coding | Single report | Sep 2026 |
 | [Users with impressions on seven consecutive days](https://landthelab.com/questions/users-with-impressions-on-seven-consecutive-days) | Coding | Single report | Sep 2026 |
-| [Highlight categorized phrases in a review](https://landthelab.com/questions/highlight-categorized-phrases-in-a-review) | Coding | Medium | Aug 2026 |
 | [Review a series of pull requests](https://landthelab.com/questions/review-a-series-of-pull-requests) | Coding | High | Aug 2026 |
 | [Generic retry helper with configurable backoff](https://landthelab.com/questions/generic-retry-helper-with-configurable-backoff) | Coding | Low | Aug 2026 |
 | [Fill an order from the oldest inventory batches first](https://landthelab.com/questions/fill-an-order-from-the-oldest-inventory-batches-first) | Coding | Single report | Aug 2026 |
@@ -86,6 +86,7 @@ What each round grades, its AI policy and how to prep: [Airbnb interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Design a personalized search ranking system](https://landthelab.com/questions/design-a-personalized-search-ranking-system) | AI/ML design | Single report | Sep 2026 |
 | [Model cumulative booking metrics and first and last booking times](https://landthelab.com/questions/model-cumulative-booking-metrics-and-first-and-last-booking-times) | System design | Single report | Sep 2026 |
 | [Turn company policies into step-by-step support instructions](https://landthelab.com/questions/turn-company-policies-into-step-by-step-support-instructions) | System design | Single report | Sep 2026 |
 | [Design a reliable job scheduler](https://landthelab.com/questions/design-a-reliable-job-scheduler) | System design | Low | Aug 2026 |
@@ -93,7 +94,6 @@ What each round grades, its AI policy and how to prep: [Airbnb interview process
 | [Design a hotel booking system](https://landthelab.com/questions/design-a-hotel-booking-system) | System design | Low | Jun 2026 |
 | [Design a customer support ticketing system](https://landthelab.com/questions/design-a-customer-support-ticketing-system) | System design | Single report | Jun 2026 |
 | [Design a distributed key-value store](https://landthelab.com/questions/design-a-distributed-key-value-store) | System design | Medium | May 2026 |
-| [Design a personalized search ranking system](https://landthelab.com/questions/design-a-personalized-search-ranking-system) | AI/ML design | Single report | May 2026 |
 | [Design a family-friendly listing ranking system](https://landthelab.com/questions/design-a-family-friendly-listing-ranking-system) | AI/ML design | Single report | Apr 2026 |
 | [Semantic search with user embeddings](https://landthelab.com/questions/semantic-search-with-user-embeddings) | AI/ML design | Single report | Apr 2026 |
 | [Design an A/B testing platform](https://landthelab.com/questions/design-an-a-b-testing-platform) | System design | Single report | Apr 2026 |

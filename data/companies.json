@@ -1,0 +1,2246 @@
+{
+ "updated": "2026-11-13",
+ "source": "https://landthelab.com",
+ "companies": [
+  {
+   "company": "Google",
+   "slug": "google",
+   "url": "https://landthelab.com/companies/google",
+   "questions": 316,
+   "last_reported": "2026-11-10",
+   "loop_summary": "A recruiter chat, an online assessment for some early-career roles, a first round of coding and behavioral interviews, then a second round, now mostly in person, of coding (plus system design and leadership from L5). Hiring committee, then team matching with a hiring-manager call.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call with a recruiter"
+    },
+    {
+     "name": "HackerRank assessment",
+     "minutes": 90,
+     "format": "Two problems on HackerRank"
+    },
+    {
+     "name": "First round: coding",
+     "minutes": 45,
+     "format": "Coding in a Google Doc, no syntax highlighting or autocomplete"
+    },
+    {
+     "name": "Googleyness and leadership",
+     "minutes": 45,
+     "format": "Behavioral interview, usually in the first round"
+    },
+    {
+     "name": "Onsite coding",
+     "minutes": 45,
+     "format": "Usually two rounds, mostly in person: whiteboard plus a Chromebook with Google Docs"
+    },
+    {
+     "name": "System design",
+     "minutes": 45,
+     "format": "Whiteboard for the diagram, a doc for requirements and capacity math"
+    },
+    {
+     "name": "Past project deep dive",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "Team match call",
+     "minutes": null,
+     "format": "Fit conversation with a team's manager after hiring committee"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Amazon",
+   "slug": "amazon",
+   "url": "https://landthelab.com/companies/amazon",
+   "questions": 297,
+   "last_reported": "2026-11-11",
+   "loop_summary": "An online assessment for many early-career and SDE II roles, a recruiter call, a 60-minute coding screen with Leadership Principles questions, then four or five 55-minute interviews: coding (often object-oriented design), system design, a hiring-manager round and a Bar Raiser, with behavioral questions in every round.",
+   "rounds": [
+    {
+     "name": "Online assessment",
+     "minutes": null,
+     "format": "Coding problems plus a repository bug-fix section with a built-in assistant or a design scenario, then a work-style survey"
+    },
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "Call with a recruiter"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "Live coding in a shared editor that does not run code, plus Leadership Principles questions"
+    },
+    {
+     "name": "Coding",
+     "minutes": 55,
+     "format": "Usually two rounds; one is often an object-oriented design built in steps"
+    },
+    {
+     "name": "System design",
+     "minutes": 55,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": 55,
+     "format": "Behavioral deep dive"
+    },
+    {
+     "name": "Bar Raiser",
+     "minutes": 55,
+     "format": "Interview with someone from outside the hiring team"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Microsoft",
+   "slug": "microsoft",
+   "url": "https://landthelab.com/companies/microsoft",
+   "questions": 218,
+   "last_reported": "2026-11-05",
+   "loop_summary": "A short recruiter call, an online assessment or phone screen, then four 60-minute rounds (three coding with some behavioral questions, one system design) on a team schedule or a fixed Hiring Event day. Microsoft AI runs its own loop with a project deep dive and practical coding problems.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "Short call"
+    },
+    {
+     "name": "HackerRank assessment",
+     "minutes": 90,
+     "format": "Two problems in a locked full-screen browser"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "One technical round"
+    },
+    {
+     "name": "Coding",
+     "minutes": 60,
+     "format": "Ten to fifteen minutes of behavioral questions, then coding in HackerRank where you write a main and make the tests pass; usually three rounds"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Meta",
+   "slug": "meta",
+   "url": "https://landthelab.com/companies/meta",
+   "questions": 173,
+   "last_reported": "2026-11-13",
+   "loop_summary": "A recruiter call, sometimes a CodeSignal assessment, a 45-minute coding screen, then an onsite that since April 2026 runs AI-enabled: two AI-enabled coding rounds, one or two system design rounds and a behavioral round. Hiring committee and team matching follow.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "Call with a recruiter"
+    },
+    {
+     "name": "CodeSignal assessment",
+     "minutes": 90,
+     "format": "Four levels on one class: basic operations, a ranking query, timestamps and expiry, then merge or snapshot and restore"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 45,
+     "format": "Two coding problems in CoderPad, about 20 minutes each"
+    },
+    {
+     "name": "AI-enabled coding",
+     "minutes": 60,
+     "format": "Several progressive tasks on a starter codebase in CoderPad with an AI assistant panel; usually two rounds"
+    },
+    {
+     "name": "System design",
+     "minutes": 45,
+     "format": "Design discussion; either an LLM-agent system or a classic product system"
+    },
+    {
+     "name": "AI/ML design",
+     "minutes": null,
+     "format": "ML system design"
+    },
+    {
+     "name": "Behavioral",
+     "minutes": 45,
+     "format": "Behavioral interview"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "OpenAI",
+   "slug": "openai",
+   "url": "https://landthelab.com/companies/openai",
+   "questions": 129,
+   "last_reported": "2026-11-02",
+   "loop_summary": "A recruiter call, then technical screens in coding (and system design for many roles), then a virtual final loop of four to six interviews: practical coding, system design, a project presentation and behavioral rounds, followed by team matching. Some onsites now add an agentic coding round, still in beta. Four to eight weeks from the recruiter call to an offer is typical; scheduling can stretch it past two months.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call with a recruiter (sometimes the hiring manager)"
+    },
+    {
+     "name": "Technical screen: coding",
+     "minutes": 60,
+     "format": "One problem in three to five growing parts filling the hour, usually in CoderPad; ML roles get a Colab notebook with autocomplete off"
+    },
+    {
+     "name": "Technical screen: system design",
+     "minutes": 60,
+     "format": "Design discussion, sometimes drawn in Excalidraw; for some roles, on the same day as the coding screen"
+    },
+    {
+     "name": "Onsite coding",
+     "minutes": 60,
+     "format": "Live coding; the problem often rebuilds a familiar system in several parts"
+    },
+    {
+     "name": "Agentic coding (beta)",
+     "minutes": null,
+     "format": "An existing codebase and changes too large to write by hand; you work through them with an AI coding agent"
+    },
+    {
+     "name": "Onsite system design",
+     "minutes": 60,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Project presentation",
+     "minutes": 45,
+     "format": "You present one or two projects you led, usually with a few slides, then take rapid questions"
+    },
+    {
+     "name": "Behavioral",
+     "minutes": null,
+     "format": "Conversation; some loops have a second one on cross-functional work"
+    }
+   ]
+  },
+  {
+   "company": "Uber",
+   "slug": "uber",
+   "url": "https://landthelab.com/companies/uber",
+   "questions": 118,
+   "last_reported": "2026-10-27",
+   "loop_summary": "A short recruiter call, an online assessment, a 60-minute coding screen, then four 60-minute virtual rounds: two coding (one often object-oriented design), system design (a project deep dive below senior) and a hiring-manager round.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 20,
+     "format": "Call with a recruiter"
+    },
+    {
+     "name": "Online assessment",
+     "minutes": 90,
+     "format": "Two problems on a HackerRank-based platform, camera and screen share on"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "One medium problem with a follow-up, or two short ones; sometimes object-oriented design"
+    },
+    {
+     "name": "Coding",
+     "minutes": 60,
+     "format": "Two rounds; one is often object-oriented design (a parking lot, a meeting scheduler, an expression evaluator)"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Whiteboard and discussion"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": null,
+     "format": "Behavioral questions plus a walkthrough of a past project"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Apple",
+   "slug": "apple",
+   "url": "https://landthelab.com/companies/apple",
+   "questions": 105,
+   "last_reported": "2026-10-25",
+   "loop_summary": null,
+   "rounds": [
+    {
+     "name": "Online assessment",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "Coding",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "AI system design",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "AI/ML design",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "Culture and values",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Snowflake",
+   "slug": "snowflake",
+   "url": "https://landthelab.com/companies/snowflake",
+   "questions": 80,
+   "last_reported": "2026-10-21",
+   "loop_summary": "A recruiter screen that turns many candidates away, two back-to-back coding screens, then an onsite (virtual or in person) of more coding, system design and a behavioral or hiring-manager round, then a hiring-manager call.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call with a recruiter"
+    },
+    {
+     "name": "Two coding screens",
+     "minutes": 60,
+     "format": "Two back-to-back live coding rounds, often on the same day; some loops pair coding with system design"
+    },
+    {
+     "name": "Coding",
+     "minutes": 60,
+     "format": "Live coding; senior loops may agree a small storage component together, then build it"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": null,
+     "format": "Behavioral conversation"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Stripe",
+   "slug": "stripe",
+   "url": "https://landthelab.com/companies/stripe",
+   "questions": 76,
+   "last_reported": "2026-11-04",
+   "loop_summary": "A recruiter call, a coding screen in a real project editor, then an onsite of four or five rounds: one or two practical coding sessions (fixing bugs, integrating an API, building on a skeleton), a payments-flavored system design, a hiring-manager conversation and a values round. References are checked closely before an offer.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call with a recruiter"
+    },
+    {
+     "name": "HackerRank assessment",
+     "minutes": null,
+     "format": "Leveled HackerRank task; test cases map to the parts in order"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "One realistic task in parts, in a project editor (CoderPad project mode or HackerRank Projects) with several files and tests"
+    },
+    {
+     "name": "Onsite coding: debug, integrate, build",
+     "minutes": 60,
+     "format": "Project editor with starter code and tests: fix bugs in an unfamiliar codebase, wire an external API spec into a service, or complete a skeleton in parts"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Design discussion in a shared document"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": null,
+     "format": "Behavioral conversation"
+    },
+    {
+     "name": "Cross-functional / values",
+     "minutes": null,
+     "format": "Behavioral conversation"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Waymo",
+   "slug": "waymo",
+   "url": "https://landthelab.com/companies/waymo",
+   "questions": 68,
+   "last_reported": "2026-10-30",
+   "loop_summary": "A recruiter call, a 45-minute coding screen, then a virtual onsite of about four rounds: two coding, system design and a behavioral or hiring-manager round, often with a data fluency round. An extra round before the decision is common.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "Call with a recruiter"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 45,
+     "format": "Coding: a classic algorithm problem or an original, under-specified problem framed around self-driving"
+    },
+    {
+     "name": "Coding",
+     "minutes": 45,
+     "format": "Usually two rounds; some give you the interviewer's buggy code to find and fix, some are read aloud with no skeleton"
+    },
+    {
+     "name": "System design",
+     "minutes": 45,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Data fluency",
+     "minutes": 45,
+     "format": "No coding: reason about metrics and experiment design for a driving or simulation scenario"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": null,
+     "format": "Behavioral or hiring-manager conversation"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Airbnb",
+   "slug": "airbnb",
+   "url": "https://landthelab.com/companies/airbnb",
+   "questions": 65,
+   "last_reported": "2026-11-05",
+   "loop_summary": "A short recruiter call, a 45-minute coding screen and often a hiring-manager screen, then a virtual onsite of coding, code review, system design and a project deep dive. A separate core-values round follows once those pass, then team matching, which can take weeks.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 20,
+     "format": "Call with a recruiter"
+    },
+    {
+     "name": "CodeSignal assessment",
+     "minutes": 90,
+     "format": "Leveled project: one class with unit tests, four levels that unlock in turn"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 45,
+     "format": "One algorithm problem from a small recurring pool"
+    },
+    {
+     "name": "Hiring manager screen",
+     "minutes": 45,
+     "format": "Background conversation"
+    },
+    {
+     "name": "Coding",
+     "minutes": 45,
+     "format": "Live coding, one or two rounds, from the same pool as the screen"
+    },
+    {
+     "name": "Code review",
+     "minutes": 60,
+     "format": "Review two to four pull requests of growing size in Python or Java while the interviewer mostly watches"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Experience deep dive",
+     "minutes": 60,
+     "format": "One project from your resume, explored in detail"
+    },
+    {
+     "name": "Core values",
+     "minutes": 45,
+     "format": "Conversation with employees outside the team, scheduled after the technical rounds"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Anthropic",
+   "slug": "anthropic",
+   "url": "https://landthelab.com/companies/anthropic",
+   "questions": 62,
+   "last_reported": "2026-10-26",
+   "loop_summary": "A recruiter call, a leveled CodeSignal assessment and a live practical screen, then about five onsite rounds over two days: coding and system design usually come first, and a weak first day can cancel the second (hiring manager, project deep dive, culture). Two coworker references are checked before the offer. Three to eight weeks from application to an offer is typical; team matching and references take the longest.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Phone or video call with a recruiter"
+    },
+    {
+     "name": "CodeSignal assessment",
+     "minutes": 90,
+     "format": "Timed CodeSignal project in levels; the tests of one level must pass before the next one opens"
+    },
+    {
+     "name": "Live technical screen",
+     "minutes": 55,
+     "format": "One engineer on video with screen share, usually in CodeSignal (Google Colab for research roles), Python by default; one practical problem that grows in parts"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": 30,
+     "format": "Call with the hiring manager"
+    },
+    {
+     "name": "Coding",
+     "minutes": 55,
+     "format": "Live coding on a realistic, multi-part problem, a different one from the screen"
+    },
+    {
+     "name": "System design",
+     "minutes": 55,
+     "format": "Design discussion, often typed into a shared Google Doc rather than drawn; some rounds let you share any drawing tool"
+    },
+    {
+     "name": "Culture and values",
+     "minutes": 60,
+     "format": "Conversation, often two interviewers (one asks, one shadows)"
+    },
+    {
+     "name": "Project deep dive",
+     "minutes": 60,
+     "format": "You present a project you owned end to end for about 20 minutes; interviewers probe it for the rest of the hour"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Databricks",
+   "slug": "databricks",
+   "url": "https://landthelab.com/companies/databricks",
+   "questions": 59,
+   "last_reported": "2026-10-19",
+   "loop_summary": "A recruiter call, an algorithmic coding screen and a hiring manager call, then an onsite of about five one-hour rounds that includes a concurrency round candidates find hardest, followed by references and a hiring committee. Two to six weeks from the recruiter call to an offer is typical in candidate reports.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call"
+    },
+    {
+     "name": "Online assessment",
+     "minutes": null,
+     "format": "Timed online coding test"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "Live coding in CoderPad or a similar runnable editor"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": 60,
+     "format": "Call with the hiring manager (sometimes a director)"
+    },
+    {
+     "name": "Algorithms (two rounds)",
+     "minutes": 60,
+     "format": "Live coding in CoderPad or similar"
+    },
+    {
+     "name": "Concurrency",
+     "minutes": 60,
+     "format": "Live coding"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Design discussion, often written in a Google Doc rather than on a whiteboard"
+    },
+    {
+     "name": "Cross-functional behavioral",
+     "minutes": 60,
+     "format": "Conversation, usually with the hiring manager"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Nvidia",
+   "slug": "nvidia",
+   "url": "https://landthelab.com/companies/nvidia",
+   "questions": 57,
+   "last_reported": "2026-10-16",
+   "loop_summary": "Many team-owned loops under one name: a recruiter or hiring manager screen, one technical screen, then a virtual onsite of four to six rounds over one or two days. Rounds are usually short engineering tasks in the team's domain after a project discussion, not standard puzzle questions; prepare from the job description. Three to eight weeks from application to an offer is typical.",
+   "rounds": [
+    {
+     "name": "Recruiter or hiring manager screen",
+     "minutes": null,
+     "format": "Call"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": null,
+     "format": "Live technical interview, 45 to 90 minutes; a project discussion, then a small task"
+    },
+    {
+     "name": "Coding",
+     "minutes": null,
+     "format": "Live coding, often C++-leaning; each round usually opens with 10 to 15 minutes on your past work"
+    },
+    {
+     "name": "Practical or debugging round",
+     "minutes": null,
+     "format": "Run and debug a real project under screen share, or work inside a hosted Linux machine"
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": "Design discussion, often narrow and concrete"
+    },
+    {
+     "name": "Project deep dive",
+     "minutes": null,
+     "format": "Conversation about your current and earlier roles"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": null,
+     "format": "Conversation with the hiring manager or a director"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Netflix",
+   "slug": "netflix",
+   "url": "https://landthelab.com/companies/netflix",
+   "questions": 43,
+   "last_reported": "2026-10-14",
+   "loop_summary": "A recruiter call that screens culture fit, one 60-minute technical screen, then a virtual onsite of about five rounds: coding, system design, a team-specific domain or data-modeling round, and two manager or culture conversations.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "Call with a recruiter"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "Coding, practical problem solving, or SQL and pipeline design, depending on the org"
+    },
+    {
+     "name": "Coding / problem solving",
+     "minutes": null,
+     "format": "Live coding on under-specified requirements"
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": "Design discussion; some loops split a general round from a team-specific one"
+    },
+    {
+     "name": "Domain design or data modeling",
+     "minutes": null,
+     "format": "Design tied to the team's domain (ads, data platform, ML infrastructure)"
+    },
+    {
+     "name": "Manager and culture rounds",
+     "minutes": null,
+     "format": "Usually two behavioral conversations"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "SpaceXAI",
+   "slug": "xai",
+   "url": "https://landthelab.com/companies/xai",
+   "questions": 40,
+   "last_reported": "2026-10-15",
+   "loop_summary": "Fast (often two to three weeks) and almost entirely hands-on coding: a 15-minute screen with an engineer, for some tracks a four-hour take-home, a live applied coding screen, then two or three in-person rounds of coding and design, with ownership probed by the hiring manager rather than in a separate behavioral round.",
+   "rounds": [
+    {
+     "name": "Short screen with an engineer",
+     "minutes": 15,
+     "format": "Video call, often with an engineer rather than a recruiter: a quick intro, your hardest project, why xAI"
+    },
+    {
+     "name": "Take-home",
+     "minutes": 240,
+     "format": "Four-hour CodeSignal project; pick one of several prompts (backend service, RAG service, frontend or mobile app), then record a demo video"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 45,
+     "format": "Live applied coding on a shared platform such as CoderPad"
+    },
+    {
+     "name": "Onsite applied coding",
+     "minutes": null,
+     "format": "Two or three rounds, in person (Palo Alto for many roles)"
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": "Scope a vague prompt, then write working code for it"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": null,
+     "format": "Call or meeting with the hiring manager or a team member"
+    },
+    {
+     "name": "Project presentation",
+     "minutes": null,
+     "format": "Present a large project you owned, then questions"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Tesla",
+   "slug": "tesla",
+   "url": "https://landthelab.com/companies/tesla",
+   "questions": 38,
+   "last_reported": "2026-09-17",
+   "loop_summary": "Less standard than most: a recruiter call, a 45-minute technical screen that mixes project talk with a compact runnable task, then a second team-run technical round or, for senior roles, an onsite of 45-minute rounds: project deep dive, a manager conversation and system design.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "Call with a recruiter or sourcer"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 45,
+     "format": "10 to 20 minutes on your background, then one compact coding, debugging or design task in CoderPad that must run"
+    },
+    {
+     "name": "Second technical round",
+     "minutes": 45,
+     "format": "Coding, often combined with team fit"
+    },
+    {
+     "name": "Project deep dive",
+     "minutes": 45,
+     "format": "A project you owned, discussed in depth"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": 45,
+     "format": "Behavioral and manager conversation"
+    },
+    {
+     "name": "System design",
+     "minutes": 45,
+     "format": "System or technical design; two rounds in senior loops"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Applied Intuition",
+   "slug": "applied-intuition",
+   "url": "https://landthelab.com/companies/applied-intuition",
+   "questions": 30,
+   "last_reported": "2026-11-10",
+   "loop_summary": "A recruiter call, a CoderPad coding screen and a call with the hiring manager (in either order), then an onsite of design and coding. Since mid-2026 many onsites pair a system design with a two- to three-hour build of it using Claude, followed by a presentation of the result. Two to four weeks from the first call to an offer is typical.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "Call"
+    },
+    {
+     "name": "Online assessment",
+     "minutes": null,
+     "format": "Timed CoderPad assessment, a few short questions"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 45,
+     "format": "Live coding in CoderPad; the language can be fixed by the role (Python, C++, or C for embedded)"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": null,
+     "format": "Call with the hiring manager or team lead"
+    },
+    {
+     "name": "System design",
+     "minutes": 45,
+     "format": "Design discussion, often in Excalidraw or CoderPad's drawing tool"
+    },
+    {
+     "name": "AI-assisted build",
+     "minutes": 120,
+     "format": "Build the designed system, or a small web app, in a prepared environment over two to three hours"
+    },
+    {
+     "name": "Project presentation",
+     "minutes": 30,
+     "format": "Present what you built in the onsite, or a prepared past project"
+    }
+   ]
+  },
+  {
+   "company": "Mercor",
+   "slug": "mercor",
+   "url": "https://landthelab.com/companies/mercor",
+   "questions": 28,
+   "last_reported": "2026-10-13",
+   "loop_summary": "A background round on your recent project, why Mercor and how you use AI, then a technical screen of about 50 minutes that is often code review or rapid-fire questions rather than live coding, then an onsite of coding, system design and, for ML roles, an ML or LLM round. One to two weeks from the first call to an offer is typical for a full-time engineering role; decisions often come within days of the onsite.",
+   "rounds": [
+    {
+     "name": "Background and project",
+     "minutes": null,
+     "format": "Introduction and a deep dive on a recent project"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 50,
+     "format": "Technical screen, often without writing code"
+    },
+    {
+     "name": "Coding",
+     "minutes": 45,
+     "format": "Live coding"
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": "Design discussion"
+    },
+    {
+     "name": "AI/ML design",
+     "minutes": null,
+     "format": "ML and LLM round, for ML roles"
+    }
+   ]
+  },
+  {
+   "company": "Glean",
+   "slug": "glean",
+   "url": "https://landthelab.com/companies/glean",
+   "questions": 27,
+   "last_reported": "2026-11-09",
+   "loop_summary": "Recruiter and hiring manager calls and a fast-paced coding screen, then a virtual onsite of four to five sessions: coding, a two-hour build-from-scratch assignment, enterprise-search system design and behavioral; senior candidates may also meet a founder. Two to five weeks from the first call to an offer is typical.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": 45,
+     "format": "Video call"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "Live coding, one or two sessions"
+    },
+    {
+     "name": "Coding",
+     "minutes": null,
+     "format": "Live coding, usually two rounds"
+    },
+    {
+     "name": "Practical assignment",
+     "minutes": 120,
+     "format": "Build a small working module from an empty file"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Behavioral",
+     "minutes": 60,
+     "format": "Conversation"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Nuro",
+   "slug": "nuro",
+   "url": "https://landthelab.com/companies/nuro",
+   "questions": 27,
+   "last_reported": "2026-10-19",
+   "loop_summary": null,
+   "rounds": [
+    {
+     "name": "Technical phone screen",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "Coding",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "AI system design",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "Culture and values",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Harvey",
+   "slug": "harvey",
+   "url": "https://landthelab.com/companies/harvey",
+   "questions": 24,
+   "last_reported": "2026-11-04",
+   "loop_summary": "Recruiter and hiring manager calls, a coding phone screen, then an onsite of coding, LLM-application system design, behavioral and a project walkthrough; roughly half the bar is ordinary engineering and half is turning messy legal work into something a model does reliably. Two to five weeks from the recruiter call to an offer is typical.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": 45,
+     "format": "Call with the hiring manager"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "Live coding in a shared editor"
+    },
+    {
+     "name": "Coding",
+     "minutes": 60,
+     "format": "Live practical coding"
+    },
+    {
+     "name": "System design (LLM applications)",
+     "minutes": 60,
+     "format": "Design discussion on a whiteboard or doc"
+    },
+    {
+     "name": "Behavioral",
+     "minutes": 45,
+     "format": "Conversation"
+    },
+    {
+     "name": "Project walkthrough",
+     "minutes": 60,
+     "format": "Walk through a project you built, then questions"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Scale AI",
+   "slug": "scale-ai",
+   "url": "https://landthelab.com/companies/scale-ai",
+   "questions": 23,
+   "last_reported": "2026-10-15",
+   "loop_summary": "A recruiter call, a timed HackerRank coding screen and a hiring manager chat, then a virtual onsite of coding, applied engineering, a signature debugging round, AI-data system design and a values round; candidates are told up front the culture is high intensity. Two to six weeks from application to an offer is typical.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call"
+    },
+    {
+     "name": "HackerRank coding screen",
+     "minutes": 60,
+     "format": "Timed coding on HackerRank, one or two scenario-style problems"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": 45,
+     "format": "Conversation"
+    },
+    {
+     "name": "Coding",
+     "minutes": null,
+     "format": "Live coding, one or two rounds, Python"
+    },
+    {
+     "name": "Applied engineering",
+     "minutes": 60,
+     "format": "Build a small working system"
+    },
+    {
+     "name": "Debugging",
+     "minutes": null,
+     "format": "Find planted logic bugs in an unfamiliar multi-file codebase under a strict time limit"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Behavioral (values)",
+     "minutes": 45,
+     "format": "Conversation"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Figma",
+   "slug": "figma",
+   "url": "https://landthelab.com/companies/figma",
+   "questions": 21,
+   "last_reported": "2026-11-06",
+   "loop_summary": "A recruiter call, a phone stage of a 60-minute coding round and a hiring-manager chat, then an onsite of four or five rounds: pair programming, a project deep dive, one or two system designs and a behavioral round. Senior candidates add a director conversation and two references.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "Call with a recruiter"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "Pair programming in your own language against tests the interviewer provides"
+    },
+    {
+     "name": "Hiring manager chat",
+     "minutes": 45,
+     "format": "Behavioral conversation, alongside the coding screen"
+    },
+    {
+     "name": "Coding",
+     "minutes": 60,
+     "format": "One or two pair-programming rounds against provided tests"
+    },
+    {
+     "name": "Project deep dive",
+     "minutes": null,
+     "format": "Walk through a project you led"
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": "Design discussion; one or two rounds"
+    },
+    {
+     "name": "Behavioral",
+     "minutes": null,
+     "format": "All-around conversation, often with the hiring manager"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Decagon",
+   "slug": "decagon",
+   "url": "https://landthelab.com/companies/decagon",
+   "questions": 16,
+   "last_reported": "2026-11-13",
+   "loop_summary": "A recruiter call and a practical coding screen, then an onsite of pair coding, agent-system design, a project deep dive and a values round; three to four weeks overall.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 45,
+     "format": "Live coding in a CoderPad-style editor"
+    },
+    {
+     "name": "Pair coding",
+     "minutes": 60,
+     "format": "Build a small working feature with the interviewer as a teammate"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Project deep dive",
+     "minutes": 60,
+     "format": "Discussion of a project you owned"
+    },
+    {
+     "name": "Behavioral / culture",
+     "minutes": null,
+     "format": "Conversation"
+    }
+   ]
+  },
+  {
+   "company": "Perplexity",
+   "slug": "perplexity",
+   "url": "https://landthelab.com/companies/perplexity",
+   "questions": 14,
+   "last_reported": "2026-11-02",
+   "loop_summary": "A recruiter call, a demanding multi-part coding screen or assessment, then a virtual onsite of coding, search-and-AI system design, LLM product design and a founder or VP round; three to five weeks overall.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call"
+    },
+    {
+     "name": "Technical screen or assessment",
+     "minutes": null,
+     "format": "Online assessment or live coding (often CoderPad); problems come in parts, each adding a requirement to your code"
+    },
+    {
+     "name": "Coding",
+     "minutes": 45,
+     "format": "Two live coding rounds"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Design discussion"
+    },
+    {
+     "name": "ML / LLM design",
+     "minutes": 60,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Project deep dive",
+     "minutes": null,
+     "format": "Conversation about a project you built"
+    },
+    {
+     "name": "Hiring manager or founder",
+     "minutes": 45,
+     "format": "Conversation, often with a founder or VP"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Cursor",
+   "slug": "cursor",
+   "url": "https://landthelab.com/companies/cursor",
+   "questions": 14,
+   "last_reported": "2026-10-28",
+   "loop_summary": "A recruiter call that checks you really use the product, one to three applied coding screens with no AI beyond autocomplete, then one or two days at the office building a real project with the team, which you present and defend, often with a founder. One to three weeks from the first call to an offer is typical, the onsite project included.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call"
+    },
+    {
+     "name": "Technical screens",
+     "minutes": 60,
+     "format": "One to three live coding rounds"
+    },
+    {
+     "name": "Onsite project",
+     "minutes": null,
+     "format": "One or two days at the office building a real project with the team, in a slice of Cursor's codebase"
+    },
+    {
+     "name": "Project review and founder conversation",
+     "minutes": null,
+     "format": "Present and defend what you built; often a conversation with a founder"
+    },
+    {
+     "name": "Other questions",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "CoreWeave",
+   "slug": "coreweave",
+   "url": "https://landthelab.com/companies/coreweave",
+   "questions": 13,
+   "last_reported": "2026-10-07",
+   "loop_summary": "A recruiter call, a practical coding screen (Python or Go, often concurrency, not LeetCode-style), sometimes a hiring manager round and a second screen, then an onsite of coding, one or two system design rounds on infrastructure, behavioral and leadership rounds, and a résumé deep dive. Three to five weeks from the first call to an offer is typical; a fast-moving candidate can finish in about two or three.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "Call with a recruiter"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "Practical coding in CoderPad, Python or Go"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": null,
+     "format": "Conversation with the hiring manager"
+    },
+    {
+     "name": "Coding",
+     "minutes": null,
+     "format": "Coding and pair coding"
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": "One or two design rounds"
+    },
+    {
+     "name": "Behavioral and leadership",
+     "minutes": null,
+     "format": "Behavioral and leadership interviews"
+    },
+    {
+     "name": "Résumé deep dive",
+     "minutes": null,
+     "format": "Walk through your past projects"
+    }
+   ]
+  },
+  {
+   "company": "Notion",
+   "slug": "notion",
+   "url": "https://landthelab.com/companies/notion",
+   "questions": 13,
+   "last_reported": "2026-06-07",
+   "loop_summary": "A recruiter call, a coding screen (sometimes after a take-home editor project), then an onsite of practical coding and debugging, collaboration-focused system design, behavioral and a leadership conversation. Two to five weeks from the first call to an offer is typical.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call"
+    },
+    {
+     "name": "Take-home",
+     "minutes": null,
+     "format": "A small block-based editor in React and TypeScript (block types, drag and drop, undo and redo), about 4 to 8 hours of work"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "Live coding in CoderPad"
+    },
+    {
+     "name": "Practical coding and debugging",
+     "minutes": 60,
+     "format": "Coding or debugging inside a realistic codebase"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Behavioral",
+     "minutes": 60,
+     "format": "Conversation"
+    },
+    {
+     "name": "Hiring manager / leadership",
+     "minutes": 45,
+     "format": "Conversation, sometimes with a founder or early employee"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Cohere",
+   "slug": "cohere",
+   "url": "https://landthelab.com/companies/cohere",
+   "questions": 12,
+   "last_reported": "2026-10-03",
+   "loop_summary": "A recruiter call, a hiring manager conversation and production-minded coding rounds, then enterprise-flavored ML and system design, a behavioral round and a team match; four to seven weeks overall.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": null,
+     "format": "Conversation with the hiring manager"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "Live coding in Python or Go"
+    },
+    {
+     "name": "Coding",
+     "minutes": 60,
+     "format": "Live coding"
+    },
+    {
+     "name": "ML / system design",
+     "minutes": 60,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Behavioral",
+     "minutes": 60,
+     "format": "Conversation"
+    },
+    {
+     "name": "Team match",
+     "minutes": 45,
+     "format": "Conversation with a prospective team"
+    }
+   ]
+  },
+  {
+   "company": "Baseten",
+   "slug": "baseten",
+   "url": "https://landthelab.com/companies/baseten",
+   "questions": 12,
+   "last_reported": "2026-10-13",
+   "loop_summary": "A short recruiter call, a practical CoderPad screen, then a three-to-four-hour loop of deeper coding on concurrency, model-serving system design and a goals conversation that often includes a founder. Three to six weeks from the first call to an offer is typical, about a month most often; replies between rounds can be slow.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "Live in CoderPad: a few minutes of intro, then 45 to 50 minutes on one practical problem"
+    },
+    {
+     "name": "Deeper coding",
+     "minutes": 60,
+     "format": "Live coding, one or two sessions"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Goals conversation",
+     "minutes": null,
+     "format": "Conversation, often with a founder"
+    }
+   ]
+  },
+  {
+   "company": "Hugging Face",
+   "slug": "hugging-face",
+   "url": "https://landthelab.com/companies/hugging-face",
+   "questions": 10,
+   "last_reported": null,
+   "loop_summary": "A recruiter or hiring manager call, a coding screen with ML or systems depth for some roles, a role-specific take-home on a real open-source problem, a 60-minute review where you defend it, then talks with the team on open-source work and values; no algorithm gauntlet. Three to six weeks from application to an offer is typical; the take-home takes the longest.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Intro call with a recruiter or the hiring manager; often two or three calls including future teammates"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "Live coding"
+    },
+    {
+     "name": "Take-home",
+     "minutes": null,
+     "format": "A task drawn from real work: fix a bug in a real repository, add a feature to a library, a dataset contribution, a Spaces demo; ML roles may get a small training or RLHF task"
+    },
+    {
+     "name": "Take-home review",
+     "minutes": 60,
+     "format": "Walk through and defend your solution, maintainer style"
+    },
+    {
+     "name": "Domain depth",
+     "minutes": null,
+     "format": "One or two discussions, depending on the role"
+    },
+    {
+     "name": "Open source and values",
+     "minutes": null,
+     "format": "Conversations with the team, sometimes a lead or executive"
+    }
+   ]
+  },
+  {
+   "company": "ElevenLabs",
+   "slug": "elevenlabs",
+   "url": "https://landthelab.com/companies/elevenlabs",
+   "questions": 9,
+   "last_reported": "2026-11-08",
+   "loop_summary": "A recruiter screen, a 90-minute asynchronous coding test, a product-minded behavioral round, a practical coding round on a dubbing or audio-transcript app, and a final product decomposition discussion. Two to four weeks from application to an offer is typical.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "Call with a recruiter"
+    },
+    {
+     "name": "Online assessment",
+     "minutes": 90,
+     "format": "Asynchronous CoderPad test"
+    },
+    {
+     "name": "Culture and values",
+     "minutes": null,
+     "format": "Behavioral round with a product angle"
+    },
+    {
+     "name": "Practical coding",
+     "minutes": null,
+     "format": "Hands-on coding on a small product: the dubbing review workflow, or a React app that plays audio with its transcript"
+    },
+    {
+     "name": "Product decomposition",
+     "minutes": null,
+     "format": "Verbal design discussion"
+    }
+   ]
+  },
+  {
+   "company": "Abridge",
+   "slug": "abridge",
+   "url": "https://landthelab.com/companies/abridge",
+   "questions": 9,
+   "last_reported": "2026-10-31",
+   "loop_summary": "A recruiter call, a hiring-manager conversation about a complex past project with a short design discussion, then an onsite panel of system design, coding tied to the product and a cross-functional round, and a final call with the CTO or executives. About a month from the first call to an offer is typical, with a reply about a week after each stage.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "Call with a recruiter"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": null,
+     "format": "A complex project you built, with a small design discussion"
+    },
+    {
+     "name": "Coding",
+     "minutes": null,
+     "format": "Coding tied to the product, not puzzles; mobile candidates had a one-hour hands-on build"
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": "General system design"
+    },
+    {
+     "name": "Cross-functional and behavioral",
+     "minutes": null,
+     "format": "Product sense and collaboration, sometimes with a designer"
+    },
+    {
+     "name": "CTO call",
+     "minutes": null,
+     "format": "Final conversation with the CTO or two executives"
+    }
+   ]
+  },
+  {
+   "company": "Mistral AI",
+   "slug": "mistral-ai",
+   "url": "https://landthelab.com/companies/mistral-ai",
+   "questions": 8,
+   "last_reported": "2026-09-01",
+   "loop_summary": "A recruiter or hiring manager call, a technical screen (ML fundamentals for research roles), coding and system design (on CodeSignal in a 2026 report), then a final panel with teammates and leadership; pragmatic, and fluent LLM knowledge is expected. Three to eight weeks from application to an offer is typical; scheduling sets most of the range.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call with a talent partner; not technical"
+    },
+    {
+     "name": "LLM knowledge screen",
+     "minutes": 60,
+     "format": "Structured technical check with a Mistral engineer"
+    },
+    {
+     "name": "Coding",
+     "minutes": 60,
+     "format": "Live coding in Python"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Architecture discussion"
+    },
+    {
+     "name": "Final panel",
+     "minutes": null,
+     "format": "Three or four conversations with potential teammates and leadership"
+    }
+   ]
+  },
+  {
+   "company": "Microsoft AI",
+   "slug": "microsoft-ai",
+   "url": "https://landthelab.com/companies/microsoft-ai",
+   "questions": 8,
+   "last_reported": "2026-10-18",
+   "loop_summary": "Microsoft AI (Copilot and the MAI teams) runs its own onsite: practical coding, system design, a deep dive into a past project and behavioral questions, with an applied data round in machine learning loops.",
+   "rounds": [
+    {
+     "name": "Coding",
+     "minutes": null,
+     "format": "Live coding"
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Project deep dive",
+     "minutes": null,
+     "format": "Conversation about past work"
+    },
+    {
+     "name": "Behavioral",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Modal",
+   "slug": "modal",
+   "url": "https://landthelab.com/companies/modal",
+   "questions": 8,
+   "last_reported": "2026-09-26",
+   "loop_summary": null,
+   "rounds": [
+    {
+     "name": "Technical phone screen",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "AI system design",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Together AI",
+   "slug": "together-ai",
+   "url": "https://landthelab.com/companies/together-ai",
+   "questions": 8,
+   "last_reported": "2026-10-08",
+   "loop_summary": "A recruiter call, a 60-minute coding screen, sometimes a take-home for senior or infrastructure roles, then coding on GPU-cluster style problems, an applied ML systems round (attention, streaming, batching, KV cache), system design for senior roles, and a final talk with a leader. Two to four weeks from the first call to an offer is typical.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Video call"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "Live coding in CoderPad"
+    },
+    {
+     "name": "Take-home",
+     "minutes": null,
+     "format": "A realistic production-style task"
+    },
+    {
+     "name": "Coding",
+     "minutes": 60,
+     "format": "Algorithms round"
+    },
+    {
+     "name": "Applied ML systems coding",
+     "minutes": 60,
+     "format": "Live coding"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Team and leader conversations",
+     "minutes": null,
+     "format": "Two to four sessions with engineers from different teams, then 30 to 45 minutes with a senior leader"
+    }
+   ]
+  },
+  {
+   "company": "Sierra",
+   "slug": "sierra",
+   "url": "https://landthelab.com/companies/sierra",
+   "questions": 8,
+   "last_reported": "2026-11-01",
+   "loop_summary": "Built around a take-home: a recruiter call, one coding screen, a take-home customer-support agent, then an in-person onsite with a debugging round, a presentation of your agent and a hiring manager conversation. Two to five weeks from the first call to an offer is typical; the take-home adds the most time.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "One live coding problem in Python or TypeScript"
+    },
+    {
+     "name": "Take-home agent",
+     "minutes": null,
+     "format": "Build a customer-support AI agent for a made-up client and choose which features to ship; an OpenAI key is provided"
+    },
+    {
+     "name": "Debugging",
+     "minutes": 60,
+     "format": "A small repo that implements one feature end to end (a Python retention agent in a 2026 report, a TypeScript and React app in earlier ones) with several customer-reported bugs: reproduce each, find the root cause, fix it and prove the flow works end to end"
+    },
+    {
+     "name": "Agent presentation",
+     "minutes": 60,
+     "format": "Half a walkthrough of your take-home agent, half a talk on a technical topic of your choice for a non-technical audience"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": 60,
+     "format": "Conversation with the hiring manager that goes through your whole resume from graduation on: why each job switch, what motivated it, the engineer you respect most, and what your manager would say you are good and bad at"
+    },
+    {
+     "name": "Other questions",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Hebbia",
+   "slug": "hebbia",
+   "url": "https://landthelab.com/companies/hebbia",
+   "questions": 7,
+   "last_reported": "2026-06-18",
+   "loop_summary": "A 30-minute recruiter call, a 45-minute coding screen and a 45-minute system design screen, then a full day in the New York office building an app from a set of requirements and demoing it to the team, and a short final call with the CEO. Three to five weeks from the first call to an offer is typical.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Phone call"
+    },
+    {
+     "name": "Coding screen",
+     "minutes": 45,
+     "format": "Live coding"
+    },
+    {
+     "name": "System design",
+     "minutes": 45,
+     "format": "Design screen"
+    },
+    {
+     "name": "Onsite build day",
+     "minutes": 480,
+     "format": "About eight hours in the New York office building and deploying an app from scratch from a set of requirements, then a demo to the team"
+    },
+    {
+     "name": "CEO call",
+     "minutes": 15,
+     "format": "Short final call with the CEO"
+    }
+   ]
+  },
+  {
+   "company": "LangChain",
+   "slug": "langchain",
+   "url": "https://landthelab.com/companies/langchain",
+   "questions": 6,
+   "last_reported": "2026-09-26",
+   "loop_summary": null,
+   "rounds": [
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "AI system design",
+     "minutes": null,
+     "format": null
+    },
+    {
+     "name": "Take-home",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Fireworks AI",
+   "slug": "fireworks-ai",
+   "url": "https://landthelab.com/companies/fireworks-ai",
+   "questions": 5,
+   "last_reported": "2026-10-10",
+   "loop_summary": "A recruiter call, one or two live coding screens on scheduling and interval problems (idle time across GPUs is a favorite), an optional take-home built on the Fireworks API, then an onsite of coding, one or two system design rounds on model serving, and cross-team talks.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": null,
+     "format": "One or two live coding sessions"
+    },
+    {
+     "name": "Take-home",
+     "minutes": null,
+     "format": "Build a small working app on the Fireworks API, such as a chat interface"
+    },
+    {
+     "name": "Coding",
+     "minutes": null,
+     "format": "Live coding, one round"
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": "One or two rounds"
+    },
+    {
+     "name": "Cross-team and behavioral",
+     "minutes": null,
+     "format": "Two to four conversations, sometimes with a co-founder or product leader"
+    },
+    {
+     "name": "Unconfirmed",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
+   "company": "Cognition",
+   "slug": "cognition",
+   "url": "https://landthelab.com/companies/cognition",
+   "questions": 5,
+   "last_reported": "2026-09-30",
+   "loop_summary": "A recruiter or hiring manager call, a coding assessment or live coding screen, then an onsite. The CEO has said engineering candidates build their own end-to-end coding agent in six to eight hours. Most dated reports come from Windsurf (Codeium) pipelines before the 2025 acquisition.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "Call with a recruiter or the hiring manager"
+    },
+    {
+     "name": "Online assessment",
+     "minutes": null,
+     "format": "Timed online coding assessment"
+    },
+    {
+     "name": "Coding screen",
+     "minutes": null,
+     "format": "Live coding"
+    },
+    {
+     "name": "Build day",
+     "minutes": 480,
+     "format": "Build your own end-to-end coding agent from scratch"
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Project deep dive",
+     "minutes": null,
+     "format": "Conversation about a system you built: where it broke and what you would change"
+    }
+   ]
+  },
+  {
+   "company": "Lambda",
+   "slug": "lambda",
+   "url": "https://landthelab.com/companies/lambda",
+   "questions": 4,
+   "last_reported": "2026-10-25",
+   "loop_summary": "A recruiter call that doubles as a technical vocabulary screen on infrastructure, a coding screen, then an onsite of four one-hour rounds: coding on a small project (a key-value store on a block device), a hands-on Linux round on a live server, system design (provisioning VMs) and a team collaboration round; possibly a final talk with the CEO. Two to four weeks from the first call to an offer is typical.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "Company introduction plus short technical questions; answers are transcribed for the hiring manager"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": null,
+     "format": "Complete a class in a small multi-file project until its unit tests pass"
+    },
+    {
+     "name": "Coding",
+     "minutes": 60,
+     "format": "Coding on a small project, not an algorithm puzzle"
+    },
+    {
+     "name": "Linux",
+     "minutes": 60,
+     "format": "Hands-on on a headless Ubuntu cloud VM over SSH, in a shared tmux session; bring an SSH key"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Team collaboration",
+     "minutes": 60,
+     "format": "Behavioral; three questions from a known list of about eight"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": null,
+     "format": "Technical conversation with the hiring manager"
+    }
+   ]
+  },
+  {
+   "company": "Replit",
+   "slug": "replit",
+   "url": "https://landthelab.com/companies/replit",
+   "questions": 4,
+   "last_reported": "2026-10-25",
+   "loop_summary": "A recruiter screen (an outside agency) and team chats, an online assessment, a one-hour coding screen or a take-home discussed in the screen, then an onsite: hiring manager, live coding in an existing codebase, system design, and an AI-assisted refactoring round. Three to four weeks from the recruiter call to an offer is typical.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "Recruiter call; one report adds a behavioral round on past projects and why Replit"
+    },
+    {
+     "name": "Online assessment",
+     "minutes": null,
+     "format": "Online assessment with two coding problems"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "One algorithm problem solved with the interviewer"
+    },
+    {
+     "name": "Take-home",
+     "minutes": null,
+     "format": "A take-home submitted as a repository before the screen, then discussed in it"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": null,
+     "format": "Design and behavioral conversation with the hiring manager"
+    },
+    {
+     "name": "Coding",
+     "minutes": null,
+     "format": "Onsite coding"
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": "Onsite design"
+    },
+    {
+     "name": "AI refactor",
+     "minutes": null,
+     "format": "Refactoring with AI tools"
+    }
+   ]
+  },
+  {
+   "company": "Anyscale",
+   "slug": "anyscale",
+   "url": "https://landthelab.com/companies/anyscale",
+   "questions": 3,
+   "last_reported": "2026-10-19",
+   "loop_summary": "A recruiter call, a hiring-manager chat that digs into one past project, a one-hour coding screen, then an onsite of about four rounds with system design; one ML candidate also gave a tech talk. Three to five weeks from the first call to an offer is typical, with one to two weeks between rounds.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 20,
+     "format": "Video call on your background and why Anyscale"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": 45,
+     "format": "Resume deep dive with behavioral questions"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": null,
+     "format": "One coding problem, live"
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": "Onsite design"
+    },
+    {
+     "name": "Tech talk",
+     "minutes": null,
+     "format": "Presentation of past work"
+    }
+   ]
+  },
+  {
+   "company": "Google DeepMind",
+   "slug": "google-deepmind",
+   "url": "https://landthelab.com/companies/google-deepmind",
+   "questions": 3,
+   "last_reported": "2026-11-03",
+   "loop_summary": "Recruiter and hiring manager screens, one or two coding screens, then a five-to-seven-round loop whose mix depends on the track (software engineer or research engineer), followed by a hiring committee and team match; six to ten weeks is typical.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call"
+    },
+    {
+     "name": "Hiring manager",
+     "minutes": null,
+     "format": "Conversation with the hiring manager"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": null,
+     "format": "One or two coding sessions in a shared editor"
+    },
+    {
+     "name": "Coding",
+     "minutes": 60,
+     "format": "Live coding, usually two rounds; research engineers get ML coding (a loss, attention, a sampling routine or a small training loop)"
+    },
+    {
+     "name": "System design",
+     "minutes": 60,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Domain depth or paper presentation",
+     "minutes": 60,
+     "format": "Deep technical conversation; research engineers often present and defend a paper"
+    },
+    {
+     "name": "Behavioral",
+     "minutes": 60,
+     "format": "Conversation"
+    }
+   ]
+  },
+  {
+   "company": "Physical Intelligence",
+   "slug": "physical-intelligence",
+   "url": "https://landthelab.com/companies/physical-intelligence",
+   "questions": 2,
+   "last_reported": "2026-09-24",
+   "loop_summary": "A 45-minute hiring-manager conversation, an hour of hand-written backend coding over SSH (a cache in front of a database), then a 90-minute build with two interviewers where you drive AI coding agents to ship a data pipeline and a UI and present the result.",
+   "rounds": [
+    {
+     "name": "Hiring manager",
+     "minutes": 45,
+     "format": "Conversation about your background"
+    },
+    {
+     "name": "Hand coding",
+     "minutes": 60,
+     "format": "VS Code over SSH on a small backend project; the recruiter says ahead of time that it is backend and database work"
+    },
+    {
+     "name": "Mini project with AI agents",
+     "minutes": 90,
+     "format": "Two interviewers watch; an SSH machine with a dataset, an embeddings API and two coding agents preloaded with about $500 of credit"
+    }
+   ]
+  },
+  {
+   "company": "Character.AI",
+   "slug": "character-ai",
+   "url": "https://landthelab.com/companies/character-ai",
+   "questions": 2,
+   "last_reported": "2026-09-25",
+   "loop_summary": "A recruiter call, a hiring manager screen on past scaling work, a 60-minute live coding screen, then a virtual onsite of four or five rounds (coding, LLM serving and inference, system design for stateful chat, behavioral), plus a founder or CTO talk for senior hires. Two to five weeks from application to an offer is typical.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call"
+    },
+    {
+     "name": "Hiring manager screen",
+     "minutes": 45,
+     "format": "Technical conversation"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "Live coding, usually in Python"
+    },
+    {
+     "name": "Coding",
+     "minutes": null,
+     "format": "One or two onsite coding rounds"
+    },
+    {
+     "name": "ML inference round",
+     "minutes": null,
+     "format": "Discussion"
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": "Design discussion"
+    },
+    {
+     "name": "Behavioral",
+     "minutes": null,
+     "format": "Conversation"
+    },
+    {
+     "name": "Founder or CTO conversation",
+     "minutes": null,
+     "format": "Conversation"
+    }
+   ]
+  },
+  {
+   "company": "Pika",
+   "slug": "pika",
+   "url": "https://landthelab.com/companies/pika",
+   "questions": 1,
+   "last_reported": "2026-08-23",
+   "loop_summary": "An HR screen, a timed HackerRank test of two hard problems, a coding screen, then an onsite of one coding and one system design round. Three to five weeks from the first call to an offer is typical.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "HR call; the team is small and everyone reports to the CEO"
+    },
+    {
+     "name": "Online assessment",
+     "minutes": 30,
+     "format": "HackerRank, two hard problems"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": null,
+     "format": "Coding"
+    },
+    {
+     "name": "Coding",
+     "minutes": null,
+     "format": "Onsite coding"
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": "Onsite design"
+    }
+   ]
+  },
+  {
+   "company": "Runway",
+   "slug": "runway",
+   "url": "https://landthelab.com/companies/runway",
+   "questions": 1,
+   "last_reported": "2026-06-02",
+   "loop_summary": "For a machine learning engineer: two 45-minute phone screens, coding (an n-gram text generator) and then ML system design (video search). Three to five weeks from the first call to an offer is typical.",
+   "rounds": [
+    {
+     "name": "Coding screen",
+     "minutes": 45,
+     "format": "Live coding"
+    },
+    {
+     "name": "AI/ML design",
+     "minutes": 45,
+     "format": "ML system design screen, model and infrastructure"
+    }
+   ]
+  },
+  {
+   "company": "HeyGen",
+   "slug": "heygen",
+   "url": "https://landthelab.com/companies/heygen",
+   "questions": 1,
+   "last_reported": "2026-06-12",
+   "loop_summary": "A recruiter call (sometimes a third-party recruiter), an online assessment or a one-hour coding screen, then a short loop: a coding round, a system design round on some teams, and talks with the hiring manager (sometimes the CTO) and team members. Candidates call it lighter than most; three to four weeks end to end.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": null,
+     "format": "Call, sometimes with an outside recruiter"
+    },
+    {
+     "name": "Online assessment",
+     "minutes": null,
+     "format": "Online assessment, for some roles instead of a live screen"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "Live coding"
+    },
+    {
+     "name": "System design",
+     "minutes": null,
+     "format": "One round, on some teams"
+    },
+    {
+     "name": "Hiring manager or CTO",
+     "minutes": 30,
+     "format": "Conversation"
+    },
+    {
+     "name": "Team members",
+     "minutes": 30,
+     "format": "One or two conversations"
+    }
+   ]
+  }
+ ]
+}

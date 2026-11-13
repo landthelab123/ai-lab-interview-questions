@@ -28,7 +28,7 @@ What each round grades, its AI policy and how to prep: [Together AI interview pr
 | [Split a file iterator into balanced line-aligned parts](https://landthelab.com/questions/split-a-file-iterator-into-balanced-line-aligned-parts) | Coding | Single report | Sep 2026 |
 | [Diagnose a slow Linux server: CPU, disk, network and logs](https://landthelab.com/questions/diagnose-a-slow-linux-server-cpu-disk-network-and-logs) | Coding | Single report | Sep 2026 |
 | [Temporal key-value store with point-in-time reads and restore](https://landthelab.com/questions/temporal-key-value-store-with-point-in-time-reads-and-restore) | Coding | Single report | Sep 2026 |
-| [GPU pod scheduler: find eligible nodes, then drain a node and reschedule its pods](https://landthelab.com/questions/gpu-pod-scheduler-find-eligible-nodes-then-drain-a-node-and-reschedule-its-pods) | Coding | Low | Jul 2026 |
+| [GPU pod scheduler: find eligible nodes, then drain a node and reschedule its pods](https://landthelab.com/questions/gpu-pod-scheduler-find-eligible-nodes-then-drain-a-node-and-reschedule-its-pods) | Coding | Single report | Jul 2026 |
 | [Detect and break cycles in pod dependencies](https://landthelab.com/questions/detect-and-break-cycles-in-pod-dependencies) | Coding | Single report | Feb 2026 |
 
 ### Coding

@@ -26,7 +26,7 @@ What each round grades, its AI policy and how to prep: [Anthropic interview proc
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [Recruiter screen on why Anthropic](https://landthelab.com/questions/recruiter-screen-on-why-anthropic) | Behavioral | Very high | Sep 2026 |
+| [Recruiter screen on why Anthropic](https://landthelab.com/questions/recruiter-screen-on-why-anthropic) | Behavioral | Very high | Oct 2026 |
 | [How do you use AI in your work?](https://landthelab.com/questions/how-do-you-use-ai-in-your-work) | Behavioral |  |  |
 
 ### Online assessment
@@ -35,11 +35,11 @@ What each round grades, its AI policy and how to prep: [Anthropic interview proc
 |---|---|---|---|
 | [Task manager with TTL expiry and time-travel snapshots](https://landthelab.com/questions/task-manager-with-ttl-expiry-and-time-travel-snapshots) | Coding | Low | Aug 2026 |
 | [In-memory database in levels: scans, TTL, backup and restore](https://landthelab.com/questions/in-memory-database-in-levels-scans-ttl-backup-and-restore) | Coding | Medium | Jul 2026 |
+| [Shift grants with promotions that start next entry](https://landthelab.com/questions/shift-grants-with-promotions-that-start-next-entry) | Coding | Low | Jul 2026 |
 | [Recipe manager with ingredient search](https://landthelab.com/questions/recipe-manager-with-ingredient-search) | Coding | Medium | Jun 2026 |
 | [Bank ledger with two-step transfers and merges](https://landthelab.com/questions/bank-ledger-with-two-step-transfers-and-merges) | Coding | Medium | Jun 2026 |
 | [Simplified filesystem with paths and traversal](https://landthelab.com/questions/simplified-filesystem-with-paths-and-traversal) | Coding | Low | May 2026 |
 | [Stepwise DNS resolver with aliasing](https://landthelab.com/questions/stepwise-dns-resolver-with-aliasing) | Coding | Low | May 2026 |
-| [Shift grants with promotions that start next entry](https://landthelab.com/questions/shift-grants-with-promotions-that-start-next-entry) | Coding | Low | May 2026 |
 
 ### Technical phone screen
 
@@ -60,43 +60,43 @@ What each round grades, its AI policy and how to prep: [Anthropic interview proc
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Concurrent same-host web crawler](https://landthelab.com/questions/concurrent-same-host-web-crawler) | Coding | High | Oct 2026 |
+| [Fix a function-cache key function, then make it durable](https://landthelab.com/questions/fix-a-function-cache-key-function-then-make-it-durable) | Coding | High | Oct 2026 |
 | [Banking system with transfers, cashback and account merges](https://landthelab.com/questions/banking-system-with-transfers-cashback-and-account-merges) | Coding | Medium | Oct 2026 |
 | [Randomness from a biased coin: fair flips, uniform 1 to n, Monte Carlo](https://landthelab.com/questions/randomness-from-a-biased-coin-fair-flips-uniform-1-to-n-monte-carlo) | Coding | Single report | Oct 2026 |
+| [Image transform pipeline with a wall-clock budget](https://landthelab.com/questions/image-transform-pipeline-with-a-wall-clock-budget) | Coding | Very high | Oct 2026 |
+| [Deduplicate files by size then content hash](https://landthelab.com/questions/deduplicate-files-by-size-then-content-hash) | Coding | Very high | Sep 2026 |
 | [Reconstruct call stacks from enter and exit traces](https://landthelab.com/questions/reconstruct-call-stacks-from-enter-and-exit-traces) | Coding | High | Sep 2026 |
 | [Distributed mode and median across worker shards](https://landthelab.com/questions/distributed-mode-and-median-across-worker-shards) | Coding | Medium | Sep 2026 |
-| [Deduplicate files by size then content hash](https://landthelab.com/questions/deduplicate-files-by-size-then-content-hash) | Coding | Very high | Sep 2026 |
-| [Image transform pipeline with a wall-clock budget](https://landthelab.com/questions/image-transform-pipeline-with-a-wall-clock-budget) | Coding | Very high | Sep 2026 |
-| [Concurrent same-host web crawler](https://landthelab.com/questions/concurrent-same-host-web-crawler) | Coding | High | Sep 2026 |
+| [Tokenize text by greedy longest dictionary match](https://landthelab.com/questions/tokenize-text-by-greedy-longest-dictionary-match) | Coding | Medium | Sep 2026 |
+| [Repair a looping bootloader program](https://landthelab.com/questions/repair-a-looping-bootloader-program) | Coding | Low | Sep 2026 |
 | [Multi-step task with an LLM tool-use loop](https://landthelab.com/questions/multi-step-task-with-an-llm-tool-use-loop) | Coding | High | Sep 2026 |
 | [Review a series of pull requests](https://landthelab.com/questions/review-a-series-of-pull-requests) | Coding | Single report | Aug 2026 |
 | [Cloud storage with user quotas and backups](https://landthelab.com/questions/cloud-storage-with-user-quotas-and-backups) | Coding | Single report | Aug 2026 |
 | [Debug an Extremely Randomized Trees implementation](https://landthelab.com/questions/debug-an-extremely-randomized-trees-implementation) | Coding | Single report | Aug 2026 |
 | [Request scheduler for an LLM inference engine](https://landthelab.com/questions/request-scheduler-for-an-llm-inference-engine) | Coding | Single report | Aug 2026 |
 | [Fix an LLM agent, then cut its turns to one](https://landthelab.com/questions/fix-an-llm-agent-then-cut-its-turns-to-one) | Coding | Single report | Aug 2026 |
-| [Repair a looping bootloader program](https://landthelab.com/questions/repair-a-looping-bootloader-program) | Coding | Low | Jul 2026 |
 | [Running cost of streamed token usage](https://landthelab.com/questions/running-cost-of-streamed-token-usage) | Coding | Single report | Jul 2026 |
 | [Threshold infection spread on a grid](https://landthelab.com/questions/threshold-infection-spread-on-a-grid) | Coding | Single report | Jul 2026 |
-| [Tokenize text by greedy longest dictionary match](https://landthelab.com/questions/tokenize-text-by-greedy-longest-dictionary-match) | Coding | Medium | Jun 2026 |
-| [Fix a function-cache key function, then make it durable](https://landthelab.com/questions/fix-a-function-cache-key-function-then-make-it-durable) | Coding | High | Jun 2026 |
 | [Weighted data batcher with deterministic resume](https://landthelab.com/questions/weighted-data-batcher-with-deterministic-resume) | Coding | Medium | May 2026 |
+| [Thread-safe task queue on a linked list](https://landthelab.com/questions/thread-safe-task-queue-on-a-linked-list) | Coding | Medium | Feb 2026 |
 | [Kernel-optimization take-home scored by speedup](https://landthelab.com/questions/kernel-optimization-take-home-scored-by-speedup) | Coding | Low | Dec 2025 |
 | [Group prompts into templates under concurrent ingestion](https://landthelab.com/questions/group-prompts-into-templates-under-concurrent-ingestion) | Coding |  |  |
 | [Minimum workers with first-free job assignment](https://landthelab.com/questions/minimum-workers-with-first-free-job-assignment) | Coding |  |  |
-| [Thread-safe task queue on a linked list](https://landthelab.com/questions/thread-safe-task-queue-on-a-linked-list) | Coding |  |  |
 
 ### System design
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [Design an AI prompt playground](https://landthelab.com/questions/design-an-ai-prompt-playground) | System design | High | Oct 2026 |
 | [One-on-one chat system with presence and offline queue](https://landthelab.com/questions/one-on-one-chat-system-with-presence-and-offline-queue) | System design | High | Oct 2026 |
+| [Batched LLM inference API over GPUs](https://landthelab.com/questions/batched-llm-inference-api-over-gpus) | System design | Very high | Oct 2026 |
+| [Design an AI prompt playground](https://landthelab.com/questions/design-an-ai-prompt-playground) | System design | High | Oct 2026 |
+| [Design a distributed AI model downloader](https://landthelab.com/questions/design-a-distributed-ai-model-downloader) | System design | High | Oct 2026 |
 | [Design a telemetry pipeline that reconciles inconsistent metric names](https://landthelab.com/questions/design-a-telemetry-pipeline-that-reconciles-inconsistent-metric-names) | System design | Low | Sep 2026 |
 | [Design review: a batched GPU inference API](https://landthelab.com/questions/design-review-a-batched-gpu-inference-api) | System design | Low | Sep 2026 |
 | [Matmul performance modeling on a fixed GPU](https://landthelab.com/questions/matmul-performance-modeling-on-a-fixed-gpu) | AI/ML design | Low | Sep 2026 |
-| [Batched LLM inference API over GPUs](https://landthelab.com/questions/batched-llm-inference-api-over-gpus) | System design | Very high | Sep 2026 |
 | [Critique a design doc from the team's backlog](https://landthelab.com/questions/critique-a-design-doc-from-the-team-s-backlog) | System design | High | Sep 2026 |
 | [Data platform with ingestion and governed access](https://landthelab.com/questions/data-platform-with-ingestion-and-governed-access) | System design | Low | Sep 2026 |
-| [Design a distributed AI model downloader](https://landthelab.com/questions/design-a-distributed-ai-model-downloader) | System design | High | Aug 2026 |
 | [Scale and observe a production ML serving service](https://landthelab.com/questions/scale-and-observe-a-production-ml-serving-service) | System design | Single report | Aug 2026 |
 | [Mechanistic interpretability experiment on double descent](https://landthelab.com/questions/mechanistic-interpretability-experiment-on-double-descent) | AI/ML design | Single report | Apr 2026 |
 | [ML configuration system with inheritance and validation](https://landthelab.com/questions/ml-configuration-system-with-inheritance-and-validation) | AI/ML design | Low | Apr 2026 |

@@ -7,6 +7,7 @@ Run: python3 scripts/build.py
 
 from __future__ import annotations
 
+import csv
 import json
 import time
 import urllib.request
@@ -107,15 +108,38 @@ def main() -> None:
             if r.get("key") and r.get("name"):
                 round_names.setdefault(r["key"], r["name"])
         time.sleep(0.3)
+    data_rows = []
+    companies_json = []
     for slug, d in pages.items():
         qs = [q for q in d.get("questions") or [] if not q.get("retired")]
         if not qs:
             continue
+        c0 = d["company"]
+        companies_json.append({
+            "company": c0["name"], "slug": slug, "url": f"{SITE}/companies/{slug}",
+            "questions": len(qs), "last_reported": (d.get("counts") or {}).get("last_reported_on"),
+            "loop_summary": (d.get("loop") or {}).get("summary"),
+            "rounds": [{"name": r.get("name"), "minutes": r.get("minutes"), "format": r.get("format")} for r in d.get("rounds") or []],
+        })
+        for q in qs:
+            data_rows.append({
+                "company": c0["name"], "company_slug": slug, "question": q["title"], "url": question_url(q["slug"]),
+                "type": q.get("kind_label") or "", "round": q.get("round") or "", "frequency": q.get("frequency_label") or "",
+                "last_asked": q.get("last_asked_on") or "",
+            })
         (ROOT / "companies" / f"{slug}.md").write_text(company_page(d, round_names))
         c = d["company"]
         rows.append((len(qs), c["name"], slug, (d.get("counts") or {}).get("last_reported") or "", len(d.get("rounds") or [])))
     rows.sort(key=lambda r: (-r[0], r[1].lower()))
     total = sum(r[0] for r in rows)
+    (ROOT / "data").mkdir(exist_ok=True)
+    data_rows.sort(key=lambda r: (r["company"].lower(), r["last_asked"]), reverse=False)
+    with open(ROOT / "data" / "questions.csv", "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=list(data_rows[0].keys()))
+        w.writeheader()
+        w.writerows(data_rows)
+    companies_json.sort(key=lambda c: -c["questions"])
+    (ROOT / "data" / "companies.json").write_text(json.dumps({"updated": date.today().isoformat(), "source": SITE, "companies": companies_json}, indent=1, ensure_ascii=False) + "\n")
     groups = get("/pages/questions").get("company_groups") or []
     group_of = {c["slug"]: g["label"] for g in groups for c in g.get("companies") or []}
     labels = [g["label"] for g in groups] + ["More companies"]
@@ -129,6 +153,19 @@ def main() -> None:
         "",
         f"Each question links to its page on **[Land the Lab]({SITE})**, with a worked answer, a rubric for "
         "L4/L5/L6 and an AI coach that grades your own attempt.",
+        "",
+        "## Findings",
+        "",
+        f"Frontier labs ask far fewer algorithm puzzles than big tech: 11% of their coding questions against 45% (53% at Google). "
+        f"They ask multi-part builds, simulations and concurrency instead, and 23% of their questions involve LLMs. "
+        f"Full analysis: [What AI labs actually asked engineers in 2026]({SITE}/blog/ai-lab-interview-questions-2026).",
+        "",
+        "## Data",
+        "",
+        "- [`data/questions.csv`](data/questions.csv): every question with company, type, round, frequency, last-asked date and link.",
+        "- [`data/companies.json`](data/companies.json): each company's loop summary, rounds (length, format) and question count.",
+        "",
+        "Free to use with a link back to [Land the Lab](https://landthelab.com).",
         "",
     ]
     for label in labels:

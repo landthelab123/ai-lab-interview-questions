@@ -1,6 +1,6 @@
 # Microsoft interview questions and loop (2026)
 
-217 engineering interview questions candidates report from Microsoft, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[Microsoft on Land the Lab](https://landthelab.com/companies/microsoft)**.
+218 engineering interview questions candidates report from Microsoft, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[Microsoft on Land the Lab](https://landthelab.com/companies/microsoft)**.
 
 ## The loop
 
@@ -66,6 +66,7 @@ What each round grades, its AI policy and how to prep: [Microsoft interview proc
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Online shopping system: order states, inventory and payment, then scale it](https://landthelab.com/questions/online-shopping-system-order-states-inventory-and-payment-then-scale-it) | OO design | Single report | Nov 2026 |
 | [Eight behavioral questions: root cause, missed commitment, feedback](https://landthelab.com/questions/eight-behavioral-questions-root-cause-missed-commitment-feedback) | Behavioral | Single report | Oct 2026 |
 | [Present a UX proposal and defend an AI-built prototype](https://landthelab.com/questions/present-a-ux-proposal-and-defend-an-ai-built-prototype) | Behavioral | Single report | Oct 2026 |
 | [Corporation class: assign teams and managers, check reporting lines](https://landthelab.com/questions/corporation-class-assign-teams-and-managers-check-reporting-lines) | Coding | Single report | Oct 2026 |
@@ -144,7 +145,7 @@ What each round grades, its AI policy and how to prep: [Microsoft interview proc
 | [Spiral matrix: read a matrix in clockwise spiral order](https://landthelab.com/questions/spiral-matrix-read-a-matrix-in-clockwise-spiral-order) | Coding | Single report | Apr 2026 |
 | [Weighted data batcher with deterministic resume](https://landthelab.com/questions/weighted-data-batcher-with-deterministic-resume) | Coding | Low | Mar 2026 |
 | [Truncate model output at the first stop sequence](https://landthelab.com/questions/truncate-model-output-at-the-first-stop-sequence) | Coding | Low | Mar 2026 |
-| [Typed task lock for mutually exclusive job types](https://landthelab.com/questions/typed-task-lock-for-mutually-exclusive-job-types) | Coding | Single report | Feb 2026 |
+| [Typed task lock for mutually exclusive job types](https://landthelab.com/questions/typed-task-lock-for-mutually-exclusive-job-types) | Coding | Single report | Mar 2026 |
 | [Merge intervals: combine every overlapping range](https://landthelab.com/questions/merge-intervals-combine-every-overlapping-range) | Coding | Low | Feb 2026 |
 | [Memory management in Python and Java](https://landthelab.com/questions/memory-management-in-python-and-java) | Coding | Single report | Feb 2026 |
 | [Authentication token manager with expiry](https://landthelab.com/questions/authentication-token-manager-with-expiry) | Coding | Single report | Feb 2026 |
@@ -193,6 +194,7 @@ What each round grades, its AI policy and how to prep: [Microsoft interview proc
 | [ML design for retrieval: embeddings, hybrid search and ranking](https://landthelab.com/questions/ml-design-for-retrieval-embeddings-hybrid-search-and-ranking) | AI/ML design | Low | Mar 2026 |
 | [Design a Slack-like chat system](https://landthelab.com/questions/design-a-slack-like-chat-system) | System design | Single report | Feb 2026 |
 | [Design an online chess game](https://landthelab.com/questions/design-an-online-chess-game) | System design | Single report | Feb 2026 |
+| [Design a ticket booking system](https://landthelab.com/questions/design-a-ticket-booking-system) | System design | Low | Feb 2026 |
 | [Clean OCR output into a training dataset for an LLM](https://landthelab.com/questions/clean-ocr-output-into-a-training-dataset-for-an-llm) | AI/ML design | Single report | Feb 2026 |
 | [Design a distributed rate limiter](https://landthelab.com/questions/design-a-distributed-rate-limiter) | System design | Single report | Feb 2026 |
 | [Design a job scheduler for ETL pipelines](https://landthelab.com/questions/design-a-job-scheduler-for-etl-pipelines) | System design | Single report | Feb 2026 |
@@ -201,7 +203,6 @@ What each round grades, its AI policy and how to prep: [Microsoft interview proc
 | [Design a distributed job scheduler](https://landthelab.com/questions/design-a-distributed-job-scheduler) | System design | Single report | Jan 2026 |
 | [Design a database that tracks changes to resources](https://landthelab.com/questions/design-a-database-that-tracks-changes-to-resources) | System design | Single report | Jan 2026 |
 | [Design REST APIs for storing JSON files](https://landthelab.com/questions/design-rest-apis-for-storing-json-files) | System design | Single report | Jan 2026 |
-| [Design a ticket booking system](https://landthelab.com/questions/design-a-ticket-booking-system) | System design | Low | Jan 2026 |
 | [Shard an LLM's embedding table and LM head across devices](https://landthelab.com/questions/shard-an-llm-s-embedding-table-and-lm-head-across-devices) | AI/ML design | Single report | Jan 2026 |
 | [Design email ranking and summarization for an inbox](https://landthelab.com/questions/design-email-ranking-and-summarization-for-an-inbox) | System design | Single report | Jan 2026 |
 | [Infer a user's intent from their typing in real time](https://landthelab.com/questions/infer-a-user-s-intent-from-their-typing-in-real-time) | AI/ML design | Single report | Jan 2026 |

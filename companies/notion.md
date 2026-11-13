@@ -26,8 +26,8 @@ What each round grades, its AI policy and how to prep: [Notion interview process
 | Question | Type | How often | Last asked |
 |---|---|---|---|
 | [Table aggregation with group-by sum](https://landthelab.com/questions/table-aggregation-with-group-by-sum) | Coding | Single report | Apr 2026 |
-| [Workspace event analytics in Python and SQL: top events, plans and blocks](https://landthelab.com/questions/workspace-event-analytics-in-python-and-sql-top-events-plans-and-blocks) | Coding | Low | Mar 2026 |
 | [Country with the most events](https://landthelab.com/questions/country-with-the-most-events) | Coding | Single report | Mar 2026 |
+| [Workspace event analytics in Python and SQL: top events, plans and blocks](https://landthelab.com/questions/workspace-event-analytics-in-python-and-sql-top-events-plans-and-blocks) | Coding | Single report | Mar 2026 |
 | [Text editor with undo and redo](https://landthelab.com/questions/text-editor-with-undo-and-redo) | Coding | Single report | Mar 2026 |
 
 ### Linux

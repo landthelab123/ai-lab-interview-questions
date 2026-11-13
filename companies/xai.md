@@ -44,6 +44,7 @@ What each round grades, its AI policy and how to prep: [SpaceXAI interview proce
 |---|---|---|---|
 | [Speculative edits: decode a code edit using the original file as the draft](https://landthelab.com/questions/speculative-edits-decode-a-code-edit-using-the-original-file-as-the-draft) | Coding | Single report | Oct 2026 |
 | [Find and fix the races in a bank account class](https://landthelab.com/questions/find-and-fix-the-races-in-a-bank-account-class) | Coding | Low | Sep 2026 |
+| [Find bad GPU nodes with group tests](https://landthelab.com/questions/find-bad-gpu-nodes-with-group-tests) | Coding | Single report | Sep 2026 |
 | [Inference loop with continuous batching over a mock model](https://landthelab.com/questions/inference-loop-with-continuous-batching-over-a-mock-model) | Coding | Single report | Sep 2026 |
 | [Data-parallel and fully sharded matrix multiply over simulated devices](https://landthelab.com/questions/data-parallel-and-fully-sharded-matrix-multiply-over-simulated-devices) | Coding | Single report | Apr 2026 |
 | [Courier pay from order events](https://landthelab.com/questions/courier-pay-from-order-events) | Coding | Single report | Mar 2026 |
@@ -52,7 +53,6 @@ What each round grades, its AI policy and how to prep: [SpaceXAI interview proce
 | [Pluggable hierarchical rate limiter](https://landthelab.com/questions/pluggable-hierarchical-rate-limiter) | Coding | Single report | Feb 2026 |
 | [LRU cache where each item counts by its quantity](https://landthelab.com/questions/lru-cache-where-each-item-counts-by-its-quantity) | Coding | Single report | Feb 2026 |
 | [Most distinct values after shifting each element by at most k](https://landthelab.com/questions/most-distinct-values-after-shifting-each-element-by-at-most-k) | Coding | Single report | Jan 2026 |
-| [Find bad GPU nodes with group tests](https://landthelab.com/questions/find-bad-gpu-nodes-with-group-tests) | Coding | Single report | Dec 2025 |
 
 ### Linux
 
@@ -61,6 +61,7 @@ What each round grades, its AI policy and how to prep: [SpaceXAI interview proce
 | [React typeahead with async suggestions and keyboard navigation](https://landthelab.com/questions/react-typeahead-with-async-suggestions-and-keyboard-navigation) | Coding | Low | Sep 2026 |
 | [React list loaded with useEffect](https://landthelab.com/questions/react-list-loaded-with-useeffect) | Coding | Single report | Sep 2026 |
 | [Render nested JSON in a code-style viewer](https://landthelab.com/questions/render-nested-json-in-a-code-style-viewer) | Coding | Single report | Sep 2026 |
+| [Sort an array with k worker threads](https://landthelab.com/questions/sort-an-array-with-k-worker-threads) | Coding | Low | Sep 2026 |
 | [Per-key fixed-window cost limiter](https://landthelab.com/questions/per-key-fixed-window-cost-limiter) | Coding | Single report | Sep 2026 |
 | [Resumable iterators that save and restore their position](https://landthelab.com/questions/resumable-iterators-that-save-and-restore-their-position) | Coding | Single report | Apr 2026 |
 | [In-memory database in levels: scans, TTL, backup and restore](https://landthelab.com/questions/in-memory-database-in-levels-scans-ttl-backup-and-restore) | Coding | Low | Apr 2026 |
@@ -71,7 +72,6 @@ What each round grades, its AI policy and how to prep: [SpaceXAI interview proce
 | [Radix cache for integer sequences with LRU eviction](https://landthelab.com/questions/radix-cache-for-integer-sequences-with-lru-eviction) | Coding | Single report | Jan 2026 |
 | [K-th largest value over the last N seconds of a stream](https://landthelab.com/questions/k-th-largest-value-over-the-last-n-seconds-of-a-stream) | Coding | Single report | Jan 2026 |
 | [Key-value store with nested transaction rollback](https://landthelab.com/questions/key-value-store-with-nested-transaction-rollback) | Coding | Single report | Jan 2026 |
-| [Sort an array with k worker threads](https://landthelab.com/questions/sort-an-array-with-k-worker-threads) | Coding | Low | Jan 2026 |
 | [Crash-safe on-disk key-value store](https://landthelab.com/questions/crash-safe-on-disk-key-value-store) | Coding | Single report | Jan 2026 |
 
 ### System design

@@ -1,6 +1,6 @@
 # Meta interview questions and loop (2026)
 
-171 engineering interview questions candidates report from Meta, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[Meta on Land the Lab](https://landthelab.com/companies/meta)**.
+173 engineering interview questions candidates report from Meta, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[Meta on Land the Lab](https://landthelab.com/companies/meta)**.
 
 ## The loop
 
@@ -36,6 +36,8 @@ What each round grades, its AI policy and how to prep: [Meta interview process](
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Task manager: filter, deduplicate, sort, then order subtasks around parents](https://landthelab.com/questions/task-manager-filter-deduplicate-sort-then-order-subtasks-around-parents) | Coding | Single report | Nov 2026 |
+| [Schedule recipe steps across three chefs to finish an order fastest](https://landthelab.com/questions/schedule-recipe-steps-across-three-chefs-to-finish-an-order-fastest) | Coding | Single report | Nov 2026 |
 | [Shortest path through a digit grid with diagonal moves](https://landthelab.com/questions/shortest-path-through-a-digit-grid-with-diagonal-moves) | Coding | Low | Sep 2026 |
 | [Design an LLM chatbot with RL-trained answers](https://landthelab.com/questions/design-an-llm-chatbot-with-rl-trained-answers) | System design | Low | Sep 2026 |
 | [Implement multi-head self-attention from scratch](https://landthelab.com/questions/implement-multi-head-self-attention-from-scratch) | AI/ML design | Low | Sep 2026 |
@@ -89,6 +91,7 @@ What each round grades, its AI policy and how to prep: [Meta interview process](
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Choose words with no shared letters to cover the most letters](https://landthelab.com/questions/choose-words-with-no-shared-letters-to-cover-the-most-letters) | Coding | High | Nov 2026 |
 | [Binary tree vertical order traversal](https://landthelab.com/questions/binary-tree-vertical-order-traversal) | Coding | High | Sep 2026 |
 | [Range sum of a binary search tree](https://landthelab.com/questions/range-sum-of-a-binary-search-tree) | Coding | Low | Sep 2026 |
 | [Resolve a cd command to an absolute path](https://landthelab.com/questions/resolve-a-cd-command-to-an-absolute-path) | Coding | Low | Sep 2026 |
@@ -97,7 +100,6 @@ What each round grades, its AI policy and how to prep: [Meta interview process](
 | [Card game: pick cards that sum to 15](https://landthelab.com/questions/card-game-pick-cards-that-sum-to-15) | Coding | Medium | Sep 2026 |
 | [Friend recommendation by mutual friends](https://landthelab.com/questions/friend-recommendation-by-mutual-friends) | Coding | Medium | Sep 2026 |
 | [Group dependent tasks into parallel levels](https://landthelab.com/questions/group-dependent-tasks-into-parallel-levels) | Coding | Single report | Aug 2026 |
-| [Choose words with no shared letters to cover the most letters](https://landthelab.com/questions/choose-words-with-no-shared-letters-to-cover-the-most-letters) | Coding | High | Aug 2026 |
 | [Find a local minimum or peak with binary search](https://landthelab.com/questions/find-a-local-minimum-or-peak-with-binary-search) | Coding | Medium | Aug 2026 |
 | [Subarray sum equals k](https://landthelab.com/questions/subarray-sum-equals-k) | Coding | Medium | Aug 2026 |
 | [Sum root-to-leaf numbers in a digit tree](https://landthelab.com/questions/sum-root-to-leaf-numbers-in-a-digit-tree) | Coding | Low | Aug 2026 |
@@ -153,7 +155,8 @@ What each round grades, its AI policy and how to prep: [Meta interview process](
 | Question | Type | How often | Last asked |
 |---|---|---|---|
 | [Design a rate limiter](https://landthelab.com/questions/design-a-rate-limiter) | System design |  | Nov 2026 |
-| [Design a news feed](https://landthelab.com/questions/design-a-news-feed) | System design | Medium | Sep 2026 |
+| [Design a news feed](https://landthelab.com/questions/design-a-news-feed) | System design | Medium | Nov 2026 |
+| [Design an ad click aggregation system](https://landthelab.com/questions/design-an-ad-click-aggregation-system) | System design | Low | Nov 2026 |
 | [Design a notification system](https://landthelab.com/questions/design-a-notification-system) | System design | Low | Sep 2026 |
 | [Design Facebook Messenger: real-time chat for a billion users](https://landthelab.com/questions/design-facebook-messenger-real-time-chat-for-a-billion-users) | System design | Low | Sep 2026 |
 | [Design a people-you-may-know friend recommendation system](https://landthelab.com/questions/design-a-people-you-may-know-friend-recommendation-system) | System design | Single report | Sep 2026 |
@@ -163,18 +166,17 @@ What each round grades, its AI policy and how to prep: [Meta interview process](
 | [Design a distributed rate limiter](https://landthelab.com/questions/design-a-distributed-rate-limiter) | System design | Single report | Aug 2026 |
 | [Design search over user posts with boolean queries](https://landthelab.com/questions/design-search-over-user-posts-with-boolean-queries) | System design | Low | Aug 2026 |
 | [Design an LLM-based coding assistant](https://landthelab.com/questions/design-an-llm-based-coding-assistant) | System design | Single report | Jun 2026 |
+| [Design a distributed web crawler](https://landthelab.com/questions/design-a-distributed-web-crawler) | System design | Low | Jun 2026 |
 | [Design a top-K popular items system](https://landthelab.com/questions/design-a-top-k-popular-items-system) | System design | Low | Jun 2026 |
 | [Design an online chess game](https://landthelab.com/questions/design-an-online-chess-game) | System design | Low | Jun 2026 |
 | [Design Instagram: photo sharing with a follower feed](https://landthelab.com/questions/design-instagram-photo-sharing-with-a-follower-feed) | System design | Low | May 2026 |
 | [Design DoorDash: on-demand food and grocery delivery](https://landthelab.com/questions/design-doordash-on-demand-food-and-grocery-delivery) | System design | Low | Apr 2026 |
-| [Design a distributed web crawler](https://landthelab.com/questions/design-a-distributed-web-crawler) | System design | Low | Apr 2026 |
 | [Design a ticket booking system](https://landthelab.com/questions/design-a-ticket-booking-system) | System design | Low | Apr 2026 |
 | [Design LeetCode: an online judge that runs code submissions](https://landthelab.com/questions/design-leetcode-an-online-judge-that-runs-code-submissions) | System design | Low | Apr 2026 |
 | [Design live comments for live videos](https://landthelab.com/questions/design-live-comments-for-live-videos) | System design | Low | Apr 2026 |
 | [Design a code review agent](https://landthelab.com/questions/design-a-code-review-agent) | System design | Single report | Mar 2026 |
 | [Design a nearby points-of-interest service](https://landthelab.com/questions/design-a-nearby-points-of-interest-service) | System design | Low | Mar 2026 |
 | [Design a price tracking service](https://landthelab.com/questions/design-a-price-tracking-service) | System design | Low | Mar 2026 |
-| [Design an ad click aggregation system](https://landthelab.com/questions/design-an-ad-click-aggregation-system) | System design | Low | Feb 2026 |
 | [Design an online auction with live bidding](https://landthelab.com/questions/design-an-online-auction-with-live-bidding) | System design | Low | Feb 2026 |
 | [Design YouTube: video upload, transcoding and streaming](https://landthelab.com/questions/design-youtube-video-upload-transcoding-and-streaming) | System design | Low | Feb 2026 |
 | [Design post privacy and visibility controls](https://landthelab.com/questions/design-post-privacy-and-visibility-controls) | System design | Single report | Feb 2026 |

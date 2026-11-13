@@ -1,6 +1,6 @@
 # Perplexity interview questions and loop (2026)
 
-13 engineering interview questions candidates report from Perplexity, most recently in Oct 2026. Worked answers, a rubric per level and a prep plan: **[Perplexity on Land the Lab](https://landthelab.com/companies/perplexity)**.
+14 engineering interview questions candidates report from Perplexity, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[Perplexity on Land the Lab](https://landthelab.com/companies/perplexity)**.
 
 ## The loop
 
@@ -25,7 +25,8 @@ What each round grades, its AI policy and how to prep: [Perplexity interview pro
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [In-memory file system with files and folders](https://landthelab.com/questions/in-memory-file-system-with-files-and-folders) | Coding | High | Sep 2026 |
+| [Resource reconciler: plan CREATE changes, then apply and save bindings](https://landthelab.com/questions/resource-reconciler-plan-create-changes-then-apply-and-save-bindings) | Coding | Single report | Nov 2026 |
+| [In-memory file system with files and folders](https://landthelab.com/questions/in-memory-file-system-with-files-and-folders) | Coding | High | Oct 2026 |
 | [Agent to-do list with task dependencies](https://landthelab.com/questions/agent-to-do-list-with-task-dependencies) | Coding | Medium | May 2026 |
 | [Design a personal finance aggregator like Mint](https://landthelab.com/questions/design-a-personal-finance-aggregator-like-mint) | System design | Single report | May 2026 |
 | [Train and improve a binary classifier with scikit-learn](https://landthelab.com/questions/train-and-improve-a-binary-classifier-with-scikit-learn) | Coding | Single report | Dec 2025 |

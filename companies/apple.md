@@ -26,8 +26,8 @@ What each round grades, its AI policy and how to prep: [Apple interview process]
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [Validate a binary search tree](https://landthelab.com/questions/validate-a-binary-search-tree) | Coding | Single report | Oct 2026 |
 | [Food rating system: top-rated dish in each cuisine](https://landthelab.com/questions/food-rating-system-top-rated-dish-in-each-cuisine) | Coding | Single report | Oct 2026 |
+| [Validate a binary search tree](https://landthelab.com/questions/validate-a-binary-search-tree) | Coding | Single report | Oct 2026 |
 | [Is the store open? Hours with split shifts and overnight windows](https://landthelab.com/questions/is-the-store-open-hours-with-split-shifts-and-overnight-windows) | Coding | Single report | Oct 2026 |
 | [Unit conversion ratio queries with modular answers](https://landthelab.com/questions/unit-conversion-ratio-queries-with-modular-answers) | Coding | Single report | Sep 2026 |
 | [Design a Terraform provider for a cloud resource](https://landthelab.com/questions/design-a-terraform-provider-for-a-cloud-resource) | System design | Single report | Sep 2026 |

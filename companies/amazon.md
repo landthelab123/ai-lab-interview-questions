@@ -1,6 +1,6 @@
 # Amazon interview questions and loop (2026)
 
-287 engineering interview questions candidates report from Amazon, most recently in Oct 2026. Worked answers, a rubric per level and a prep plan: **[Amazon on Land the Lab](https://landthelab.com/companies/amazon)**.
+297 engineering interview questions candidates report from Amazon, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[Amazon on Land the Lab](https://landthelab.com/companies/amazon)**.
 
 ## The loop
 
@@ -25,6 +25,7 @@ What each round grades, its AI policy and how to prep: [Amazon interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Longest uptime run after repairing one window of exactly k entries](https://landthelab.com/questions/longest-uptime-run-after-repairing-one-window-of-exactly-k-entries) | Coding | Low | Oct 2026 |
 | [Design order status and courier tracking for food delivery](https://landthelab.com/questions/design-order-status-and-courier-tracking-for-food-delivery) | System design | Single report | Oct 2026 |
 | [Largest permutation after sorting one fixed-length window](https://landthelab.com/questions/largest-permutation-after-sorting-one-fixed-length-window) | Coding | Single report | Oct 2026 |
 | [Fix a bug in an unfamiliar repo with an AI assistant](https://landthelab.com/questions/fix-a-bug-in-an-unfamiliar-repo-with-an-ai-assistant) | Coding | Very high | Sep 2026 |
@@ -34,6 +35,7 @@ What each round grades, its AI policy and how to prep: [Amazon interview process
 | [Maximum coins from k consecutive bags](https://landthelab.com/questions/maximum-coins-from-k-consecutive-bags) | Coding | Low | Sep 2026 |
 | [Add one delivery center to minimize the worst distance](https://landthelab.com/questions/add-one-delivery-center-to-minimize-the-worst-distance) | Coding | Low | Sep 2026 |
 | [Minimum adjacent swaps to group a binary array](https://landthelab.com/questions/minimum-adjacent-swaps-to-group-a-binary-array) | Coding | Single report | Aug 2026 |
+| [Fewest global replacements to group equal values](https://landthelab.com/questions/fewest-global-replacements-to-group-equal-values) | Coding | Low | Aug 2026 |
 | [Merge intervals: combine every overlapping range](https://landthelab.com/questions/merge-intervals-combine-every-overlapping-range) | Coding | Low | Aug 2026 |
 | [Shortest grid path with one cell conversion](https://landthelab.com/questions/shortest-grid-path-with-one-cell-conversion) | Coding | Single report | Jun 2026 |
 | [Shortest delivery route around a ring of hubs](https://landthelab.com/questions/shortest-delivery-route-around-a-ring-of-hubs) | Coding | Medium | Jun 2026 |
@@ -42,7 +44,6 @@ What each round grades, its AI policy and how to prep: [Amazon interview process
 | [Sort an array with rotate and flip operations](https://landthelab.com/questions/sort-an-array-with-rotate-and-flip-operations) | Coding | Single report | May 2026 |
 | [Lexicographically largest output from a spreading availability mask](https://landthelab.com/questions/lexicographically-largest-output-from-a-spreading-availability-mask) | Coding | Single report | Apr 2026 |
 | [Longest ON run with k range flips](https://landthelab.com/questions/longest-on-run-with-k-range-flips) | Coding | Single report | Apr 2026 |
-| [Fewest global replacements to group equal values](https://landthelab.com/questions/fewest-global-replacements-to-group-equal-values) | Coding | Low | Apr 2026 |
 | [Shift security units left to protect the most population](https://landthelab.com/questions/shift-security-units-left-to-protect-the-most-population) | Coding | Low | Apr 2026 |
 | [Minimum range boosts to make server power non-decreasing](https://landthelab.com/questions/minimum-range-boosts-to-make-server-power-non-decreasing) | Coding | Single report | Mar 2026 |
 | [Group anagrams: bucket words that share the same letters](https://landthelab.com/questions/group-anagrams-bucket-words-that-share-the-same-letters) | Coding | Single report | Mar 2026 |
@@ -57,23 +58,30 @@ What each round grades, its AI policy and how to prep: [Amazon interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Tell me about a time you dove deep to find a root cause](https://landthelab.com/questions/tell-me-about-a-time-you-dove-deep-to-find-a-root-cause) | Behavioral | High | Nov 2026 |
+| [Tell me about a time you met a tight deadline](https://landthelab.com/questions/tell-me-about-a-time-you-met-a-tight-deadline) | Behavioral | High | Nov 2026 |
+| [Tell me about a time you went beyond your responsibilities](https://landthelab.com/questions/tell-me-about-a-time-you-went-beyond-your-responsibilities) | Behavioral | High | Nov 2026 |
+| [Tell me about a time you learned something new to solve a problem](https://landthelab.com/questions/tell-me-about-a-time-you-learned-something-new-to-solve-a-problem) | Behavioral | Medium | Nov 2026 |
+| [Design a parking lot](https://landthelab.com/questions/design-a-parking-lot) | OO design | Single report | Nov 2026 |
+| [Ticket reservations with 10-minute holds and a per-user cap](https://landthelab.com/questions/ticket-reservations-with-10-minute-holds-and-a-per-user-cap) | OO design | Single report | Nov 2026 |
+| [Copy a linked list with random pointers](https://landthelab.com/questions/copy-a-linked-list-with-random-pointers) | Coding | Single report | Oct 2026 |
+| [Count the set bits in a 32-bit unsigned integer](https://landthelab.com/questions/count-the-set-bits-in-a-32-bit-unsigned-integer) | Coding | Single report | Oct 2026 |
+| [Design a power-loss-safe bootloader for firmware updates](https://landthelab.com/questions/design-a-power-loss-safe-bootloader-for-firmware-updates) | System design | Single report | Oct 2026 |
+| [Reverse a string in place](https://landthelab.com/questions/reverse-a-string-in-place) | Coding | Single report | Oct 2026 |
+| [Concatenated words: find words built from other words in the list](https://landthelab.com/questions/concatenated-words-find-words-built-from-other-words-in-the-list) | Coding | Low | Oct 2026 |
+| [Longest streak of consecutive login days by one user](https://landthelab.com/questions/longest-streak-of-consecutive-login-days-by-one-user) | Coding | Single report | Oct 2026 |
 | [AI-agent security detection over streaming telemetry](https://landthelab.com/questions/ai-agent-security-detection-over-streaming-telemetry) | System design | Single report | Oct 2026 |
 | [Find every recipe you can make from your supplies](https://landthelab.com/questions/find-every-recipe-you-can-make-from-your-supplies) | Coding | Single report | Oct 2026 |
 | [Minimum time to finish dependent steps run in parallel](https://landthelab.com/questions/minimum-time-to-finish-dependent-steps-run-in-parallel) | Coding | Single report | Oct 2026 |
 | [Tell me about a time you overcame a major obstacle](https://landthelab.com/questions/tell-me-about-a-time-you-overcame-a-major-obstacle) | Behavioral | Medium | Oct 2026 |
 | [Tell me about a time you improved things for a customer](https://landthelab.com/questions/tell-me-about-a-time-you-improved-things-for-a-customer) | Behavioral | Low | Oct 2026 |
-| [Concatenated words: find words built from other words in the list](https://landthelab.com/questions/concatenated-words-find-words-built-from-other-words-in-the-list) | Coding | Low | Oct 2026 |
 | [Fewest moves for a chess piece to capture the king](https://landthelab.com/questions/fewest-moves-for-a-chess-piece-to-capture-the-king) | Coding | Single report | Oct 2026 |
-| [Tell me about a time you met a tight deadline](https://landthelab.com/questions/tell-me-about-a-time-you-met-a-tight-deadline) | Behavioral | High | Sep 2026 |
-| [Tell me about a time you went beyond your responsibilities](https://landthelab.com/questions/tell-me-about-a-time-you-went-beyond-your-responsibilities) | Behavioral | High | Sep 2026 |
 | [Evaluate division: answer ratio queries from known equations](https://landthelab.com/questions/evaluate-division-answer-ratio-queries-from-known-equations) | Coding | Single report | Sep 2026 |
-| [Tell me about a time you dove deep to find a root cause](https://landthelab.com/questions/tell-me-about-a-time-you-dove-deep-to-find-a-root-cause) | Behavioral | High | Sep 2026 |
 | [Coordinate a fleet of restaurant robots](https://landthelab.com/questions/coordinate-a-fleet-of-restaurant-robots) | System design | Single report | Sep 2026 |
 | [Design a Kafka-based file watcher for millions of files](https://landthelab.com/questions/design-a-kafka-based-file-watcher-for-millions-of-files) | System design | Single report | Sep 2026 |
 | [Grid reachability for a robot that cannot reverse](https://landthelab.com/questions/grid-reachability-for-a-robot-that-cannot-reverse) | Coding | Single report | Sep 2026 |
 | [Lowest common ancestor in a binary search tree](https://landthelab.com/questions/lowest-common-ancestor-in-a-binary-search-tree) | Coding | Low | Sep 2026 |
 | [Ones and zeroes: most strings within zero and one budgets](https://landthelab.com/questions/ones-and-zeroes-most-strings-within-zero-and-one-budgets) | Coding | Single report | Sep 2026 |
-| [Tell me about a time you learned something new to solve a problem](https://landthelab.com/questions/tell-me-about-a-time-you-learned-something-new-to-solve-a-problem) | Behavioral | Medium | Sep 2026 |
 | [Predict click-through rate for music recommendations](https://landthelab.com/questions/predict-click-through-rate-for-music-recommendations) | AI/ML design | Single report | Sep 2026 |
 | [Tell me about a time you got critical feedback](https://landthelab.com/questions/tell-me-about-a-time-you-got-critical-feedback) | Behavioral | Low | Sep 2026 |
 | [Design a notification system](https://landthelab.com/questions/design-a-notification-system) | System design | Single report | Sep 2026 |
@@ -156,16 +164,19 @@ What each round grades, its AI policy and how to prep: [Amazon interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Word search with a word search II follow-up](https://landthelab.com/questions/word-search-with-a-word-search-ii-follow-up) | Coding | Low | Nov 2026 |
+| [Fixed-capacity circular buffer with O(1) push and pop](https://landthelab.com/questions/fixed-capacity-circular-buffer-with-o-1-push-and-pop) | Coding | Single report | Oct 2026 |
+| [Maximum overlap of closed intervals](https://landthelab.com/questions/maximum-overlap-of-closed-intervals) | Coding | Single report | Oct 2026 |
+| [Rotting oranges: minutes until every fresh cell spoils](https://landthelab.com/questions/rotting-oranges-minutes-until-every-fresh-cell-spoils) | Coding | Single report | Oct 2026 |
 | [Sliding-window request rate limiter](https://landthelab.com/questions/sliding-window-request-rate-limiter) | Coding | Low | Oct 2026 |
 | [Decide whether two people in a family tree are related](https://landthelab.com/questions/decide-whether-two-people-in-a-family-tree-are-related) | Coding | Single report | Oct 2026 |
 | [Look up a book title typed with missing or extra spaces](https://landthelab.com/questions/look-up-a-book-title-typed-with-missing-or-extra-spaces) | Coding | Single report | Oct 2026 |
 | [Implement an LRU cache](https://landthelab.com/questions/implement-an-lru-cache) | Coding | Single report | Oct 2026 |
-| [Maximum frequency stack: pop the most frequent value](https://landthelab.com/questions/maximum-frequency-stack-pop-the-most-frequent-value) | Coding | Low | Oct 2026 |
 | [Lowest common manager in an org chart](https://landthelab.com/questions/lowest-common-manager-in-an-org-chart) | Coding | Low | Oct 2026 |
+| [Maximum frequency stack: pop the most frequent value](https://landthelab.com/questions/maximum-frequency-stack-pop-the-most-frequent-value) | Coding | Low | Oct 2026 |
 | [Unix find command with pluggable filters](https://landthelab.com/questions/unix-find-command-with-pluggable-filters) | Coding | Medium | Sep 2026 |
 | [Merge sorted event streams into one timestamp-ordered iterator](https://landthelab.com/questions/merge-sorted-event-streams-into-one-timestamp-ordered-iterator) | Coding | Single report | Sep 2026 |
 | [Order dependent tasks and find what must rerun](https://landthelab.com/questions/order-dependent-tasks-and-find-what-must-rerun) | Coding | Single report | Sep 2026 |
-| [Word search with a word search II follow-up](https://landthelab.com/questions/word-search-with-a-word-search-ii-follow-up) | Coding | Low | Sep 2026 |
 | [Checkout price engine with pluggable discounts](https://landthelab.com/questions/checkout-price-engine-with-pluggable-discounts) | OO design | Single report | Sep 2026 |
 | [Design a shopping cart (object-oriented)](https://landthelab.com/questions/design-a-shopping-cart-object-oriented) | OO design | Low | Sep 2026 |
 | [Design a pizza price calculator](https://landthelab.com/questions/design-a-pizza-price-calculator) | OO design | Single report | Sep 2026 |
@@ -187,7 +198,6 @@ What each round grades, its AI policy and how to prep: [Amazon interview process
 | [Rate-limited event logger that drops repeats within a window](https://landthelab.com/questions/rate-limited-event-logger-that-drops-repeats-within-a-window) | Coding | Single report | Aug 2026 |
 | [Services that go down when their dependencies shut down](https://landthelab.com/questions/services-that-go-down-when-their-dependencies-shut-down) | Coding | High | Aug 2026 |
 | [Threshold-based database partition rebalancer](https://landthelab.com/questions/threshold-based-database-partition-rebalancer) | Coding | Single report | Jul 2026 |
-| [Maximum overlap of closed intervals](https://landthelab.com/questions/maximum-overlap-of-closed-intervals) | Coding | Single report | Jul 2026 |
 | [Caesar cipher with wraparound shifts](https://landthelab.com/questions/caesar-cipher-with-wraparound-shifts) | Coding | Single report | Jun 2026 |
 | [Design a snake game](https://landthelab.com/questions/design-a-snake-game) | OO design | Single report | Jun 2026 |
 | [Find conflicting calendar events booked in the same room](https://landthelab.com/questions/find-conflicting-calendar-events-booked-in-the-same-room) | Coding | Single report | Jun 2026 |
@@ -261,13 +271,13 @@ What each round grades, its AI policy and how to prep: [Amazon interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [How do you use AI in your work?](https://landthelab.com/questions/how-do-you-use-ai-in-your-work) | Behavioral | Very high | Oct 2026 |
-| [Behavioral stories for the Leadership Principles](https://landthelab.com/questions/behavioral-stories-for-the-leadership-principles) | Behavioral | Very high | Oct 2026 |
+| [Behavioral stories for the Leadership Principles](https://landthelab.com/questions/behavioral-stories-for-the-leadership-principles) | Behavioral | Very high | Nov 2026 |
+| [How do you use AI in your work?](https://landthelab.com/questions/how-do-you-use-ai-in-your-work) | Behavioral | Very high | Nov 2026 |
+| [Tell me about a time you disagreed with your team](https://landthelab.com/questions/tell-me-about-a-time-you-disagreed-with-your-team) | Behavioral | High | Nov 2026 |
+| [Tell me about a mistake you made](https://landthelab.com/questions/tell-me-about-a-mistake-you-made) | Behavioral | Low | Nov 2026 |
 | [Project deep dive: present a project you led](https://landthelab.com/questions/project-deep-dive-present-a-project-you-led) | Behavioral | Medium | Sep 2026 |
-| [Tell me about a time you disagreed with your team](https://landthelab.com/questions/tell-me-about-a-time-you-disagreed-with-your-team) | Behavioral | High | Sep 2026 |
 | [Tell me about a time you decided without all the data](https://landthelab.com/questions/tell-me-about-a-time-you-decided-without-all-the-data) | Behavioral | Medium | Sep 2026 |
 | [Recruiter screen: motivation, background and logistics](https://landthelab.com/questions/recruiter-screen-motivation-background-and-logistics) | Behavioral | Low | Sep 2026 |
-| [Tell me about a mistake you made](https://landthelab.com/questions/tell-me-about-a-mistake-you-made) | Behavioral | Low | Sep 2026 |
 | [Tell me about a time you helped a struggling teammate](https://landthelab.com/questions/tell-me-about-a-time-you-helped-a-struggling-teammate) | Behavioral | Low | Aug 2026 |
 | [Tell me about a time you raised the quality bar](https://landthelab.com/questions/tell-me-about-a-time-you-raised-the-quality-bar) | Behavioral | Single report | Aug 2026 |
 
