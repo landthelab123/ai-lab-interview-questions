@@ -125,6 +125,6 @@ Questions come from candidates' reports and are written up in our own words.
 - [How long AI lab interviews take](https://landthelab.com/ai-interview-timelines)
 - [Forward deployed engineer interview questions](https://landthelab.com/forward-deployed-engineer-interview)
 - [How the data works](https://landthelab.com/about)
-- [Pricing](https://landthelab.com/pricing): one free answer per company, or every answer with a plan
+- [Pricing](https://landthelab.com/pricing): free to start with 5 credits, each unlocking a question and its worked answers; plans unlock every answer
 
 Updated 2026-11-13.

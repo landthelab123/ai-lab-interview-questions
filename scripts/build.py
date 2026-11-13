@@ -195,7 +195,7 @@ def main() -> None:
         f"- [How long AI lab interviews take]({SITE}/ai-interview-timelines)",
         f"- [Forward deployed engineer interview questions]({SITE}/forward-deployed-engineer-interview)",
         f"- [How the data works]({SITE}/about)",
-        f"- [Pricing]({SITE}/pricing): one free answer per company, or every answer with a plan",
+        f"- [Pricing]({SITE}/pricing): free to start with 5 credits, each unlocking a question and its worked answers; plans unlock every answer",
         "",
         f"Updated {date.today().isoformat()}.",
         "",
