@@ -134,7 +134,7 @@ What each round grades, its AI policy and how to prep: [Uber interview process](
 | [Design Uber: ride matching with live driver locations](https://landthelab.com/questions/design-uber-ride-matching-with-live-driver-locations) | System design | Low | Aug 2026 |
 | [Model access permissions in a graph database and migrate to it](https://landthelab.com/questions/model-access-permissions-in-a-graph-database-and-migrate-to-it) | System design | Single report | Jul 2026 |
 | [Design Facebook Messenger: real-time chat for a billion users](https://landthelab.com/questions/design-facebook-messenger-real-time-chat-for-a-billion-users) | System design | Low | Jun 2026 |
-| [Design a logging service](https://landthelab.com/questions/design-a-logging-service) | System design | Single report | Jun 2026 |
+| [Design a central logging service to collect and search fleet logs](https://landthelab.com/questions/design-a-central-logging-service-to-collect-and-search-fleet-logs) | System design | Single report | Jun 2026 |
 | [Design a driver leaderboard based on reviews](https://landthelab.com/questions/design-a-driver-leaderboard-based-on-reviews) | System design | Single report | Jun 2026 |
 | [Design a driver location heatmap](https://landthelab.com/questions/design-a-driver-location-heatmap) | System design | Medium | May 2026 |
 | [Design a stock trading platform](https://landthelab.com/questions/design-a-stock-trading-platform) | System design | Single report | May 2026 |
@@ -161,7 +161,7 @@ What each round grades, its AI policy and how to prep: [Uber interview process](
 | [Design a news feed](https://landthelab.com/questions/design-a-news-feed) | System design |  |  |
 | [Design a traffic forecasting system](https://landthelab.com/questions/design-a-traffic-forecasting-system) | AI/ML design |  |  |
 | [Design an address autofill system](https://landthelab.com/questions/design-an-address-autofill-system) | AI/ML design |  |  |
-| [Design an AI chatbot app](https://landthelab.com/questions/design-an-ai-chatbot-app) | System design |  |  |
+| [Design an AI chatbot app with streaming replies and saved chats](https://landthelab.com/questions/design-an-ai-chatbot-app-with-streaming-replies-and-saved-chats) | System design |  |  |
 | [Design LeetCode: an online judge that runs code submissions](https://landthelab.com/questions/design-leetcode-an-online-judge-that-runs-code-submissions) | System design |  |  |
 | [Folder path from a node id](https://landthelab.com/questions/folder-path-from-a-node-id) | Coding |  |  |
 | [Levels cleared from every starting point](https://landthelab.com/questions/levels-cleared-from-every-starting-point) | Coding |  |  |
@@ -170,4 +170,4 @@ What each round grades, its AI policy and how to prep: [Uber interview process](
 
 ---
 
-Updated 2026-11-13 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).
+Updated 2026-11-16 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).

@@ -88,7 +88,7 @@ What each round grades, its AI policy and how to prep: [Amazon interview process
 | [Temporal key-value store with point-in-time reads and restore](https://landthelab.com/questions/temporal-key-value-store-with-point-in-time-reads-and-restore) | Coding | Single report | Sep 2026 |
 | [Top K frequent elements](https://landthelab.com/questions/top-k-frequent-elements) | Coding | Medium | Sep 2026 |
 | [Valid palindrome ignoring case and punctuation](https://landthelab.com/questions/valid-palindrome-ignoring-case-and-punctuation) | Coding | Single report | Aug 2026 |
-| [Design an AI chatbot app](https://landthelab.com/questions/design-an-ai-chatbot-app) | System design | Low | Aug 2026 |
+| [Design an AI chatbot app with streaming replies and saved chats](https://landthelab.com/questions/design-an-ai-chatbot-app-with-streaming-replies-and-saved-chats) | System design | Low | Aug 2026 |
 | [Tell me about a time you worked through ambiguity](https://landthelab.com/questions/tell-me-about-a-time-you-worked-through-ambiguity) | Behavioral | Low | Aug 2026 |
 | [Earliest pair with a target sum](https://landthelab.com/questions/earliest-pair-with-a-target-sum) | Coding | Single report | Aug 2026 |
 | [Valid parentheses: check that brackets nest properly](https://landthelab.com/questions/valid-parentheses-check-that-brackets-nest-properly) | Coding | Single report | Aug 2026 |
@@ -120,7 +120,7 @@ What each round grades, its AI policy and how to prep: [Amazon interview process
 | [Asteroid collision: resolve moving asteroids with a stack](https://landthelab.com/questions/asteroid-collision-resolve-moving-asteroids-with-a-stack) | Coding | Single report | Jun 2026 |
 | [Design an advertiser metrics tracking platform](https://landthelab.com/questions/design-an-advertiser-metrics-tracking-platform) | System design | Single report | May 2026 |
 | [Filter events and route them to queues](https://landthelab.com/questions/filter-events-and-route-them-to-queues) | Coding | Single report | May 2026 |
-| [Design a logging service](https://landthelab.com/questions/design-a-logging-service) | System design | Single report | May 2026 |
+| [Design a central logging service to collect and search fleet logs](https://landthelab.com/questions/design-a-central-logging-service-to-collect-and-search-fleet-logs) | System design | Single report | May 2026 |
 | [Count connected components in an undirected graph](https://landthelab.com/questions/count-connected-components-in-an-undirected-graph) | Coding | Low | May 2026 |
 | [Design human avoidance for warehouse robots](https://landthelab.com/questions/design-human-avoidance-for-warehouse-robots) | System design | Single report | May 2026 |
 | [Unique pairs with a target sum](https://landthelab.com/questions/unique-pairs-with-a-target-sum) | Coding | Single report | May 2026 |
@@ -350,4 +350,4 @@ What each round grades, its AI policy and how to prep: [Amazon interview process
 
 ---
 
-Updated 2026-11-13 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).
+Updated 2026-11-16 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).

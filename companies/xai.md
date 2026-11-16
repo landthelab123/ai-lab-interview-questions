@@ -72,7 +72,7 @@ What each round grades, its AI policy and how to prep: [SpaceXAI interview proce
 | [Radix cache for integer sequences with LRU eviction](https://landthelab.com/questions/radix-cache-for-integer-sequences-with-lru-eviction) | Coding | Single report | Jan 2026 |
 | [K-th largest value over the last N seconds of a stream](https://landthelab.com/questions/k-th-largest-value-over-the-last-n-seconds-of-a-stream) | Coding | Single report | Jan 2026 |
 | [Key-value store with nested transaction rollback](https://landthelab.com/questions/key-value-store-with-nested-transaction-rollback) | Coding | Single report | Jan 2026 |
-| [Crash-safe on-disk key-value store](https://landthelab.com/questions/crash-safe-on-disk-key-value-store) | Coding | Single report | Jan 2026 |
+| [Build a crash-safe key-value store that keeps every acknowledged write](https://landthelab.com/questions/build-a-crash-safe-key-value-store-that-keeps-every-acknowledged-write) | Coding | Single report | Jan 2026 |
 
 ### System design
 
@@ -105,4 +105,4 @@ What each round grades, its AI policy and how to prep: [SpaceXAI interview proce
 
 ---
 
-Updated 2026-11-13 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).
+Updated 2026-11-16 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).

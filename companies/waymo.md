@@ -87,7 +87,7 @@ What each round grades, its AI policy and how to prep: [Waymo interview process]
 | [Design Uber: ride matching with live driver locations](https://landthelab.com/questions/design-uber-ride-matching-with-live-driver-locations) | System design | High | Sep 2026 |
 | [Design a global caching service for small images](https://landthelab.com/questions/design-a-global-caching-service-for-small-images) | System design | Low | Sep 2026 |
 | [Design a matchmaking service for an online game](https://landthelab.com/questions/design-a-matchmaking-service-for-an-online-game) | System design | Low | Sep 2026 |
-| [Design an AI chatbot app](https://landthelab.com/questions/design-an-ai-chatbot-app) | System design | Low | Sep 2026 |
+| [Design an AI chatbot app with streaming replies and saved chats](https://landthelab.com/questions/design-an-ai-chatbot-app-with-streaming-replies-and-saved-chats) | System design | Low | Sep 2026 |
 | [Design an S3-like object storage system](https://landthelab.com/questions/design-an-s3-like-object-storage-system) | System design | Single report | Sep 2026 |
 | [Design simulation infrastructure to evaluate a self-driving model on limited compute](https://landthelab.com/questions/design-simulation-infrastructure-to-evaluate-a-self-driving-model-on-limited-com) | System design | Single report | Sep 2026 |
 | [Design reliable command delivery between autonomous vehicles and the cloud](https://landthelab.com/questions/design-reliable-command-delivery-between-autonomous-vehicles-and-the-cloud) | System design | Single report | Aug 2026 |
@@ -120,4 +120,4 @@ What each round grades, its AI policy and how to prep: [Waymo interview process]
 
 ---
 
-Updated 2026-11-13 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).
+Updated 2026-11-16 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-16",
  "source": "https://landthelab.com",
  "companies": [
   {
@@ -152,7 +152,7 @@
    "slug": "meta",
    "url": "https://landthelab.com/companies/meta",
    "questions": 173,
-   "last_reported": "2026-11-13",
+   "last_reported": "2026-11-15",
    "loop_summary": "A recruiter call, sometimes a CodeSignal assessment, a 45-minute coding screen, then an onsite that since April 2026 runs AI-enabled: two AI-enabled coding rounds, one or two system design rounds and a behavioral round. Hiring committee and team matching follow.",
    "rounds": [
     {
@@ -201,8 +201,8 @@
    "company": "OpenAI",
    "slug": "openai",
    "url": "https://landthelab.com/companies/openai",
-   "questions": 129,
-   "last_reported": "2026-11-02",
+   "questions": 130,
+   "last_reported": "2026-11-15",
    "loop_summary": "A recruiter call, then technical screens in coding (and system design for many roles), then a virtual final loop of four to six interviews: practical coding, system design, a project presentation and behavioral rounds, followed by team matching. Some onsites now add an agentic coding round, still in beta. Four to eight weeks from the recruiter call to an offer is typical; scheduling can stretch it past two months.",
    "rounds": [
     {
@@ -836,7 +836,7 @@
    "company": "Applied Intuition",
    "slug": "applied-intuition",
    "url": "https://landthelab.com/companies/applied-intuition",
-   "questions": 30,
+   "questions": 29,
    "last_reported": "2026-11-10",
    "loop_summary": "A recruiter call, a CoderPad coding screen and a call with the hiring manager (in either order), then an onsite of design and coding. Since mid-2026 many onsites pair a system design with a two- to three-hour build of it using Claude, followed by a presentation of the result. Two to four weeks from the first call to an offer is typical.",
    "rounds": [
@@ -1157,7 +1157,7 @@
    "slug": "decagon",
    "url": "https://landthelab.com/companies/decagon",
    "questions": 16,
-   "last_reported": "2026-11-13",
+   "last_reported": "2026-11-15",
    "loop_summary": "A recruiter call and a practical coding screen, then an onsite of pair coding, agent-system design, a project deep dive and a values round; three to four weeks overall.",
    "rounds": [
     {
@@ -1498,6 +1498,56 @@
    ]
   },
   {
+   "company": "Sierra",
+   "slug": "sierra",
+   "url": "https://landthelab.com/companies/sierra",
+   "questions": 9,
+   "last_reported": "2026-11-01",
+   "loop_summary": "A recruiter call and one coding screen, then an onsite built around AI coding tools: a three-and-a-half-hour AI-native build (plan a project with the interviewer, build it alone for two hours with coding agents, then demo it and defend the path to production), a code ownership round (take over a teammate's PR and make it shippable, or add a feature to an existing app) and a work-experience conversation with the hiring manager. Agent engineer loops have used a take-home support agent and its presentation in place of the build. Two to five weeks from the first call to an offer is typical.",
+   "rounds": [
+    {
+     "name": "Recruiter screen",
+     "minutes": 30,
+     "format": "Call"
+    },
+    {
+     "name": "Technical phone screen",
+     "minutes": 60,
+     "format": "One live coding problem in Python or TypeScript"
+    },
+    {
+     "name": "AI-native build",
+     "minutes": 210,
+     "format": "30 minutes choosing and scoping a project with the interviewer, 2 hours building it alone on your laptop, then 1 hour: a 10-minute demo, 45 minutes of code review and path to production that you lead, 5 minutes of questions"
+    },
+    {
+     "name": "Code ownership",
+     "minutes": null,
+     "format": "One of two, announced ahead: take over a teammate's PR in a small codebase and get it to shippable by finding and fixing what blocks it (debugging), or add a feature to a small existing app (feature development); you run the app locally, over Zoom"
+    },
+    {
+     "name": "Work experience",
+     "minutes": 60,
+     "format": "Conversation with the hiring manager that goes through your whole resume from graduation on: why each job switch, what motivated it, the engineer you respect most, and what your manager would say you are good and bad at"
+    },
+    {
+     "name": "Take-home agent (agent engineer loops)",
+     "minutes": null,
+     "format": "Build a customer-support AI agent for a made-up client and choose which features to ship; an OpenAI key is provided"
+    },
+    {
+     "name": "Agent presentation (agent engineer loops)",
+     "minutes": 60,
+     "format": "Half a walkthrough of your take-home agent, half a talk on a technical topic of your choice for a non-technical audience"
+    },
+    {
+     "name": "Other questions",
+     "minutes": null,
+     "format": null
+    }
+   ]
+  },
+  {
    "company": "ElevenLabs",
    "slug": "elevenlabs",
    "url": "https://landthelab.com/companies/elevenlabs",
@@ -1704,51 +1754,6 @@
      "name": "Team and leader conversations",
      "minutes": null,
      "format": "Two to four sessions with engineers from different teams, then 30 to 45 minutes with a senior leader"
-    }
-   ]
-  },
-  {
-   "company": "Sierra",
-   "slug": "sierra",
-   "url": "https://landthelab.com/companies/sierra",
-   "questions": 8,
-   "last_reported": "2026-11-01",
-   "loop_summary": "Built around a take-home: a recruiter call, one coding screen, a take-home customer-support agent, then an in-person onsite with a debugging round, a presentation of your agent and a hiring manager conversation. Two to five weeks from the first call to an offer is typical; the take-home adds the most time.",
-   "rounds": [
-    {
-     "name": "Recruiter screen",
-     "minutes": 30,
-     "format": "Call"
-    },
-    {
-     "name": "Technical phone screen",
-     "minutes": 60,
-     "format": "One live coding problem in Python or TypeScript"
-    },
-    {
-     "name": "Take-home agent",
-     "minutes": null,
-     "format": "Build a customer-support AI agent for a made-up client and choose which features to ship; an OpenAI key is provided"
-    },
-    {
-     "name": "Debugging",
-     "minutes": 60,
-     "format": "A small repo that implements one feature end to end (a Python retention agent in a 2026 report, a TypeScript and React app in earlier ones) with several customer-reported bugs: reproduce each, find the root cause, fix it and prove the flow works end to end"
-    },
-    {
-     "name": "Agent presentation",
-     "minutes": 60,
-     "format": "Half a walkthrough of your take-home agent, half a talk on a technical topic of your choice for a non-technical audience"
-    },
-    {
-     "name": "Hiring manager",
-     "minutes": 60,
-     "format": "Conversation with the hiring manager that goes through your whole resume from graduation on: why each job switch, what motivated it, the engineer you respect most, and what your manager would say you are good and bad at"
-    },
-    {
-     "name": "Other questions",
-     "minutes": null,
-     "format": null
     }
    ]
   },

@@ -62,4 +62,4 @@ What each round grades, its AI policy and how to prep: [Perplexity interview pro
 
 ---
 
-Updated 2026-11-13 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).
+Updated 2026-11-16 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).

@@ -95,4 +95,4 @@ What each round grades, its AI policy and how to prep: [Netflix interview proces
 
 ---
 
-Updated 2026-11-13 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).
+Updated 2026-11-16 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).

@@ -220,7 +220,7 @@ Amazon,amazon,Design a highly available load balancer,https://landthelab.com/que
 Amazon,amazon,Design human avoidance for warehouse robots,https://landthelab.com/questions/design-human-avoidance-for-warehouse-robots,System design,phone_screen,Single report,2026-05-11
 Amazon,amazon,"In-memory sentence index with add, remove and all-words search",https://landthelab.com/questions/in-memory-sentence-index-with-add-remove-and-all-words-search,Coding,coding,Single report,2026-05-11
 Amazon,amazon,Count connected components in an undirected graph,https://landthelab.com/questions/count-connected-components-in-an-undirected-graph,Coding,phone_screen,Low,2026-05-19
-Amazon,amazon,Design a logging service,https://landthelab.com/questions/design-a-logging-service,System design,phone_screen,Single report,2026-05-22
+Amazon,amazon,Design a central logging service to collect and search fleet logs,https://landthelab.com/questions/design-a-central-logging-service-to-collect-and-search-fleet-logs,System design,phone_screen,Single report,2026-05-22
 Amazon,amazon,Design Uber: ride matching with live driver locations,https://landthelab.com/questions/design-uber-ride-matching-with-live-driver-locations,System design,system_design,Single report,2026-05-22
 Amazon,amazon,Most common website visit pattern,https://landthelab.com/questions/most-common-website-visit-pattern,Coding,coding,Single report,2026-05-23
 Amazon,amazon,Sort an array with rotate and flip operations,https://landthelab.com/questions/sort-an-array-with-rotate-and-flip-operations,Coding,oa,Single report,2026-05-25
@@ -276,7 +276,7 @@ Amazon,amazon,Angle between clock hands,https://landthelab.com/questions/angle-b
 Amazon,amazon,Write a Bayesian classifier and judge cases with it,https://landthelab.com/questions/write-a-bayesian-classifier-and-judge-cases-with-it,AI/ML design,system_design,Single report,2026-08-15
 Amazon,amazon,Services that go down when their dependencies shut down,https://landthelab.com/questions/services-that-go-down-when-their-dependencies-shut-down,Coding,coding,High,2026-08-16
 Amazon,amazon,Count customers who visited on more than one date,https://landthelab.com/questions/count-customers-who-visited-on-more-than-one-date,Coding,phone_screen,Single report,2026-08-16
-Amazon,amazon,Design an AI chatbot app,https://landthelab.com/questions/design-an-ai-chatbot-app,System design,phone_screen,Low,2026-08-19
+Amazon,amazon,Design an AI chatbot app with streaming replies and saved chats,https://landthelab.com/questions/design-an-ai-chatbot-app-with-streaming-replies-and-saved-chats,System design,phone_screen,Low,2026-08-19
 Amazon,amazon,Tell me about a time you worked through ambiguity,https://landthelab.com/questions/tell-me-about-a-time-you-worked-through-ambiguity,Behavioral,phone_screen,Low,2026-08-19
 Amazon,amazon,Earliest pair with a target sum,https://landthelab.com/questions/earliest-pair-with-a-target-sum,Coding,phone_screen,Single report,2026-08-19
 Amazon,amazon,Valid parentheses: check that brackets nest properly,https://landthelab.com/questions/valid-parentheses-check-that-brackets-nest-properly,Coding,phone_screen,Single report,2026-08-19
@@ -429,7 +429,7 @@ Anthropic,anthropic,"Fix a function-cache key function, then make it durable",ht
 Anthropic,anthropic,"Banking system with transfers, cashback and account merges",https://landthelab.com/questions/banking-system-with-transfers-cashback-and-account-merges,Coding,coding,Medium,2026-10-13
 Anthropic,anthropic,Design an AI prompt playground,https://landthelab.com/questions/design-an-ai-prompt-playground,System design,system_design,High,2026-10-14
 Anthropic,anthropic,Recruiter screen on why Anthropic,https://landthelab.com/questions/recruiter-screen-on-why-anthropic,Behavioral,recruiter_screen,Very high,2026-10-18
-Anthropic,anthropic,Batched LLM inference API over GPUs,https://landthelab.com/questions/batched-llm-inference-api-over-gpus,System design,system_design,Very high,2026-10-21
+Anthropic,anthropic,Design an LLM inference API that batches requests on GPUs,https://landthelab.com/questions/design-an-llm-inference-api-that-batches-requests-on-gpus,System design,system_design,Very high,2026-10-21
 Anthropic,anthropic,One-on-one chat system with presence and offline queue,https://landthelab.com/questions/one-on-one-chat-system-with-presence-and-offline-queue,System design,system_design,High,2026-10-23
 Anthropic,anthropic,Concurrent same-host web crawler,https://landthelab.com/questions/concurrent-same-host-web-crawler,Coding,coding,High,2026-10-26
 Anyscale,anyscale,Text justification: fully justify words to a fixed line width,https://landthelab.com/questions/text-justification-fully-justify-words-to-a-fixed-line-width,Coding,phone_screen,Low,2026-08-30
@@ -499,8 +499,8 @@ Apple,apple,Convert a BST to a sorted circular doubly linked list,https://landth
 Apple,apple,Copy a linked list with random pointers,https://landthelab.com/questions/copy-a-linked-list-with-random-pointers,Coding,coding,Single report,2026-06-03
 Apple,apple,Design wallpaper sync across a user's devices,https://landthelab.com/questions/design-wallpaper-sync-across-a-user-s-devices,System design,system_design,Single report,2026-06-03
 Apple,apple,"Behavioral round on ambiguity, conflict and your proudest project",https://landthelab.com/questions/behavioral-round-on-ambiguity-conflict-and-your-proudest-project,Behavioral,values,Medium,2026-06-30
+Apple,apple,Design a central logging service to collect and search fleet logs,https://landthelab.com/questions/design-a-central-logging-service-to-collect-and-search-fleet-logs,System design,system_design,Single report,2026-06-30
 Apple,apple,Design a hotel booking system (object-oriented),https://landthelab.com/questions/design-a-hotel-booking-system-object-oriented,OO design,coding,Single report,2026-06-30
-Apple,apple,Design a logging service,https://landthelab.com/questions/design-a-logging-service,System design,system_design,Single report,2026-06-30
 Apple,apple,Minimal unique word abbreviations,https://landthelab.com/questions/minimal-unique-word-abbreviations,Coding,coding,Single report,2026-06-30
 Apple,apple,Queue using two stacks,https://landthelab.com/questions/queue-using-two-stacks,Coding,coding,Single report,2026-06-30
 Apple,apple,Roman numeral to integer,https://landthelab.com/questions/roman-numeral-to-integer,Coding,coding,Single report,2026-06-30
@@ -540,7 +540,6 @@ Apple,apple,Unit conversion ratio queries with modular answers,https://landthela
 Apple,apple,Is the store open? Hours with split shifts and overnight windows,https://landthelab.com/questions/is-the-store-open-hours-with-split-shifts-and-overnight-windows,Coding,phone_screen,Single report,2026-10-07
 Apple,apple,Validate a binary search tree,https://landthelab.com/questions/validate-a-binary-search-tree,Coding,phone_screen,Single report,2026-10-23
 Apple,apple,Food rating system: top-rated dish in each cuisine,https://landthelab.com/questions/food-rating-system-top-rated-dish-in-each-cuisine,Coding,phone_screen,Single report,2026-10-25
-Applied Intuition,applied-intuition,Project deep dive: present a project you led,https://landthelab.com/questions/project-deep-dive-present-a-project-you-led,Behavioral,hiring_manager,Single report,2025-11-13
 Applied Intuition,applied-intuition,Analyse vehicle speed readings from a JSON feed,https://landthelab.com/questions/analyse-vehicle-speed-readings-from-a-json-feed,Coding,phone_screen,Single report,2025-11-16
 Applied Intuition,applied-intuition,"Report timed-out simulations from start, ping and end events",https://landthelab.com/questions/report-timed-out-simulations-from-start-ping-and-end-events,Coding,phone_screen,Single report,2025-12-08
 Applied Intuition,applied-intuition,Compress a vertex list into unique vertices and indices,https://landthelab.com/questions/compress-a-vertex-list-into-unique-vertices-and-indices,Coding,phone_screen,Single report,2026-02-11
@@ -571,17 +570,17 @@ Applied Intuition,applied-intuition,Key-value store with nested transaction roll
 Applied Intuition,applied-intuition,Design a simulation job scheduler that matches jobs to hardware,https://landthelab.com/questions/design-a-simulation-job-scheduler-that-matches-jobs-to-hardware,System design,system_design,Single report,2026-11-10
 Applied Intuition,applied-intuition,"Hash map with chaining: implement it, make it thread-safe, distribute it",https://landthelab.com/questions/hash-map-with-chaining-implement-it-make-it-thread-safe-distribute-it,Coding,practical,Single report,2026-11-10
 Baseten,baseten,Design a CI/CD system,https://landthelab.com/questions/design-a-ci-cd-system,System design,phone_screen,Single report,
+Baseten,baseten,"Design a job service: submit, run, check status, fetch results",https://landthelab.com/questions/design-a-job-service-submit-run-check-status-fetch-results,System design,phone_screen,Single report,
 Baseten,baseten,Design an LLM inference serving platform,https://landthelab.com/questions/design-an-llm-inference-serving-platform,System design,system_design,Single report,
-Baseten,baseten,Guided system design fundamentals round,https://landthelab.com/questions/guided-system-design-fundamentals-round,System design,phone_screen,Single report,
-Baseten,baseten,Parallel chunked download with integrity check,https://landthelab.com/questions/parallel-chunked-download-with-integrity-check,Coding,phone_screen,Single report,2026-02-12
-Baseten,baseten,Design a pipeline that cleans pod alerts and finds bad pods,https://landthelab.com/questions/design-a-pipeline-that-cleans-pod-alerts-and-finds-bad-pods,System design,phone_screen,Single report,2026-07-02
-Baseten,baseten,Batched LLM inference API over GPUs,https://landthelab.com/questions/batched-llm-inference-api-over-gpus,System design,phone_screen,Single report,2026-07-26
-Baseten,baseten,Crash-safe on-disk key-value store,https://landthelab.com/questions/crash-safe-on-disk-key-value-store,Coding,phone_screen,Single report,2026-08-02
+Baseten,baseten,Download a large file in parallel chunks and verify its checksum,https://landthelab.com/questions/download-a-large-file-in-parallel-chunks-and-verify-its-checksum,Coding,phone_screen,Single report,2026-02-12
+Baseten,baseten,Design an alert pipeline that flags misbehaving Kubernetes pods,https://landthelab.com/questions/design-an-alert-pipeline-that-flags-misbehaving-kubernetes-pods,System design,phone_screen,Single report,2026-07-02
+Baseten,baseten,Design an LLM inference API that batches requests on GPUs,https://landthelab.com/questions/design-an-llm-inference-api-that-batches-requests-on-gpus,System design,phone_screen,Single report,2026-07-26
+Baseten,baseten,Build a crash-safe key-value store that keeps every acknowledged write,https://landthelab.com/questions/build-a-crash-safe-key-value-store-that-keeps-every-acknowledged-write,Coding,phone_screen,Single report,2026-08-02
 Baseten,baseten,Run blocking API calls in parallel with a thread pool,https://landthelab.com/questions/run-blocking-api-calls-in-parallel-with-a-thread-pool,Coding,phone_screen,Single report,2026-08-02
-Baseten,baseten,Design an AI chatbot app,https://landthelab.com/questions/design-an-ai-chatbot-app,System design,system_design,Single report,2026-10-06
-Baseten,baseten,Design a logging service,https://landthelab.com/questions/design-a-logging-service,System design,system_design,Single report,2026-10-13
-Baseten,baseten,One-pass S-expression parser with error reporting,https://landthelab.com/questions/one-pass-s-expression-parser-with-error-reporting,Coding,coding,Single report,2026-10-13
-Baseten,baseten,XOR random number generator to encrypt and decrypt a tree,https://landthelab.com/questions/xor-random-number-generator-to-encrypt-and-decrypt-a-tree,Coding,coding,Single report,2026-10-13
+Baseten,baseten,Design an AI chatbot app with streaming replies and saved chats,https://landthelab.com/questions/design-an-ai-chatbot-app-with-streaming-replies-and-saved-chats,System design,system_design,Single report,2026-10-06
+Baseten,baseten,Design a central logging service to collect and search fleet logs,https://landthelab.com/questions/design-a-central-logging-service-to-collect-and-search-fleet-logs,System design,system_design,Single report,2026-10-13
+Baseten,baseten,Encrypt and decrypt a tree document with an xorshift random generator,https://landthelab.com/questions/encrypt-and-decrypt-a-tree-document-with-an-xorshift-random-generator,Coding,coding,Single report,2026-10-13
+Baseten,baseten,Parse nested S-expressions in one pass with exact error positions,https://landthelab.com/questions/parse-nested-s-expressions-in-one-pass-with-exact-error-positions,Coding,coding,Single report,2026-10-13
 Character.AI,character-ai,Minimum window substring containing every character of a pattern,https://landthelab.com/questions/minimum-window-substring-containing-every-character-of-a-pattern,Coding,phone_screen,Single report,2026-06-02
 Character.AI,character-ai,Mini spreadsheet with formulas and cycle detection,https://landthelab.com/questions/mini-spreadsheet-with-formulas-and-cycle-detection,Coding,phone_screen,Single report,2026-09-25
 Cognition,cognition,Third-largest word by length,https://landthelab.com/questions/third-largest-word-by-length,Coding,oa,Single report,2026-03-01
@@ -701,8 +700,8 @@ Decagon,decagon,Send requests in batches of five and retry failures after a dela
 Decagon,decagon,Design a rule management service for AI agents with drafts and rollback,https://landthelab.com/questions/design-a-rule-management-service-for-ai-agents-with-drafts-and-rollback,System design,phone_screen,Single report,2026-10-14
 Decagon,decagon,Sliding window conversation scores with percentiles,https://landthelab.com/questions/sliding-window-conversation-scores-with-percentiles,Coding,phone_screen,Single report,2026-10-14
 Decagon,decagon,Design a distributed job scheduler,https://landthelab.com/questions/design-a-distributed-job-scheduler,System design,phone_screen,Single report,2026-10-18
-Decagon,decagon,Count legal tic-tac-toe game sequences,https://landthelab.com/questions/count-legal-tic-tac-toe-game-sequences,Coding,phone_screen,Medium,2026-11-13
-Decagon,decagon,Recipe shopping cart with bulk discounts,https://landthelab.com/questions/recipe-shopping-cart-with-bulk-discounts,Coding,phone_screen,Low,2026-11-13
+Decagon,decagon,Count legal tic-tac-toe game sequences,https://landthelab.com/questions/count-legal-tic-tac-toe-game-sequences,Coding,phone_screen,Medium,2026-11-15
+Decagon,decagon,Recipe shopping cart with bulk discounts,https://landthelab.com/questions/recipe-shopping-cart-with-bulk-discounts,Coding,phone_screen,Low,2026-11-15
 ElevenLabs,elevenlabs,Design a collaborative review tool for AI-dubbed video,https://landthelab.com/questions/design-a-collaborative-review-tool-for-ai-dubbed-video,System design,design_review,Single report,2025-12-01
 ElevenLabs,elevenlabs,Highlight the transcript line being spoken during audio playback,https://landthelab.com/questions/highlight-the-transcript-line-being-spoken-during-audio-playback,Coding,practical,Low,2026-04-01
 ElevenLabs,elevenlabs,Deduplicate files by size then content hash,https://landthelab.com/questions/deduplicate-files-by-size-then-content-hash,Coding,practical,Single report,2026-04-01
@@ -1336,7 +1335,7 @@ Meta,meta,Design a news feed,https://landthelab.com/questions/design-a-news-feed
 Meta,meta,Design an ad click aggregation system,https://landthelab.com/questions/design-an-ad-click-aggregation-system,System design,system_design,Low,2026-11-01
 Meta,meta,Schedule recipe steps across three chefs to finish an order fastest,https://landthelab.com/questions/schedule-recipe-steps-across-three-chefs-to-finish-an-order-fastest,Coding,phone_screen,Single report,2026-11-01
 Meta,meta,"Task manager: filter, deduplicate, sort, then order subtasks around parents",https://landthelab.com/questions/task-manager-filter-deduplicate-sort-then-order-subtasks-around-parents,Coding,phone_screen,Single report,2026-11-07
-Meta,meta,Design a rate limiter,https://landthelab.com/questions/design-a-rate-limiter,System design,system_design,,2026-11-13
+Meta,meta,Design a rate limiter,https://landthelab.com/questions/design-a-rate-limiter,System design,system_design,,2026-11-15
 Microsoft,microsoft,Assign node labels to maximize the total edge sum,https://landthelab.com/questions/assign-node-labels-to-maximize-the-total-edge-sum,Coding,unconfirmed,,
 Microsoft,microsoft,Build the longest spike from an array,https://landthelab.com/questions/build-the-longest-spike-from-an-array,Coding,unconfirmed,,
 Microsoft,microsoft,Compress an n-ary tree by promoting children,https://landthelab.com/questions/compress-an-n-ary-tree-by-promoting-children,Coding,unconfirmed,,
@@ -1427,7 +1426,7 @@ Microsoft,microsoft,Distance from every desk to its nearest bathroom,https://lan
 Microsoft,microsoft,Populate next pointers in a perfect binary tree,https://landthelab.com/questions/populate-next-pointers-in-a-perfect-binary-tree,Coding,coding,Single report,2026-02-07
 Microsoft,microsoft,Design a RAG assistant with agentic tools,https://landthelab.com/questions/design-a-rag-assistant-with-agentic-tools,System design,phone_screen,Low,2026-02-09
 Microsoft,microsoft,Closest latency pairs by minimum absolute difference,https://landthelab.com/questions/closest-latency-pairs-by-minimum-absolute-difference,Coding,phone_screen,Single report,2026-02-09
-Microsoft,microsoft,Design a logging service,https://landthelab.com/questions/design-a-logging-service,System design,phone_screen,Single report,2026-02-09
+Microsoft,microsoft,Design a central logging service to collect and search fleet logs,https://landthelab.com/questions/design-a-central-logging-service-to-collect-and-search-fleet-logs,System design,phone_screen,Single report,2026-02-09
 Microsoft,microsoft,Precision and recall at k from a flaky top-k API,https://landthelab.com/questions/precision-and-recall-at-k-from-a-flaky-top-k-api,Coding,phone_screen,Single report,2026-02-09
 Microsoft,microsoft,Decode a JWT by hand and explain browser authentication,https://landthelab.com/questions/decode-a-jwt-by-hand-and-explain-browser-authentication,Coding,coding,Low,2026-02-11
 Microsoft,microsoft,Sliding-window request rate limiter,https://landthelab.com/questions/sliding-window-request-rate-limiter,Coding,coding,Low,2026-02-11
@@ -1450,7 +1449,7 @@ Microsoft,microsoft,Memory management in Python and Java,https://landthelab.com/
 Microsoft,microsoft,Merge intervals: combine every overlapping range,https://landthelab.com/questions/merge-intervals-combine-every-overlapping-range,Coding,coding,Low,2026-02-23
 Microsoft,microsoft,Design a Slack-like chat system,https://landthelab.com/questions/design-a-slack-like-chat-system,System design,system_design,Single report,2026-02-23
 Microsoft,microsoft,Design an online chess game,https://landthelab.com/questions/design-an-online-chess-game,System design,system_design,Single report,2026-02-23
-Microsoft,microsoft,Design an AI chatbot app,https://landthelab.com/questions/design-an-ai-chatbot-app,System design,phone_screen,Single report,2026-03-01
+Microsoft,microsoft,Design an AI chatbot app with streaming replies and saved chats,https://landthelab.com/questions/design-an-ai-chatbot-app-with-streaming-replies-and-saved-chats,System design,phone_screen,Single report,2026-03-01
 Microsoft,microsoft,Final discounted prices and the items sold at full price,https://landthelab.com/questions/final-discounted-prices-and-the-items-sold-at-full-price,Coding,phone_screen,Single report,2026-03-01
 Microsoft,microsoft,Typed task lock for mutually exclusive job types,https://landthelab.com/questions/typed-task-lock-for-mutually-exclusive-job-types,Coding,coding,Single report,2026-03-01
 Microsoft,microsoft,Truncate model output at the first stop sequence,https://landthelab.com/questions/truncate-model-output-at-the-first-stop-sequence,Coding,coding,Low,2026-03-03
@@ -1782,7 +1781,7 @@ OpenAI,openai,Lexicographically smallest topological order,https://landthelab.co
 OpenAI,openai,"Hiring manager call: your past work, interests and latest project",https://landthelab.com/questions/hiring-manager-call-your-past-work-interests-and-latest-project,Behavioral,phone_screen,Single report,2026-09-19
 OpenAI,openai,Minimal reverse-mode autograd engine,https://landthelab.com/questions/minimal-reverse-mode-autograd-engine,Coding,phone_screen,Single report,2026-09-19
 OpenAI,openai,Toy language type inference with generics and tuples,https://landthelab.com/questions/toy-language-type-inference-with-generics-and-tuples,Coding,phone_screen,High,2026-09-20
-OpenAI,openai,Crash-safe on-disk key-value store,https://landthelab.com/questions/crash-safe-on-disk-key-value-store,Coding,coding,Low,2026-09-20
+OpenAI,openai,Build a crash-safe key-value store that keeps every acknowledged write,https://landthelab.com/questions/build-a-crash-safe-key-value-store-that-keeps-every-acknowledged-write,Coding,coding,Low,2026-09-20
 OpenAI,openai,Guess the number with one-call delayed feedback,https://landthelab.com/questions/guess-the-number-with-one-call-delayed-feedback,Coding,coding,Low,2026-09-20
 OpenAI,openai,"ML design for retrieval: embeddings, hybrid search and ranking",https://landthelab.com/questions/ml-design-for-retrieval-embeddings-hybrid-search-and-ranking,AI/ML design,system_design,Low,2026-09-20
 OpenAI,openai,Event counter over a trailing 15-minute window with a ring buffer,https://landthelab.com/questions/event-counter-over-a-trailing-15-minute-window-with-a-ring-buffer,Coding,coding,Single report,2026-09-20
@@ -1837,7 +1836,7 @@ OpenAI,openai,Design a real-time multiplayer typing race,https://landthelab.com/
 OpenAI,openai,Design a sandboxed cloud IDE,https://landthelab.com/questions/design-a-sandboxed-cloud-ide,System design,system_design,High,2026-10-16
 OpenAI,openai,Fault-tolerant work queue with leases and retries,https://landthelab.com/questions/fault-tolerant-work-queue-with-leases-and-retries,Coding,coding,Medium,2026-10-16
 OpenAI,openai,Deal five-card poker hands and pick the winners,https://landthelab.com/questions/deal-five-card-poker-hands-and-pick-the-winners,Coding,phone_screen,Low,2026-10-18
-OpenAI,openai,Design an AI chatbot app,https://landthelab.com/questions/design-an-ai-chatbot-app,System design,system_design,Low,2026-10-18
+OpenAI,openai,Design an AI chatbot app with streaming replies and saved chats,https://landthelab.com/questions/design-an-ai-chatbot-app-with-streaming-replies-and-saved-chats,System design,system_design,Low,2026-10-18
 OpenAI,openai,"Behavioral round: conflict, feedback, a cross-team project and your next job",https://landthelab.com/questions/behavioral-round-conflict-feedback-a-cross-team-project-and-your-next-job,Behavioral,values,Single report,2026-10-18
 OpenAI,openai,Per-user chat event counts in a sliding window,https://landthelab.com/questions/per-user-chat-event-counts-in-a-sliding-window,Coding,coding,Low,2026-10-19
 OpenAI,openai,Design an image sharing service that stores each file once,https://landthelab.com/questions/design-an-image-sharing-service-that-stores-each-file-once,System design,system_design,Low,2026-10-22
@@ -1848,6 +1847,7 @@ OpenAI,openai,"Rectangle board with remove-at-cell, batch remove and undo",https
 OpenAI,openai,Design a system to cut power use across smart devices with live usage,https://landthelab.com/questions/design-a-system-to-cut-power-use-across-smart-devices-with-live-usage,System design,system_design,Single report,2026-10-30
 OpenAI,openai,Design a digital game store like Steam,https://landthelab.com/questions/design-a-digital-game-store-like-steam,System design,system_design,Low,2026-10-31
 OpenAI,openai,MNIST classifier: per-example loss bounds and adaptive calibration error,https://landthelab.com/questions/mnist-classifier-per-example-loss-bounds-and-adaptive-calibration-error,AI/ML design,phone_screen,Single report,2026-11-02
+OpenAI,openai,Design the backend for a meeting bot,https://landthelab.com/questions/design-the-backend-for-a-meeting-bot,System design,system_design,Single report,2026-11-15
 Perplexity,perplexity,Apply ordered token merges to a string,https://landthelab.com/questions/apply-ordered-token-merges-to-a-string,Coding,unconfirmed,,
 Perplexity,perplexity,Design an answer engine with citations,https://landthelab.com/questions/design-an-answer-engine-with-citations,System design,ai_system,,
 Perplexity,perplexity,Reservoir sampling and a check that it is uniform,https://landthelab.com/questions/reservoir-sampling-and-a-check-that-it-is-uniform,Coding,phone_screen,Single report,2025-11-19
@@ -1893,18 +1893,19 @@ Scale AI,scale-ai,Task scheduler that pops the earliest deadline once its subtas
 Scale AI,scale-ai,"Shuffle, deal and sort a four-player card hand",https://landthelab.com/questions/shuffle-deal-and-sort-a-four-player-card-hand,Coding,coding,Single report,2026-08-31
 Scale AI,scale-ai,Design a ticket booking system,https://landthelab.com/questions/design-a-ticket-booking-system,System design,ai_system,Single report,2026-10-05
 Scale AI,scale-ai,Design a pipeline around embedding and classification services,https://landthelab.com/questions/design-a-pipeline-around-embedding-and-classification-services,AI/ML design,ai_system,Low,2026-10-15
-Sierra,sierra,Retention agent: fix three bugs in a discount offer engine,https://landthelab.com/questions/retention-agent-fix-three-bugs-in-a-discount-offer-engine,Coding,practical,,
-Sierra,sierra,Print timed text intervals in order and flag overlaps and gaps,https://landthelab.com/questions/print-timed-text-intervals-in-order-and-flag-overlaps-and-gaps,Coding,practical,Single report,2025-11-14
+Sierra,sierra,Retention agent: fix three bugs in a discount offer engine,https://landthelab.com/questions/retention-agent-fix-three-bugs-in-a-discount-offer-engine,Coding,coding,,
 Sierra,sierra,Mini spreadsheet with formulas and cycle detection,https://landthelab.com/questions/mini-spreadsheet-with-formulas-and-cycle-detection,Coding,phone_screen,Low,2025-12-01
 Sierra,sierra,Split Markdown into chunks that keep their headers,https://landthelab.com/questions/split-markdown-into-chunks-that-keep-their-headers,Coding,phone_screen,Single report,2026-05-14
 Sierra,sierra,Design a customer-service AI agent with tools and guardrails,https://landthelab.com/questions/design-a-customer-service-ai-agent-with-tools-and-guardrails,System design,other,,2026-08-01
 Sierra,sierra,Design a resumable streaming voice reply for an AI chat,https://landthelab.com/questions/design-a-resumable-streaming-voice-reply-for-an-ai-chat,System design,other,Low,2026-10-13
 Sierra,sierra,"Agent conversation memory: paginated fetch, token budget, eviction",https://landthelab.com/questions/agent-conversation-memory-paginated-fetch-token-budget-eviction,Coding,phone_screen,Medium,2026-10-24
+Sierra,sierra,Take over a teammate's PR: make live streaming and cancel actually work,https://landthelab.com/questions/take-over-a-teammate-s-pr-make-live-streaming-and-cancel-actually-work,Coding,coding,Single report,2026-10-28
+Sierra,sierra,"AI-native build: scope an app, build it in 2 hours with coding agents, then demo it and plan production",https://landthelab.com/questions/ai-native-build-scope-an-app-build-it-in-2-hours-with-coding-agents-then-demo-it,Coding,practical,Single report,2026-11-01
 Sierra,sierra,Your whole resume: every job switch and what your manager would say,https://landthelab.com/questions/your-whole-resume-every-job-switch-and-what-your-manager-would-say,Behavioral,hiring_manager,,2026-11-01
 Snowflake,snowflake,Connect Four board with gravity drops and board snapshots,https://landthelab.com/questions/connect-four-board-with-gravity-drops-and-board-snapshots,Coding,unconfirmed,,
 Snowflake,snowflake,Count substrings that use only vowels and contain all five,https://landthelab.com/questions/count-substrings-that-use-only-vowels-and-contain-all-five,Coding,unconfirmed,,
+Snowflake,snowflake,Design a central logging service to collect and search fleet logs,https://landthelab.com/questions/design-a-central-logging-service-to-collect-and-search-fleet-logs,System design,unconfirmed,,
 Snowflake,snowflake,Design a distributed key-value store,https://landthelab.com/questions/design-a-distributed-key-value-store,System design,unconfirmed,,
-Snowflake,snowflake,Design a logging service,https://landthelab.com/questions/design-a-logging-service,System design,unconfirmed,,
 Snowflake,snowflake,Design a news feed,https://landthelab.com/questions/design-a-news-feed,System design,unconfirmed,,
 Snowflake,snowflake,Design a rate limiter,https://landthelab.com/questions/design-a-rate-limiter,System design,unconfirmed,,
 Snowflake,snowflake,Design a stock trading platform,https://landthelab.com/questions/design-a-stock-trading-platform,System design,unconfirmed,,
@@ -1985,7 +1986,7 @@ SpaceXAI,xai,Build your story bank,https://landthelab.com/questions/build-your-s
 SpaceXAI,xai,How do you use AI in your work?,https://landthelab.com/questions/how-do-you-use-ai-in-your-work,Behavioral,recruiter_screen,,
 SpaceXAI,xai,"Merge known bigrams in a sentence, leftmost first",https://landthelab.com/questions/merge-known-bigrams-in-a-sentence-leftmost-first,Coding,unconfirmed,,
 SpaceXAI,xai,How would you prevent hallucinations in an LLM-based system?,https://landthelab.com/questions/how-would-you-prevent-hallucinations-in-an-llm-based-system,AI/ML design,recruiter_screen,Single report,2025-11-21
-SpaceXAI,xai,Crash-safe on-disk key-value store,https://landthelab.com/questions/crash-safe-on-disk-key-value-store,Coding,practical,Single report,2026-01-04
+SpaceXAI,xai,Build a crash-safe key-value store that keeps every acknowledged write,https://landthelab.com/questions/build-a-crash-safe-key-value-store-that-keeps-every-acknowledged-write,Coding,practical,Single report,2026-01-04
 SpaceXAI,xai,Design a RAG system over company docs,https://landthelab.com/questions/design-a-rag-system-over-company-docs,System design,system_design,Single report,2026-01-19
 SpaceXAI,xai,Key-value store with nested transaction rollback,https://landthelab.com/questions/key-value-store-with-nested-transaction-rollback,Coding,practical,Single report,2026-01-20
 SpaceXAI,xai,K-th largest value over the last N seconds of a stream,https://landthelab.com/questions/k-th-largest-value-over-the-last-n-seconds-of-a-stream,Coding,practical,Single report,2026-01-22
@@ -2146,7 +2147,7 @@ Together AI,together-ai,Design a GPU scheduling platform,https://landthelab.com/
 Uber,uber,Design a news feed,https://landthelab.com/questions/design-a-news-feed,System design,unconfirmed,,
 Uber,uber,Design a traffic forecasting system,https://landthelab.com/questions/design-a-traffic-forecasting-system,AI/ML design,unconfirmed,,
 Uber,uber,Design an address autofill system,https://landthelab.com/questions/design-an-address-autofill-system,AI/ML design,unconfirmed,,
-Uber,uber,Design an AI chatbot app,https://landthelab.com/questions/design-an-ai-chatbot-app,System design,unconfirmed,,
+Uber,uber,Design an AI chatbot app with streaming replies and saved chats,https://landthelab.com/questions/design-an-ai-chatbot-app-with-streaming-replies-and-saved-chats,System design,unconfirmed,,
 Uber,uber,Design LeetCode: an online judge that runs code submissions,https://landthelab.com/questions/design-leetcode-an-online-judge-that-runs-code-submissions,System design,unconfirmed,,
 Uber,uber,Folder path from a node id,https://landthelab.com/questions/folder-path-from-a-node-id,Coding,unconfirmed,,
 Uber,uber,Levels cleared from every starting point,https://landthelab.com/questions/levels-cleared-from-every-starting-point,Coding,unconfirmed,,
@@ -2226,7 +2227,7 @@ Uber,uber,Maximize pipeline throughput within a scaling budget,https://landthela
 Uber,uber,Minimum triggers to clear linked balls on a grid,https://landthelab.com/questions/minimum-triggers-to-clear-linked-balls-on-a-grid,Coding,oa,Medium,2026-06-04
 Uber,uber,Evaluate nested add and sub expressions,https://landthelab.com/questions/evaluate-nested-add-and-sub-expressions,Coding,phone_screen,Low,2026-06-08
 Uber,uber,Alien dictionary: letter order from a sorted word list,https://landthelab.com/questions/alien-dictionary-letter-order-from-a-sorted-word-list,Coding,coding,Single report,2026-06-08
-Uber,uber,Design a logging service,https://landthelab.com/questions/design-a-logging-service,System design,system_design,Single report,2026-06-08
+Uber,uber,Design a central logging service to collect and search fleet logs,https://landthelab.com/questions/design-a-central-logging-service-to-collect-and-search-fleet-logs,System design,system_design,Single report,2026-06-08
 Uber,uber,Implement an LRU cache,https://landthelab.com/questions/implement-an-lru-cache,Coding,coding,Single report,2026-06-08
 Uber,uber,Social follow graph with point-in-time snapshots,https://landthelab.com/questions/social-follow-graph-with-point-in-time-snapshots,Coding,coding,Single report,2026-06-14
 Uber,uber,Shortest path in a grid with blocked cells,https://landthelab.com/questions/shortest-path-in-a-grid-with-blocked-cells,Coding,coding,Single report,2026-06-19
@@ -2297,7 +2298,7 @@ Waymo,waymo,Autocomplete search bar with a hand-written debounce,https://landthe
 Waymo,waymo,Count squares formed by vertical and horizontal segments,https://landthelab.com/questions/count-squares-formed-by-vertical-and-horizontal-segments,Coding,coding,Low,2026-09-10
 Waymo,waymo,Design a global caching service for small images,https://landthelab.com/questions/design-a-global-caching-service-for-small-images,System design,system_design,Low,2026-09-10
 Waymo,waymo,Design a matchmaking service for an online game,https://landthelab.com/questions/design-a-matchmaking-service-for-an-online-game,System design,system_design,Low,2026-09-10
-Waymo,waymo,Design an AI chatbot app,https://landthelab.com/questions/design-an-ai-chatbot-app,System design,system_design,Low,2026-09-10
+Waymo,waymo,Design an AI chatbot app with streaming replies and saved chats,https://landthelab.com/questions/design-an-ai-chatbot-app-with-streaming-replies-and-saved-chats,System design,system_design,Low,2026-09-10
 Waymo,waymo,Filter an n-ary tree by substring and render it indented,https://landthelab.com/questions/filter-an-n-ary-tree-by-substring-and-render-it-indented,Coding,coding,Low,2026-09-10
 Waymo,waymo,"Insert plus, times and parentheses to reach a target",https://landthelab.com/questions/insert-plus-times-and-parentheses-to-reach-a-target,Coding,coding,Low,2026-09-10
 Waymo,waymo,Is a number line fully covered after each landing point?,https://landthelab.com/questions/is-a-number-line-fully-covered-after-each-landing-point,Coding,coding,Low,2026-09-10

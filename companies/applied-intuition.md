@@ -1,6 +1,6 @@
 # Applied Intuition interview questions and loop (2026)
 
-30 engineering interview questions candidates report from Applied Intuition, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[Applied Intuition on Land the Lab](https://landthelab.com/companies/applied-intuition)**.
+29 engineering interview questions candidates report from Applied Intuition, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[Applied Intuition on Land the Lab](https://landthelab.com/companies/applied-intuition)**.
 
 ## The loop
 
@@ -45,7 +45,6 @@ What each round grades, its AI policy and how to prep: [Applied Intuition interv
 | Question | Type | How often | Last asked |
 |---|---|---|---|
 | [Walk through your career decisions](https://landthelab.com/questions/walk-through-your-career-decisions) | Behavioral | High | Oct 2026 |
-| [Project deep dive: present a project you led](https://landthelab.com/questions/project-deep-dive-present-a-project-you-led) | Behavioral | Single report | Nov 2025 |
 
 ### System design
 
@@ -77,4 +76,4 @@ What each round grades, its AI policy and how to prep: [Applied Intuition interv
 
 ---
 
-Updated 2026-11-13 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).
+Updated 2026-11-16 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).

@@ -1,6 +1,6 @@
 # OpenAI interview questions and loop (2026)
 
-129 engineering interview questions candidates report from OpenAI, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[OpenAI on Land the Lab](https://landthelab.com/companies/openai)**.
+130 engineering interview questions candidates report from OpenAI, most recently in Nov 2026. Worked answers, a rubric per level and a prep plan: **[OpenAI on Land the Lab](https://landthelab.com/companies/openai)**.
 
 ## The loop
 
@@ -82,10 +82,11 @@ What each round grades, its AI policy and how to prep: [OpenAI interview process
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
+| [Design the backend for a meeting bot](https://landthelab.com/questions/design-the-backend-for-a-meeting-bot) | System design | Single report | Nov 2026 |
 | [Design a digital game store like Steam](https://landthelab.com/questions/design-a-digital-game-store-like-steam) | System design | Low | Oct 2026 |
 | [Design a system to cut power use across smart devices with live usage](https://landthelab.com/questions/design-a-system-to-cut-power-use-across-smart-devices-with-live-usage) | System design | Single report | Oct 2026 |
 | [Design an image sharing service that stores each file once](https://landthelab.com/questions/design-an-image-sharing-service-that-stores-each-file-once) | System design | Low | Oct 2026 |
-| [Design an AI chatbot app](https://landthelab.com/questions/design-an-ai-chatbot-app) | System design | Low | Oct 2026 |
+| [Design an AI chatbot app with streaming replies and saved chats](https://landthelab.com/questions/design-an-ai-chatbot-app-with-streaming-replies-and-saved-chats) | System design | Low | Oct 2026 |
 | [Design a sandboxed cloud IDE](https://landthelab.com/questions/design-a-sandboxed-cloud-ide) | System design | High | Oct 2026 |
 | [Design an online chess game](https://landthelab.com/questions/design-an-online-chess-game) | System design | Very high | Oct 2026 |
 | [Design a payment system](https://landthelab.com/questions/design-a-payment-system) | System design | Very high | Oct 2026 |
@@ -151,7 +152,7 @@ What each round grades, its AI policy and how to prep: [OpenAI interview process
 | [Matrix product scan with autograd and a hand-written backward](https://landthelab.com/questions/matrix-product-scan-with-autograd-and-a-hand-written-backward) | Coding | High | Sep 2026 |
 | [Typed task lock for mutually exclusive job types](https://landthelab.com/questions/typed-task-lock-for-mutually-exclusive-job-types) | Coding | Low | Sep 2026 |
 | [IPv4 range iterator with reverse and CIDR support](https://landthelab.com/questions/ipv4-range-iterator-with-reverse-and-cidr-support) | Coding | Medium | Sep 2026 |
-| [Crash-safe on-disk key-value store](https://landthelab.com/questions/crash-safe-on-disk-key-value-store) | Coding | Low | Sep 2026 |
+| [Build a crash-safe key-value store that keeps every acknowledged write](https://landthelab.com/questions/build-a-crash-safe-key-value-store-that-keeps-every-acknowledged-write) | Coding | Low | Sep 2026 |
 | [Guess the number with one-call delayed feedback](https://landthelab.com/questions/guess-the-number-with-one-call-delayed-feedback) | Coding | Low | Sep 2026 |
 | [Event counter over a trailing 15-minute window with a ring buffer](https://landthelab.com/questions/event-counter-over-a-trailing-15-minute-window-with-a-ring-buffer) | Coding | Single report | Sep 2026 |
 | [Memory allocator: leftmost free block and free by owner](https://landthelab.com/questions/memory-allocator-leftmost-free-block-and-free-by-owner) | Coding | Single report | Sep 2026 |
@@ -187,4 +188,4 @@ What each round grades, its AI policy and how to prep: [OpenAI interview process
 
 ---
 
-Updated 2026-11-13 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).
+Updated 2026-11-16 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).

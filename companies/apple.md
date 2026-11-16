@@ -124,7 +124,7 @@ What each round grades, its AI policy and how to prep: [Apple interview process]
 | [Count keywords across a fleet's logs](https://landthelab.com/questions/count-keywords-across-a-fleet-s-logs) | System design | Single report | Aug 2026 |
 | [Design a distributed rate limiter](https://landthelab.com/questions/design-a-distributed-rate-limiter) | System design | Single report | Aug 2026 |
 | [Design cloud photo storage with sync across devices](https://landthelab.com/questions/design-cloud-photo-storage-with-sync-across-devices) | System design | Single report | Aug 2026 |
-| [Design a logging service](https://landthelab.com/questions/design-a-logging-service) | System design | Single report | Jun 2026 |
+| [Design a central logging service to collect and search fleet logs](https://landthelab.com/questions/design-a-central-logging-service-to-collect-and-search-fleet-logs) | System design | Single report | Jun 2026 |
 | [Design wallpaper sync across a user's devices](https://landthelab.com/questions/design-wallpaper-sync-across-a-user-s-devices) | System design | Single report | Jun 2026 |
 | [Design a smartwatch sensor subsystem](https://landthelab.com/questions/design-a-smartwatch-sensor-subsystem) | System design | Single report | Feb 2026 |
 | [Design a CI/CD system](https://landthelab.com/questions/design-a-ci-cd-system) | System design | Single report | Feb 2026 |
@@ -158,4 +158,4 @@ What each round grades, its AI policy and how to prep: [Apple interview process]
 
 ---
 
-Updated 2026-11-13 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).
+Updated 2026-11-16 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).

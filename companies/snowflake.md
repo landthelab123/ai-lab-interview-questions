@@ -114,8 +114,8 @@ What each round grades, its AI policy and how to prep: [Snowflake interview proc
 |---|---|---|---|
 | [Connect Four board with gravity drops and board snapshots](https://landthelab.com/questions/connect-four-board-with-gravity-drops-and-board-snapshots) | Coding |  |  |
 | [Count substrings that use only vowels and contain all five](https://landthelab.com/questions/count-substrings-that-use-only-vowels-and-contain-all-five) | Coding |  |  |
+| [Design a central logging service to collect and search fleet logs](https://landthelab.com/questions/design-a-central-logging-service-to-collect-and-search-fleet-logs) | System design |  |  |
 | [Design a distributed key-value store](https://landthelab.com/questions/design-a-distributed-key-value-store) | System design |  |  |
-| [Design a logging service](https://landthelab.com/questions/design-a-logging-service) | System design |  |  |
 | [Design a news feed](https://landthelab.com/questions/design-a-news-feed) | System design |  |  |
 | [Design a rate limiter](https://landthelab.com/questions/design-a-rate-limiter) | System design |  |  |
 | [Design a stock trading platform](https://landthelab.com/questions/design-a-stock-trading-platform) | System design |  |  |
@@ -131,4 +131,4 @@ What each round grades, its AI policy and how to prep: [Snowflake interview proc
 
 ---
 
-Updated 2026-11-13 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).
+Updated 2026-11-16 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).

@@ -89,12 +89,12 @@ What each round grades, its AI policy and how to prep: [Microsoft interview proc
 | [Snapshot set with frozen insertion-order iterators](https://landthelab.com/questions/snapshot-set-with-frozen-insertion-order-iterators) | Coding | Single report | Mar 2026 |
 | [ML fundamentals deep dive for ML roles](https://landthelab.com/questions/ml-fundamentals-deep-dive-for-ml-roles) | AI/ML design | Medium | Mar 2026 |
 | [Design quality checks for spreadsheet data used to train an LLM](https://landthelab.com/questions/design-quality-checks-for-spreadsheet-data-used-to-train-an-llm) | AI/ML design | Single report | Mar 2026 |
-| [Design an AI chatbot app](https://landthelab.com/questions/design-an-ai-chatbot-app) | System design | Single report | Mar 2026 |
+| [Design an AI chatbot app with streaming replies and saved chats](https://landthelab.com/questions/design-an-ai-chatbot-app-with-streaming-replies-and-saved-chats) | System design | Single report | Mar 2026 |
 | [Final discounted prices and the items sold at full price](https://landthelab.com/questions/final-discounted-prices-and-the-items-sold-at-full-price) | Coding | Single report | Mar 2026 |
 | [Max points on a line](https://landthelab.com/questions/max-points-on-a-line) | Coding | Single report | Feb 2026 |
 | [Design a RAG assistant with agentic tools](https://landthelab.com/questions/design-a-rag-assistant-with-agentic-tools) | System design | Low | Feb 2026 |
 | [Closest latency pairs by minimum absolute difference](https://landthelab.com/questions/closest-latency-pairs-by-minimum-absolute-difference) | Coding | Single report | Feb 2026 |
-| [Design a logging service](https://landthelab.com/questions/design-a-logging-service) | System design | Single report | Feb 2026 |
+| [Design a central logging service to collect and search fleet logs](https://landthelab.com/questions/design-a-central-logging-service-to-collect-and-search-fleet-logs) | System design | Single report | Feb 2026 |
 | [Precision and recall at k from a flaky top-k API](https://landthelab.com/questions/precision-and-recall-at-k-from-a-flaky-top-k-api) | Coding | Single report | Feb 2026 |
 | [Top K frequent elements](https://landthelab.com/questions/top-k-frequent-elements) | Coding | Low | Feb 2026 |
 | [Temporal key-value store with point-in-time reads and restore](https://landthelab.com/questions/temporal-key-value-store-with-point-in-time-reads-and-restore) | Coding | Low | Jan 2026 |
@@ -269,4 +269,4 @@ What each round grades, its AI policy and how to prep: [Microsoft interview proc
 
 ---
 
-Updated 2026-11-13 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).
+Updated 2026-11-16 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).

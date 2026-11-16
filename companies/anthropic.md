@@ -89,7 +89,7 @@ What each round grades, its AI policy and how to prep: [Anthropic interview proc
 | Question | Type | How often | Last asked |
 |---|---|---|---|
 | [One-on-one chat system with presence and offline queue](https://landthelab.com/questions/one-on-one-chat-system-with-presence-and-offline-queue) | System design | High | Oct 2026 |
-| [Batched LLM inference API over GPUs](https://landthelab.com/questions/batched-llm-inference-api-over-gpus) | System design | Very high | Oct 2026 |
+| [Design an LLM inference API that batches requests on GPUs](https://landthelab.com/questions/design-an-llm-inference-api-that-batches-requests-on-gpus) | System design | Very high | Oct 2026 |
 | [Design an AI prompt playground](https://landthelab.com/questions/design-an-ai-prompt-playground) | System design | High | Oct 2026 |
 | [Design a distributed AI model downloader](https://landthelab.com/questions/design-a-distributed-ai-model-downloader) | System design | High | Oct 2026 |
 | [Design a telemetry pipeline that reconciles inconsistent metric names](https://landthelab.com/questions/design-a-telemetry-pipeline-that-reconciles-inconsistent-metric-names) | System design | Low | Sep 2026 |
@@ -131,4 +131,4 @@ What each round grades, its AI policy and how to prep: [Anthropic interview proc
 
 ---
 
-Updated 2026-11-13 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).
+Updated 2026-11-16 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).

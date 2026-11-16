@@ -22,29 +22,29 @@ What each round grades, its AI policy and how to prep: [Baseten interview proces
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [Crash-safe on-disk key-value store](https://landthelab.com/questions/crash-safe-on-disk-key-value-store) | Coding | Single report | Aug 2026 |
+| [Build a crash-safe key-value store that keeps every acknowledged write](https://landthelab.com/questions/build-a-crash-safe-key-value-store-that-keeps-every-acknowledged-write) | Coding | Single report | Aug 2026 |
 | [Run blocking API calls in parallel with a thread pool](https://landthelab.com/questions/run-blocking-api-calls-in-parallel-with-a-thread-pool) | Coding | Single report | Aug 2026 |
-| [Batched LLM inference API over GPUs](https://landthelab.com/questions/batched-llm-inference-api-over-gpus) | System design | Single report | Jul 2026 |
-| [Design a pipeline that cleans pod alerts and finds bad pods](https://landthelab.com/questions/design-a-pipeline-that-cleans-pod-alerts-and-finds-bad-pods) | System design | Single report | Jul 2026 |
-| [Parallel chunked download with integrity check](https://landthelab.com/questions/parallel-chunked-download-with-integrity-check) | Coding | Single report | Feb 2026 |
+| [Design an LLM inference API that batches requests on GPUs](https://landthelab.com/questions/design-an-llm-inference-api-that-batches-requests-on-gpus) | System design | Single report | Jul 2026 |
+| [Design an alert pipeline that flags misbehaving Kubernetes pods](https://landthelab.com/questions/design-an-alert-pipeline-that-flags-misbehaving-kubernetes-pods) | System design | Single report | Jul 2026 |
+| [Download a large file in parallel chunks and verify its checksum](https://landthelab.com/questions/download-a-large-file-in-parallel-chunks-and-verify-its-checksum) | Coding | Single report | Feb 2026 |
 | [Design a CI/CD system](https://landthelab.com/questions/design-a-ci-cd-system) | System design | Single report |  |
-| [Guided system design fundamentals round](https://landthelab.com/questions/guided-system-design-fundamentals-round) | System design | Single report |  |
+| [Design a job service: submit, run, check status, fetch results](https://landthelab.com/questions/design-a-job-service-submit-run-check-status-fetch-results) | System design | Single report |  |
 
 ### Coding
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [One-pass S-expression parser with error reporting](https://landthelab.com/questions/one-pass-s-expression-parser-with-error-reporting) | Coding | Single report | Oct 2026 |
-| [XOR random number generator to encrypt and decrypt a tree](https://landthelab.com/questions/xor-random-number-generator-to-encrypt-and-decrypt-a-tree) | Coding | Single report | Oct 2026 |
+| [Encrypt and decrypt a tree document with an xorshift random generator](https://landthelab.com/questions/encrypt-and-decrypt-a-tree-document-with-an-xorshift-random-generator) | Coding | Single report | Oct 2026 |
+| [Parse nested S-expressions in one pass with exact error positions](https://landthelab.com/questions/parse-nested-s-expressions-in-one-pass-with-exact-error-positions) | Coding | Single report | Oct 2026 |
 
 ### System design
 
 | Question | Type | How often | Last asked |
 |---|---|---|---|
-| [Design a logging service](https://landthelab.com/questions/design-a-logging-service) | System design | Single report | Oct 2026 |
-| [Design an AI chatbot app](https://landthelab.com/questions/design-an-ai-chatbot-app) | System design | Single report | Oct 2026 |
+| [Design a central logging service to collect and search fleet logs](https://landthelab.com/questions/design-a-central-logging-service-to-collect-and-search-fleet-logs) | System design | Single report | Oct 2026 |
+| [Design an AI chatbot app with streaming replies and saved chats](https://landthelab.com/questions/design-an-ai-chatbot-app-with-streaming-replies-and-saved-chats) | System design | Single report | Oct 2026 |
 | [Design an LLM inference serving platform](https://landthelab.com/questions/design-an-llm-inference-serving-platform) | System design | Single report |  |
 
 ---
 
-Updated 2026-11-13 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).
+Updated 2026-11-16 from [Land the Lab](https://landthelab.com). Back to [all companies](../README.md).

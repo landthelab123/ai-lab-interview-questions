@@ -1,6 +1,6 @@
 # AI lab interview questions (2026)
 
-2330 real engineering interview questions from 52 AI labs and top tech companies — OpenAI, Anthropic, Google DeepMind, SpaceXAI and more — by company and round, with how often each is asked and when it was last reported. Updated every week.
+2331 real engineering interview questions from 52 AI labs and top tech companies — OpenAI, Anthropic, Google DeepMind, SpaceXAI and more — by company and round, with how often each is asked and when it was last reported. Updated every week.
 
 Each question links to its page on **[Land the Lab](https://landthelab.com)**, with a worked answer, a rubric for L4/L5/L6 and an AI coach that grades your own attempt.
 
@@ -19,7 +19,7 @@ Free to use with a link back to [Land the Lab](https://landthelab.com).
 
 | Company | Questions | Rounds in the loop | Last reported |
 |---|---|---|---|
-| [OpenAI](companies/openai.md) | 129 | 8 | Nov 2026 |
+| [OpenAI](companies/openai.md) | 130 | 8 | Nov 2026 |
 | [Anthropic](companies/anthropic.md) | 62 | 9 | Oct 2026 |
 | [SpaceXAI](companies/xai.md) | 40 | 8 | Oct 2026 |
 | [Cursor](companies/cursor.md) | 14 | 6 | Oct 2026 |
@@ -70,7 +70,7 @@ Free to use with a link back to [Land the Lab](https://landthelab.com).
 | [Decagon](companies/decagon.md) | 16 | 6 | Nov 2026 |
 | [Perplexity](companies/perplexity.md) | 14 | 8 | Nov 2026 |
 | [Abridge](companies/abridge.md) | 9 | 6 | Oct 2026 |
-| [Sierra](companies/sierra.md) | 8 | 7 | Nov 2026 |
+| [Sierra](companies/sierra.md) | 9 | 8 | Nov 2026 |
 | [Hebbia](companies/hebbia.md) | 7 | 5 | Jun 2026 |
 
 ## Autonomy & robotics
@@ -78,7 +78,7 @@ Free to use with a link back to [Land the Lab](https://landthelab.com).
 | Company | Questions | Rounds in the loop | Last reported |
 |---|---|---|---|
 | [Waymo](companies/waymo.md) | 68 | 7 | Oct 2026 |
-| [Applied Intuition](companies/applied-intuition.md) | 30 | 7 | Nov 2026 |
+| [Applied Intuition](companies/applied-intuition.md) | 29 | 7 | Nov 2026 |
 | [Nuro](companies/nuro.md) | 27 | 5 | Oct 2026 |
 | [Physical Intelligence](companies/physical-intelligence.md) | 2 | 3 | Sep 2026 |
 
@@ -127,4 +127,4 @@ Questions come from candidates' reports and are written up in our own words.
 - [How the data works](https://landthelab.com/about)
 - [Pricing](https://landthelab.com/pricing): free to start with 5 credits, each unlocking a question and its worked answers; plans unlock every answer
 
-Updated 2026-11-13.
+Updated 2026-11-16.
